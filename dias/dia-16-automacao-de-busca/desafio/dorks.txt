@@ -1,0 +1,5 @@
+"pixvelox"
+"pixvelox" site:social.example
+"pixvelox" filetype:pdf
+intitle:"painel pxv"
+inurl:cashback "pix" "código de verificação"

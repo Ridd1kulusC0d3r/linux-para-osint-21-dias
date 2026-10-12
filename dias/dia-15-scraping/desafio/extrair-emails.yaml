@@ -1,0 +1,15 @@
+id: extrair-emails-example
+
+info:
+  name: Extrai e-mails de dominios .example (Dia 15)
+  author: nucleo-coruja
+  severity: info
+
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+    extractors:
+      - type: regex
+        regex:
+          - '[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.example'

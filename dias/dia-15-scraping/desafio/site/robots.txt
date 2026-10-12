@@ -1,0 +1,6 @@
+# robots.txt da PixVelox
+User-agent: *
+Disallow: /painel-interno/
+Disallow: /backup-2026/
+
+Sitemap: https://pixvelox.example/sitemap.xml

@@ -1,0 +1,4 @@
+drwxr-xr-x   2 ftp      ftp          4096 Sep 01  2026 kits
+-rw-r--r--   1 ftp      ftp           512 Sep 01  2026 LEIA-ME.txt
+-rw-r--r--   1 ftp      ftp          1136 Sep 01  2026 kit_golpe_pixvelox.torrent
+drwxr-xr-x   2 ftp      ftp          4096 Sep 03  2026 listas

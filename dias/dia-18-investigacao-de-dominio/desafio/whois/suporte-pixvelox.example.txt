@@ -1,0 +1,44 @@
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the Use and Privacy Policy at https://registro.br/upp ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2026-10-05T10:12:44-03:00 - IP: 198.51.100.200
+
+domain:      suporte-pixvelox.example
+owner:       Beltrana de Tal
+owner-c:     RTPER45
+tech-c:      MAALT12
+nserver:     ns1.marecheia-dns.example
+nsstat:      20261005 AA
+nslastaa:    20261005
+nserver:     ns2.marecheia-dns.example
+nsstat:      20261005 AA
+nslastaa:    20261005
+created:     20260821
+changed:     20260821
+expires:     20270821
+status:      published
+
+nic-hdl-br:  MAALT12
+person:      Ciclano Mare de Tal
+e-mail:      mare.alta.dev@protonmail.example
+country:     BR
+created:     20250811
+changed:     20250811
+
+nic-hdl-br:  RTPER45
+person:      Beltrana de Tal
+e-mail:      beltrana.det@provedor.example
+country:     BR
+created:     20260714
+changed:     20260714
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, CIDR block, IP and ASN.

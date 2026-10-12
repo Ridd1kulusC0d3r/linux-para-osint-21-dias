@@ -1,0 +1,7 @@
+cashback-pix-oficial.example.	300	IN	A	198.51.100.40
+cashback-pix-oficial.example.	3600	IN	NS	ns1.hospedagembarata.example.
+cashback-pix-oficial.example.	3600	IN	NS	ns2.hospedagembarata.example.
+cashback-pix-oficial.example.	3600	IN	MX	10 mail.hospedagembarata.example.
+cashback-pix-oficial.example.	300	IN	TXT	"v=spf1 a mx ~all"
+cashback-pix-oficial.example.	300	IN	TXT	"pxv-verif=02-golpes"
+cashback-pix-oficial.example.	300	IN	TXT	"pxv-verif=04-diferentes"

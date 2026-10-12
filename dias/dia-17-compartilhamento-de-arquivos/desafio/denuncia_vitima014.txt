@@ -1,0 +1,7 @@
+Denúncia — vítima 014 (Betim/MG), 18/09/2026
+A vítima salvou a mensagem do 'suporte' como arquivo e o perito do
+plantão calculou a impressão digital (SHA-256) dela:
+
+  sha256: f51dd55248edc85049c97569c2bb8ea9cbda667ad99f34496b986695253a22e7
+
+Qual roteiro do kit foi usado contra ela?

@@ -159,7 +159,34 @@ window.DIAS = [
   "capitulo": "O torrent do kit",
   "tema": "Compartilhamento de arquivos, torrents e FTP",
   "rank": "B",
-  "hash": "",
+  "hash": "96b8a428719bd16ef9dd4ad832dac73e8c494becc98da331efb5dcdcbdc39d8b",
+  "interativo": false
+ },
+ {
+  "n": 18,
+  "slug": "dia-18-investigacao-de-dominio",
+  "capitulo": "Quem registrou?",
+  "tema": "Investigação de domínio: whois, dig",
+  "rank": "B",
+  "hash": "5c289c5837c515dde484d8cedc860cfc81fdcba2e5a71978c19a4c27441c208a",
+  "interativo": false
+ },
+ {
+  "n": 19,
+  "slug": "dia-19-git-e-github",
+  "capitulo": "O commit apagado",
+  "tema": "Git e GitHub",
+  "rank": "B",
+  "hash": "aa67169c5b3e7f83d8771f0ec9429721f36be3799d90690be5fbf2947e9613e1",
+  "interativo": false
+ },
+ {
+  "n": 20,
+  "slug": "dia-20-ferramentas-uteis",
+  "capitulo": "O script quebrado",
+  "tema": "Ferramentas que facilitam a vida",
+  "rank": "A",
+  "hash": "f6e8d15a113af8cd7890ea8430dca4dd425bb8aaf3191d90436dbb521eacb960",
   "interativo": false
  },
  {

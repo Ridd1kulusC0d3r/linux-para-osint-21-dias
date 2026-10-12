@@ -1,0 +1,44 @@
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the Use and Privacy Policy at https://registro.br/upp ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2026-10-05T10:12:44-03:00 - IP: 198.51.100.200
+
+domain:      cashback-pix-oficial.example
+owner:       Central Cashback
+owner-c:     CBOFC01
+tech-c:      HOSTB09
+nserver:     ns1.hospedagembarata.example
+nsstat:      20261005 AA
+nslastaa:    20261005
+nserver:     ns2.hospedagembarata.example
+nsstat:      20261005 AA
+nslastaa:    20261005
+created:     20230120
+changed:     20260110
+expires:     20270120
+status:      published
+
+nic-hdl-br:  CBOFC01
+person:      Central Cashback
+e-mail:      contato@cashback-pix-oficial.example
+country:     BR
+created:     20230120
+changed:     20230120
+
+nic-hdl-br:  HOSTB09
+person:      Hospedagem Barata Ltda
+e-mail:      abuse@hospedagembarata.example
+country:     BR
+created:     20190505
+changed:     20190505
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, CIDR block, IP and ASN.

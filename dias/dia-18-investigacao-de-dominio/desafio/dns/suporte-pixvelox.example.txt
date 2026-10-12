@@ -1,0 +1,7 @@
+suporte-pixvelox.example.	300	IN	A	203.0.113.66
+suporte-pixvelox.example.	3600	IN	NS	ns1.marecheia-dns.example.
+suporte-pixvelox.example.	3600	IN	NS	ns2.marecheia-dns.example.
+suporte-pixvelox.example.	3600	IN	MX	10 mx.mailpxv.example.
+suporte-pixvelox.example.	300	IN	TXT	"v=spf1 include:_spf.mailpxv.example ~all"
+suporte-pixvelox.example.	300	IN	TXT	"pxv-verif=02-dominios"
+suporte-pixvelox.example.	300	IN	TXT	"pxv-verif=04-so"

@@ -1,0 +1,14 @@
+cd ~/pxv-site
+ls -la
+nano config.env
+git add config.env
+git commit -m "config do painel"
+git push
+git rm config.env
+git commit -m "remove config (ops)"
+git push
+ssh admin@painel.pxv-tunel.example
+bash selo.sh
+bash selo.sh
+shellcheck selo.sh
+history -c
