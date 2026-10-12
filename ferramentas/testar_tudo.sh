@@ -27,7 +27,7 @@ for pasta in dias/dia-*/; do
   if timeout 600 bash "$pasta/comandos.sh" >"$log" 2>&1; then
     # linhas marcadas com [esperado] são erros didáticos, de propósito
     if grep -v '\[esperado\]' "$log" | grep -qE 'command not found|No such file or directory|syntax error'; then
-      grep -v '\[esperado\]' "$log" | grep -nE 'command not found|No such file or directory|syntax error' "$log" | head -n 5
+      grep -v '\[esperado\]' "$log" | grep -nE 'command not found|No such file or directory|syntax error' | head -n 5
       falhou "$nome: comandos.sh terminou com erros no meio"
     else
       ok "comandos.sh"
