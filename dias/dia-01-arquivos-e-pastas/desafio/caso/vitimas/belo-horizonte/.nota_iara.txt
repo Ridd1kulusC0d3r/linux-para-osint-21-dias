@@ -1,0 +1,4 @@
+Muito bem, recruta. Arquivos que começam com ponto ficam ocultos.
+Golpistas também escondem coisas assim. Anote a flag:
+
+VAZANTE{o_que_ninguem_ve}

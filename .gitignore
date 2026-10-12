@@ -1,0 +1,18 @@
+# progresso pessoal (flags que você já acertou)
+.progresso/
+
+# pastas de treino criadas pelos exercícios
+meu-caso/
+caso-*/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# sistemas
+.DS_Store
+Thumbs.db
+
+# dossiê gerado no Dia 21
+dossie-final/

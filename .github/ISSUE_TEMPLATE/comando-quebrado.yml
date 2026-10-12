@@ -1,0 +1,26 @@
+name: 🐛 Comando quebrado
+description: Um comando ou passo do curso não funcionou
+labels: [bug]
+body:
+  - type: input
+    id: dia
+    attributes:
+      label: Dia
+      placeholder: "ex.: Dia 11"
+    validations:
+      required: true
+  - type: dropdown
+    id: ambiente
+    attributes:
+      label: Ambiente
+      options: [Google Colab, GitHub Codespaces, Máquina virtual, WSL, Linux instalado]
+    validations:
+      required: true
+  - type: textarea
+    id: comando
+    attributes:
+      label: Comando e erro
+      description: Cole o comando e a mensagem de erro completa.
+      render: bash
+    validations:
+      required: true

@@ -1,0 +1,6 @@
+# ls aparece de propósito em exemplos didáticos
+disable=SC2012
+# os scripts carregam lib/comum.sh por caminho relativo
+external-sources=true
+# resolve "source ../../lib/comum.sh" a partir da pasta do script
+source-path=SCRIPTDIR

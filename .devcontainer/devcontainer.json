@@ -1,0 +1,24 @@
+{
+  "name": "Linux para OSINT — 21 dias",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": { "version": "3.12" },
+    "ghcr.io/devcontainers/features/go:1": {}
+  },
+  "postCreateCommand": "bash ferramentas/instalar_tudo.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "timonwong.shellcheck",
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    },
+    "codespaces": {
+      "openFiles": ["COMECE-AQUI.md"]
+    }
+  }
+}

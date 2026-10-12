@@ -1,0 +1,22 @@
+name: Testes do curso
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 1"   # toda segunda: detecta ferramenta que mudou de comportamento
+
+jobs:
+  testar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar ferramentas
+        run: bash ferramentas/instalar_tudo.sh completo
+
+      - name: Rodar todos os dias (offline)
+        run: bash ferramentas/testar_tudo.sh

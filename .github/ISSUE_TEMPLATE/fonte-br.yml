@@ -1,0 +1,28 @@
+name: 🇧🇷 Nova fonte brasileira
+description: Sugira uma base pública, API ou ferramenta brasileira para algum dia
+labels: [fonte-br, good first issue]
+body:
+  - type: input
+    id: fonte
+    attributes:
+      label: Fonte
+      placeholder: "ex.: API de CEP da BrasilAPI — https://brasilapi.com.br/docs"
+    validations:
+      required: true
+  - type: input
+    id: dia
+    attributes:
+      label: Em qual dia ela se encaixa?
+      placeholder: "ex.: Dia 5 (curl e APIs)"
+  - type: textarea
+    id: exemplo
+    attributes:
+      label: Exemplo de uso no terminal
+      render: bash
+  - type: checkboxes
+    id: etica
+    attributes:
+      label: Checagem
+      options:
+        - label: A fonte é pública e o uso sugerido respeita a LGPD
+          required: true
