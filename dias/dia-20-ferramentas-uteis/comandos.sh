@@ -48,7 +48,9 @@ rm -r treino
 # Do jeito que está, o script de maré_alta falha. Leia a mensagem de erro:
 # "pasta: command not found" — o Bash achou que "pasta" era um COMANDO.
 titulo "Executando o script quebrado"
-bash desafio/script_quebrado.sh || alerta "falhou, como esperado"
+# O sed marca cada linha de erro com [esperado] — o erro é a lição aqui.
+bash desafio/script_quebrado.sh 2>&1 | sed 's/^/[esperado] /'
+alerta "falhou, como esperado"
 
 # %% Os três erros mais comuns de Bash
 # 1) Espaço em volta do =    nome = "x"   -> roda o comando "nome" com args "=" e "x"
@@ -66,7 +68,7 @@ echo "--- com aspas ---"
 for a in "$pasta"/*.txt; do echo "[$a]"; done
 echo "--- set -x mostra cada comando ANTES de rodar (modo depuração) ---"
 # shellcheck disable=SC2016  # (aspas simples de propósito: o $p é do bash -c)
-bash -x -c 'p="a b"; ls $p' 2>&1 | head -n 3 || true
+bash -x -c 'p="a b"; ls $p' 2>&1 | head -n 3 | sed 's/^/[esperado] /'
 rm -r treino
 
 # %% history: tudo que você digitou

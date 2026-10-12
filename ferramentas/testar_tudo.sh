@@ -25,8 +25,9 @@ for pasta in dias/dia-*/; do
 
   # 1. comandos.sh roda até o fim, sem "command not found" nem arquivo faltando
   if timeout 600 bash "$pasta/comandos.sh" >"$log" 2>&1; then
-    if grep -qE 'command not found|No such file or directory|syntax error' "$log"; then
-      grep -nE 'command not found|No such file or directory|syntax error' "$log" | head -n 5
+    # linhas marcadas com [esperado] são erros didáticos, de propósito
+    if grep -v '\[esperado\]' "$log" | grep -qE 'command not found|No such file or directory|syntax error'; then
+      grep -v '\[esperado\]' "$log" | grep -nE 'command not found|No such file or directory|syntax error' "$log" | head -n 5
       falhou "$nome: comandos.sh terminou com erros no meio"
     else
       ok "comandos.sh"
