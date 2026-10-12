@@ -16,7 +16,12 @@ falhas=0
 log="$(mktemp)"
 trap 'rm -f "$log"' EXIT
 
-falhou() { erro "$1"; falhas=$((falhas + 1)); }
+falhou() {
+  erro "$1"; falhas=$((falhas + 1))
+  # no GitHub Actions, vira um aviso visível no resumo da execução
+  [ -n "${GITHUB_ACTIONS:-}" ] && echo "::error::$1"
+  return 0
+}
 
 for pasta in dias/dia-*/; do
   pasta="${pasta%/}"; nome="$(basename "$pasta")"; nn="${nome#dia-}"; nn="${nn%%-*}"

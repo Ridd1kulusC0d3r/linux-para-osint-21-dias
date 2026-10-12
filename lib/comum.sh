@@ -57,7 +57,7 @@ precisa() {
     $SUDO apt-get update -qq >/dev/null 2>&1 || true
     _APT_ATUALIZADO=1
   fi
-  if DEBIAN_FRONTEND=noninteractive $SUDO apt-get install -y -qq "$pacote" >/dev/null 2>&1; then
+  if $SUDO env DEBIAN_FRONTEND=noninteractive apt-get install -y -qq "$pacote" >/dev/null 2>&1; then
     ok "'$pacote' instalado."
   else
     erro "Não consegui instalar '$pacote'. Tente: $SUDO apt-get install $pacote"

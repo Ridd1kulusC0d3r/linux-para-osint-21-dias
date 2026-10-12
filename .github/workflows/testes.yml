@@ -13,9 +13,12 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 40
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Instalar ferramentas
+        timeout-minutes: 15
+        env:
+          DEBIAN_FRONTEND: noninteractive
         run: bash ferramentas/instalar_tudo.sh completo
 
       - name: Rodar todos os dias (offline)

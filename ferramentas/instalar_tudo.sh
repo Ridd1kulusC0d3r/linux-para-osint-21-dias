@@ -27,7 +27,7 @@ pacotes=("${BASICO[@]}")
 
 titulo "Instalando ${#pacotes[@]} pacotes via apt"
 $SUDO apt-get update -qq
-DEBIAN_FRONTEND=noninteractive $SUDO apt-get install -y -qq "${pacotes[@]}" \
+$SUDO env DEBIAN_FRONTEND=noninteractive apt-get install -y -qq "${pacotes[@]}" \
   && ok "Pacotes apt instalados."
 
 titulo "Instalando ferramentas Python (pip)"
