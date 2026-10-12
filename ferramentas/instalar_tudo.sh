@@ -14,6 +14,7 @@ source lib/comum.sh
 BASICO=(
   zip unzip curl jq tree file whois dnsutils git vim screen cron
   shellcheck html2text xmlstarlet libimage-exiftool-perl poppler-utils
+  bsdextrautils binutils
 )
 COMPLETO=(
   ffmpeg tesseract-ocr tesseract-ocr-por ghostscript pandoc

@@ -1,0 +1,6 @@
+Extrato consolidado — contas de passagem (vítimas 014, 027, 031, 058)
+data        hora   valor        destino
+15/03/2026  03:17  R$ 4.870,00  conta de passagem 7
+22/03/2026  03:17  R$ 2.115,50  conta de passagem 7
+29/03/2026  03:17  R$ 6.300,00  conta de passagem 9
+05/04/2026  03:17  R$ 1.980,00  conta de passagem 9

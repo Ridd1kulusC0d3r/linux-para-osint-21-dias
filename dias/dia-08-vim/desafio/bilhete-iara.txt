@@ -1,0 +1,6 @@
+Recruta,
+o maré_alta esconde rascunhos no log do servidor e troca todo '_' por '#MARE#'.
+Tem dezenas de códigos ali — quase todos são isca.
+O que interessa está na linha 4242. Abra no Vim, vá até ela e desfaça a troca.
+E não salve nada no original: saia com :q!
+— I.

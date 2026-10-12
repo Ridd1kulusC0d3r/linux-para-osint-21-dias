@@ -1,0 +1,10 @@
+dominio,titulo,porta,registrado_em
+pixvelox.example,"PixVelox - o Pix que devolve",443,2026-02-14
+suporte-pixvelox.example,"Suporte PixVelox 24h",443,2026-02-15
+pixvelox-cashback.example,"Cashback PixVelox",80,2026-02-20
+cashback-pix.example,"Cashback Pix oficial",80,2026-02-21
+banco-exemplo.example,"Banco Exemplo - Internet Banking",443,2015-06-01
+loja-ficticia.example,"Loja Fictícia",443,2019-09-10
+pixvel0x.example,"PixVelox - o Pix que devolve",80,2026-03-01
+noticias.example,"Notícias do Brasil",443,2012-01-20
+app-pixvelox.example,"Baixe o app PixVelox",8080,2026-03-02

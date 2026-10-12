@@ -1,0 +1,5 @@
+linha 1: esta linha é para copiar (yy) e colar (p)
+linha 2: esta linha é para apagar (dd)
+linha 3: aqui o maré_alta escreveu PixVelox errado: PixVeloz
+linha 4: corrija o nome no arquivo inteiro com uma substituição global (:%s)
+linha 5: PixVeloz, PixVeloz, PixVeloz

@@ -1,0 +1,22 @@
+# crontab do usuário mare_alta — copiado do servidor 198.51.100.23 (vazamento de 2026-03)
+# m   h    dom mon dow   comando
+MAILTO=""
+SHELL=/bin/bash
+
+# --- manutenção ---
+@reboot                 /home/mare_alta/robo.sh --lote ligar_tudo
+*/5  *    *   *   *     /home/mare_alta/robo.sh --lote checar_painel
+0    */6  *   *   *     /home/mare_alta/robo.sh --lote limpar_rastros
+
+# --- disparos de mensagens falsas ---
+30   9    *   *   1-5   /home/mare_alta/robo.sh --lote cashback_manha
+0    12,18 *  *   *     /home/mare_alta/robo.sh --lote cashback_almoco_e_noite
+45   20   *   *   6     /home/mare_alta/robo.sh --lote sabado_a_noite
+
+# --- saques (o que interessa) ---
+17   3    *   *   1-5   /home/mare_alta/robo.sh --lote saque_dia_util
+3    17   *   *   0     /home/mare_alta/robo.sh --lote saque_fim_de_tarde
+17   3    1   *   *     /home/mare_alta/robo.sh --lote saque_virada_do_mes
+17   3    *   *   0     /home/mare_alta/robo.sh --lote robo_saca_domingo_madrugada
+17   4    *   *   7     /home/mare_alta/robo.sh --lote saque_uma_hora_depois
+0    3    *   *   sun   /home/mare_alta/robo.sh --lote saque_hora_cheia

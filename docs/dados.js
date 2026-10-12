@@ -87,7 +87,7 @@ window.DIAS = [
   "capitulo": "O relógio do robô",
   "tema": "screen e cron",
   "rank": "C",
-  "hash": "",
+  "hash": "e1c19de2bd7d90b6c5c91bf7964e5b205a403606eab791029874a547242e3125",
   "interativo": true
  },
  {
@@ -96,7 +96,7 @@ window.DIAS = [
   "capitulo": "Dois grupos, um número",
   "tema": "sort, uniq, cut, comm, diff",
   "rank": "C",
-  "hash": "",
+  "hash": "a53ec42b3328fcd7b5872ee8c138157c788762efde4bbb47d46c229537297cf1",
   "interativo": false
  },
  {
@@ -105,7 +105,7 @@ window.DIAS = [
   "capitulo": "O vídeo do golpe",
   "tema": "Vídeo, áudio e imagem: ffmpeg, OCR",
   "rank": "C",
-  "hash": "",
+  "hash": "8296b37e641268b46f9992ab697eeee1618df384b1b02a3ec720522b23b2fc71",
   "interativo": false
  },
  {
@@ -114,7 +114,7 @@ window.DIAS = [
   "capitulo": "O contrato",
   "tema": "PDF: texto, imagens e metadados",
   "rank": "C",
-  "hash": "",
+  "hash": "8633958c013d1852b4e603c0c23b427cbd3e8b3a3dddb4f5d19b0d6fb2199baf",
   "interativo": false
  },
  {
@@ -123,7 +123,7 @@ window.DIAS = [
   "capitulo": "A planilha esquecida",
   "tema": "Arquivos Office por dentro",
   "rank": "C",
-  "hash": "",
+  "hash": "9237a86fba0e21d1e039cf806d8ebfda71411baf3ec52a9c664743f3310adc41",
   "interativo": false
  },
  {
@@ -132,6 +132,33 @@ window.DIAS = [
   "capitulo": "O export do grupo",
   "tema": "JSON, XML e CSV: jq, xmlstarlet, csvkit",
   "rank": "C",
+  "hash": "be29405fcaeedbd5bb70a41b89622b6e154a2977080c8d5fb90262a8164c0e1e",
+  "interativo": false
+ },
+ {
+  "n": 15,
+  "slug": "dia-15-scraping",
+  "capitulo": "O site clone",
+  "tema": "Raspagem (scraping)",
+  "rank": "B",
+  "hash": "fa35e744b034bcc504be5bf1dbf4ef507c5c5b0137c9acf93f367a459384308f",
+  "interativo": false
+ },
+ {
+  "n": 16,
+  "slug": "dia-16-automacao-de-busca",
+  "capitulo": "Perguntando ao mundo",
+  "tema": "Automação de buscas",
+  "rank": "B",
+  "hash": "a5c42595b534a774007e9013c5d3f581d7e1a594d6f1ed7a8447e5fe9e57457d",
+  "interativo": false
+ },
+ {
+  "n": 17,
+  "slug": "dia-17-compartilhamento-de-arquivos",
+  "capitulo": "O torrent do kit",
+  "tema": "Compartilhamento de arquivos, torrents e FTP",
+  "rank": "B",
   "hash": "",
   "interativo": false
  },
