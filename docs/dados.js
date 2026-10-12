@@ -33,7 +33,7 @@ window.DIAS = [
   "capitulo": "A caixa trancada",
   "tema": "Instalar programas, zip e unzip",
   "rank": "D",
-  "hash": "",
+  "hash": "e18947613b3fed5d959f7843b34ed0f22f84808abccf13e5baa9319814a6db0a",
   "interativo": false
  },
  {
@@ -42,7 +42,7 @@ window.DIAS = [
   "capitulo": "Duzentas conversas",
   "tema": "Processamento em lote: find, xargs, laços",
   "rank": "D",
-  "hash": "",
+  "hash": "a600b9f98216d949ec105f714a48e03a8bbd8c1899e2004fe8d98bb01a9c0e7f",
   "interativo": false
  },
  {
@@ -51,7 +51,7 @@ window.DIAS = [
   "capitulo": "Bater na porta",
   "tema": "curl, cabeçalhos, redirecionamentos e APIs",
   "rank": "D",
-  "hash": "",
+  "hash": "ceea7aadd87686be34311ef97b6a97e335ced6658dc4b98d35bb8250dc7da66e",
   "interativo": false
  },
  {
@@ -60,7 +60,7 @@ window.DIAS = [
   "capitulo": "Agulha no vazamento",
   "tema": "grep e expressões regulares",
   "rank": "D",
-  "hash": "",
+  "hash": "b19ed7eb61ba8c248f6ce5c5df305edf4e23e5a70e9d91768af37408a527d07b",
   "interativo": false
  },
  {
@@ -69,6 +69,69 @@ window.DIAS = [
   "capitulo": "Seguindo o dinheiro",
   "tema": "sed e awk",
   "rank": "D",
+  "hash": "200016680ba56140146771375edab7221d8c1337e16de6d6e0e836d8a8a1c621",
+  "interativo": false
+ },
+ {
+  "n": 8,
+  "slug": "dia-08-vim",
+  "capitulo": "A linha 4242",
+  "tema": "Editor Vim",
+  "rank": "C",
+  "hash": "92d19bd6dc09563e4527fa4a9f3203f35b841e348ee71a01404f25c3deb90b74",
+  "interativo": true
+ },
+ {
+  "n": 9,
+  "slug": "dia-09-screen-e-cron",
+  "capitulo": "O relógio do robô",
+  "tema": "screen e cron",
+  "rank": "C",
+  "hash": "",
+  "interativo": true
+ },
+ {
+  "n": 10,
+  "slug": "dia-10-utilitarios-de-texto",
+  "capitulo": "Dois grupos, um número",
+  "tema": "sort, uniq, cut, comm, diff",
+  "rank": "C",
+  "hash": "",
+  "interativo": false
+ },
+ {
+  "n": 11,
+  "slug": "dia-11-video-audio-imagem",
+  "capitulo": "O vídeo do golpe",
+  "tema": "Vídeo, áudio e imagem: ffmpeg, OCR",
+  "rank": "C",
+  "hash": "",
+  "interativo": false
+ },
+ {
+  "n": 12,
+  "slug": "dia-12-pdf",
+  "capitulo": "O contrato",
+  "tema": "PDF: texto, imagens e metadados",
+  "rank": "C",
+  "hash": "",
+  "interativo": false
+ },
+ {
+  "n": 13,
+  "slug": "dia-13-arquivos-office",
+  "capitulo": "A planilha esquecida",
+  "tema": "Arquivos Office por dentro",
+  "rank": "C",
+  "hash": "",
+  "interativo": false
+ },
+ {
+  "n": 14,
+  "slug": "dia-14-json-xml-csv",
+  "capitulo": "O export do grupo",
+  "tema": "JSON, XML e CSV: jq, xmlstarlet, csvkit",
+  "rank": "C",
   "hash": "",
   "interativo": false
  },

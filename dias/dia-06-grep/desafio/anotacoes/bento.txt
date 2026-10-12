@@ -1,0 +1,2 @@
+Bento: o log do suporte tem mais de mil linhas. Não leia, filtre.
+Bento: e-mail tem formato. Formato vira regex.

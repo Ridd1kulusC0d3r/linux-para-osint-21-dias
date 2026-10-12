@@ -1,0 +1,2 @@
+https://www.rfc-editor.org/rfc/rfc2606.txt
+https://www.rfc-editor.org/rfc/rfc6761.txt

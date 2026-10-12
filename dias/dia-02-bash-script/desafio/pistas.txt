@@ -1,0 +1,13 @@
+# pistas.txt — copiado do caderno do Bento em 2026-03-02
+# formato: ordem;metodo;dado   (metodos: inverte, numeros, ruido)
+1;inverte;_o
+0;ruido;oirf_efac
+3;inverte;_aibas
+4;numeros;17-21-5-0
+0;ruido;etset_etset
+5;inverte;_ocal
+0;ruido;9_sa_oainuer
+0;ruido;ossi_e_oan
+0;ruido;adarre_ahnes
+6;numeros;18-5-19-15-12-22-5
+2;numeros;2-5-14-20-15-0

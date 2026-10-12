@@ -1,0 +1,1500 @@
+[00001] lucas@pixvelox.example -> vitima356@webmail.example :: abriu atendimento
+[00002] camila@pixvelox.example -> vitima419@webmail.example :: transferiu
+[00003] joao.pedro@pixvelox.example -> vitima281@mailbr.example :: abriu atendimento
+[00004] rafa@pixvelox.example -> vitima383@correio.example :: pediu código
+[00005] marina@pixvelox.example -> vitima288@correio.example :: abriu atendimento
+[00006] bia@pixvelox.example -> vitima142@correio.example :: transferiu
+[00007] bia@pixvelox.example -> vitima463@webmail.example :: abriu atendimento
+[00008] joao.pedro@pixvelox.example -> vitima381@webmail.example :: abriu atendimento
+[00009] rafa@pixvelox.example -> vitima411@caixa-postal.example :: transferiu
+[00010] marina@pixvelox.example -> vitima067@correio.example :: abriu atendimento
+[00011] joao.pedro@pixvelox.example -> vitima087@correio.example :: enviou link
+[00012] lucas@pixvelox.example -> vitima086@correio.example :: abriu atendimento
+[00013] bia@pixvelox.example -> vitima096@correio.example :: pediu código
+[00014] bia@pixvelox.example -> vitima476@webmail.example :: transferiu
+[00015] camila@pixvelox.example -> vitima345@mailbr.example :: pediu código
+[00016] lucas@pixvelox.example -> vitima182@webmail.example :: pediu código
+[00017] camila@pixvelox.example -> vitima430@webmail.example :: encerrou
+[00018] bia@pixvelox.example -> vitima024@caixa-postal.example :: encerrou
+[00019] bia@pixvelox.example -> vitima213@caixa-postal.example :: encerrou
+[00020] marina@pixvelox.example -> vitima349@webmail.example :: pediu código
+[00021] camila@pixvelox.example -> vitima125@correio.example :: pediu código
+[00022] bia@pixvelox.example -> vitima410@correio.example :: enviou link
+[00023] camila@pixvelox.example -> vitima163@mailbr.example :: encerrou
+[00024] bia@pixvelox.example -> vitima023@mailbr.example :: transferiu
+[00025] marina@pixvelox.example -> vitima059@caixa-postal.example :: abriu atendimento
+[00026] joao.pedro@pixvelox.example -> vitima275@webmail.example :: transferiu
+[00027] marina@pixvelox.example -> vitima020@mailbr.example :: transferiu
+[00028] joao.pedro@pixvelox.example -> vitima244@mailbr.example :: abriu atendimento
+[00029] rafa@pixvelox.example -> vitima038@correio.example :: abriu atendimento
+[00030] joao.pedro@pixvelox.example -> vitima114@mailbr.example :: encerrou
+[00031] rafa@pixvelox.example -> vitima178@mailbr.example :: abriu atendimento
+[00032] joao.pedro@pixvelox.example -> vitima445@caixa-postal.example :: transferiu
+[00033] joao.pedro@pixvelox.example -> vitima041@webmail.example :: pediu código
+[00034] marina@pixvelox.example -> vitima272@webmail.example :: abriu atendimento
+[00035] lucas@pixvelox.example -> vitima406@correio.example :: pediu código
+[00036] marina@pixvelox.example -> vitima411@correio.example :: encerrou
+[00037] joao.pedro@pixvelox.example -> vitima017@caixa-postal.example :: encerrou
+[00038] lucas@pixvelox.example -> vitima198@mailbr.example :: abriu atendimento
+[00039] rafa@pixvelox.example -> vitima256@webmail.example :: enviou link
+[00040] camila@pixvelox.example -> vitima189@correio.example :: pediu código
+[00041] marina@pixvelox.example -> vitima074@webmail.example :: transferiu
+[00042] lucas@pixvelox.example -> vitima418@webmail.example :: pediu código
+[00043] bia@pixvelox.example -> vitima132@mailbr.example :: encerrou
+[00044] lucas@pixvelox.example -> vitima138@mailbr.example :: encerrou
+[00045] joao.pedro@pixvelox.example -> vitima421@correio.example :: abriu atendimento
+[00046] lucas@pixvelox.example -> vitima313@caixa-postal.example :: pediu código
+[00047] lucas@pixvelox.example -> vitima242@mailbr.example :: encerrou
+[00048] lucas@pixvelox.example -> vitima093@webmail.example :: encerrou
+[00049] bia@pixvelox.example -> vitima460@webmail.example :: enviou link
+[00050] lucas@pixvelox.example -> vitima196@correio.example :: enviou link
+[00051] marina@pixvelox.example -> vitima286@webmail.example :: abriu atendimento
+[00052] camila@pixvelox.example -> vitima426@caixa-postal.example :: encerrou
+[00053] lucas@pixvelox.example -> vitima435@correio.example :: transferiu
+[00054] lucas@pixvelox.example -> vitima178@correio.example :: transferiu
+[00055] lucas@pixvelox.example -> vitima236@webmail.example :: enviou link
+[00056] rafa@pixvelox.example -> vitima169@caixa-postal.example :: abriu atendimento
+[00057] rafa@pixvelox.example -> vitima417@correio.example :: transferiu
+[00058] camila@pixvelox.example -> vitima154@caixa-postal.example :: encerrou
+[00059] rafa@pixvelox.example -> vitima395@mailbr.example :: encerrou
+[00060] lucas@pixvelox.example -> vitima018@caixa-postal.example :: pediu código
+[00061] joao.pedro@pixvelox.example -> vitima390@mailbr.example :: encerrou
+[00062] rafa@pixvelox.example -> vitima115@correio.example :: enviou link
+[00063] marina@pixvelox.example -> vitima125@mailbr.example :: transferiu
+[00064] marina@pixvelox.example -> vitima142@caixa-postal.example :: abriu atendimento
+[00065] joao.pedro@pixvelox.example -> vitima151@caixa-postal.example :: abriu atendimento
+[00066] rafa@pixvelox.example -> vitima320@mailbr.example :: encerrou
+[00067] bia@pixvelox.example -> vitima194@correio.example :: abriu atendimento
+[00068] lucas@pixvelox.example -> vitima077@mailbr.example :: enviou link
+[00069] bia@pixvelox.example -> vitima327@caixa-postal.example :: pediu código
+[00070] bia@pixvelox.example -> vitima272@webmail.example :: pediu código
+[00071] joao.pedro@pixvelox.example -> vitima115@webmail.example :: abriu atendimento
+[00072] camila@pixvelox.example -> vitima179@webmail.example :: enviou link
+[00073] joao.pedro@pixvelox.example -> vitima400@caixa-postal.example :: enviou link
+[00074] marina@pixvelox.example -> vitima384@webmail.example :: abriu atendimento
+[00075] bia@pixvelox.example -> vitima314@caixa-postal.example :: encerrou
+[00076] rafa@pixvelox.example -> vitima252@correio.example :: pediu código
+[00077] bia@pixvelox.example -> vitima456@caixa-postal.example :: pediu código
+[00078] lucas@pixvelox.example -> vitima252@correio.example :: enviou link
+[00079] bia@pixvelox.example -> vitima186@caixa-postal.example :: encerrou
+[00080] joao.pedro@pixvelox.example -> vitima356@correio.example :: pediu código
+[00081] marina@pixvelox.example -> vitima291@correio.example :: encerrou
+[00082] camila@pixvelox.example -> vitima085@webmail.example :: abriu atendimento
+[00083] lucas@pixvelox.example -> vitima049@correio.example :: pediu código
+[00084] camila@pixvelox.example -> vitima044@mailbr.example :: enviou link
+[00085] joao.pedro@pixvelox.example -> vitima313@correio.example :: transferiu
+[00086] rafa@pixvelox.example -> vitima257@caixa-postal.example :: abriu atendimento
+[00087] lucas@pixvelox.example -> vitima206@caixa-postal.example :: encerrou
+[00088] bia@pixvelox.example -> vitima131@webmail.example :: pediu código
+[00089] marina@pixvelox.example -> vitima311@caixa-postal.example :: encerrou
+[00090] camila@pixvelox.example -> vitima226@mailbr.example :: transferiu
+[00091] marina@pixvelox.example -> vitima189@mailbr.example :: encerrou
+[00092] rafa@pixvelox.example -> vitima040@webmail.example :: enviou link
+[00093] bia@pixvelox.example -> vitima139@caixa-postal.example :: encerrou
+[00094] lucas@pixvelox.example -> vitima392@correio.example :: abriu atendimento
+[00095] lucas@pixvelox.example -> vitima440@mailbr.example :: pediu código
+[00096] camila@pixvelox.example -> vitima144@mailbr.example :: encerrou
+[00097] camila@pixvelox.example -> vitima138@webmail.example :: encerrou
+[00098] camila@pixvelox.example -> vitima301@mailbr.example :: enviou link
+[00099] lucas@pixvelox.example -> vitima244@webmail.example :: enviou link
+[00100] rafa@pixvelox.example -> vitima456@caixa-postal.example :: abriu atendimento
+[00101] rafa@pixvelox.example -> vitima054@webmail.example :: abriu atendimento
+[00102] camila@pixvelox.example -> vitima309@correio.example :: pediu código
+[00103] lucas@pixvelox.example -> vitima394@webmail.example :: abriu atendimento
+[00104] rafa@pixvelox.example -> vitima001@caixa-postal.example :: enviou link
+[00105] rafa@pixvelox.example -> vitima475@mailbr.example :: pediu código
+[00106] camila@pixvelox.example -> vitima021@mailbr.example :: transferiu
+[00107] bia@pixvelox.example -> vitima150@correio.example :: pediu código
+[00108] marina@pixvelox.example -> vitima321@webmail.example :: abriu atendimento
+[00109] joao.pedro@pixvelox.example -> vitima122@mailbr.example :: pediu código
+[00110] lucas@pixvelox.example -> vitima312@correio.example :: pediu código
+[00111] lucas@pixvelox.example -> vitima143@mailbr.example :: abriu atendimento
+[00112] joao.pedro@pixvelox.example -> vitima221@correio.example :: transferiu
+[00113] marina@pixvelox.example -> vitima124@webmail.example :: transferiu
+[00114] joao.pedro@pixvelox.example -> vitima252@webmail.example :: transferiu
+[00115] bia@pixvelox.example -> vitima224@correio.example :: enviou link
+[00116] marina@pixvelox.example -> vitima206@webmail.example :: enviou link
+[00117] camila@pixvelox.example -> vitima288@webmail.example :: pediu código
+[00118] lucas@pixvelox.example -> vitima088@mailbr.example :: abriu atendimento
+[00119] marina@pixvelox.example -> vitima033@webmail.example :: pediu código
+[00120] camila@pixvelox.example -> vitima207@correio.example :: pediu código
+[00121] lucas@pixvelox.example -> vitima242@webmail.example :: pediu código
+[00122] camila@pixvelox.example -> vitima105@webmail.example :: enviou link
+[00123] lucas@pixvelox.example -> vitima243@webmail.example :: pediu código
+[00124] lucas@pixvelox.example -> vitima456@mailbr.example :: pediu código
+[00125] bia@pixvelox.example -> vitima158@correio.example :: pediu código
+[00126] camila@pixvelox.example -> vitima136@mailbr.example :: encerrou
+[00127] joao.pedro@pixvelox.example -> vitima226@caixa-postal.example :: encerrou
+[00128] rafa@pixvelox.example -> vitima102@correio.example :: encerrou
+[00129] marina@pixvelox.example -> vitima186@mailbr.example :: transferiu
+[00130] lucas@pixvelox.example -> vitima050@caixa-postal.example :: encerrou
+[00131] camila@pixvelox.example -> vitima438@webmail.example :: encerrou
+[00132] joao.pedro@pixvelox.example -> vitima397@webmail.example :: transferiu
+[00133] bia@pixvelox.example -> vitima198@correio.example :: encerrou
+[00134] bia@pixvelox.example -> vitima288@webmail.example :: pediu código
+[00135] rafa@pixvelox.example -> vitima179@webmail.example :: transferiu
+[00136] marina@pixvelox.example -> vitima033@mailbr.example :: encerrou
+[00137] joao.pedro@pixvelox.example -> vitima399@webmail.example :: abriu atendimento
+[00138] lucas@pixvelox.example -> vitima261@mailbr.example :: transferiu
+[00139] camila@pixvelox.example -> vitima374@webmail.example :: encerrou
+[00140] camila@pixvelox.example -> vitima027@caixa-postal.example :: transferiu
+[00141] lucas@pixvelox.example -> vitima188@webmail.example :: abriu atendimento
+[00142] camila@pixvelox.example -> vitima378@webmail.example :: abriu atendimento
+[00143] rafa@pixvelox.example -> vitima042@caixa-postal.example :: encerrou
+[00144] camila@pixvelox.example -> vitima450@correio.example :: transferiu
+[00145] camila@pixvelox.example -> vitima461@webmail.example :: encerrou
+[00146] rafa@pixvelox.example -> vitima260@webmail.example :: transferiu
+[00147] camila@pixvelox.example -> vitima005@caixa-postal.example :: abriu atendimento
+[00148] bia@pixvelox.example -> vitima213@correio.example :: pediu código
+[00149] joao.pedro@pixvelox.example -> vitima220@webmail.example :: enviou link
+[00150] bia@pixvelox.example -> vitima439@webmail.example :: enviou link
+[00151] bia@pixvelox.example -> vitima250@webmail.example :: pediu código
+[00152] marina@pixvelox.example -> vitima232@webmail.example :: abriu atendimento
+[00153] bia@pixvelox.example -> vitima453@caixa-postal.example :: encerrou
+[00154] bia@pixvelox.example -> vitima251@webmail.example :: pediu código
+[00155] lucas@pixvelox.example -> vitima121@mailbr.example :: transferiu
+[00156] bia@pixvelox.example -> vitima204@webmail.example :: enviou link
+[00157] lucas@pixvelox.example -> vitima093@correio.example :: transferiu
+[00158] rafa@pixvelox.example -> vitima433@caixa-postal.example :: encerrou
+[00159] marina@pixvelox.example -> vitima452@caixa-postal.example :: transferiu
+[00160] camila@pixvelox.example -> vitima072@caixa-postal.example :: transferiu
+[00161] marina@pixvelox.example -> vitima444@caixa-postal.example :: encerrou
+[00162] bia@pixvelox.example -> vitima232@caixa-postal.example :: enviou link
+[00163] joao.pedro@pixvelox.example -> vitima113@mailbr.example :: abriu atendimento
+[00164] camila@pixvelox.example -> vitima042@caixa-postal.example :: pediu código
+[00165] rafa@pixvelox.example -> vitima025@mailbr.example :: encerrou
+[00166] lucas@pixvelox.example -> vitima129@correio.example :: transferiu
+[00167] joao.pedro@pixvelox.example -> vitima090@correio.example :: abriu atendimento
+[00168] camila@pixvelox.example -> vitima359@correio.example :: abriu atendimento
+[00169] camila@pixvelox.example -> vitima281@webmail.example :: encerrou
+[00170] marina@pixvelox.example -> vitima364@webmail.example :: enviou link
+[00171] rafa@pixvelox.example -> vitima102@webmail.example :: encerrou
+[00172] camila@pixvelox.example -> vitima128@mailbr.example :: enviou link
+[00173] bia@pixvelox.example -> vitima441@caixa-postal.example :: abriu atendimento
+[00174] camila@pixvelox.example -> vitima027@webmail.example :: enviou link
+[00175] camila@pixvelox.example -> vitima083@caixa-postal.example :: encerrou
+[00176] marina@pixvelox.example -> vitima136@caixa-postal.example :: abriu atendimento
+[00177] lucas@pixvelox.example -> vitima219@caixa-postal.example :: encerrou
+[00178] marina@pixvelox.example -> vitima376@webmail.example :: abriu atendimento
+[00179] lucas@pixvelox.example -> vitima095@mailbr.example :: enviou link
+[00180] marina@pixvelox.example -> vitima088@mailbr.example :: abriu atendimento
+[00181] marina@pixvelox.example -> vitima401@correio.example :: encerrou
+[00182] marina@pixvelox.example -> vitima327@mailbr.example :: transferiu
+[00183] bia@pixvelox.example -> vitima254@correio.example :: enviou link
+[00184] joao.pedro@pixvelox.example -> vitima186@webmail.example :: transferiu
+[00185] rafa@pixvelox.example -> vitima367@caixa-postal.example :: enviou link
+[00186] camila@pixvelox.example -> vitima123@caixa-postal.example :: enviou link
+[00187] marina@pixvelox.example -> vitima030@caixa-postal.example :: enviou link
+[00188] joao.pedro@pixvelox.example -> vitima459@correio.example :: encerrou
+[00189] lucas@pixvelox.example -> vitima070@webmail.example :: pediu código
+[00190] rafa@pixvelox.example -> vitima340@mailbr.example :: transferiu
+[00191] marina@pixvelox.example -> vitima102@webmail.example :: enviou link
+[00192] camila@pixvelox.example -> vitima101@webmail.example :: abriu atendimento
+[00193] bia@pixvelox.example -> vitima427@caixa-postal.example :: encerrou
+[00194] lucas@pixvelox.example -> vitima263@webmail.example :: abriu atendimento
+[00195] camila@pixvelox.example -> vitima304@correio.example :: enviou link
+[00196] bia@pixvelox.example -> vitima212@webmail.example :: pediu código
+[00197] joao.pedro@pixvelox.example -> vitima136@webmail.example :: enviou link
+[00198] rafa@pixvelox.example -> vitima144@mailbr.example :: enviou link
+[00199] camila@pixvelox.example -> vitima055@webmail.example :: pediu código
+[00200] rafa@pixvelox.example -> vitima316@correio.example :: enviou link
+[00201] marina@pixvelox.example -> vitima314@caixa-postal.example :: pediu código
+[00202] bia@pixvelox.example -> vitima033@webmail.example :: transferiu
+[00203] lucas@pixvelox.example -> vitima123@webmail.example :: transferiu
+[00204] rafa@pixvelox.example -> vitima115@caixa-postal.example :: pediu código
+[00205] lucas@pixvelox.example -> vitima301@correio.example :: transferiu
+[00206] bia@pixvelox.example -> vitima433@webmail.example :: pediu código
+[00207] bia@pixvelox.example -> vitima432@caixa-postal.example :: pediu código
+[00208] rafa@pixvelox.example -> vitima420@mailbr.example :: transferiu
+[00209] lucas@pixvelox.example -> vitima363@mailbr.example :: abriu atendimento
+[00210] bia@pixvelox.example -> vitima142@webmail.example :: encerrou
+[00211] joao.pedro@pixvelox.example -> vitima025@caixa-postal.example :: pediu código
+[00212] marina@pixvelox.example -> vitima128@caixa-postal.example :: enviou link
+[00213] joao.pedro@pixvelox.example -> vitima404@webmail.example :: encerrou
+[00214] marina@pixvelox.example -> vitima110@caixa-postal.example :: pediu código
+[00215] bia@pixvelox.example -> vitima115@webmail.example :: abriu atendimento
+[00216] rafa@pixvelox.example -> vitima140@caixa-postal.example :: enviou link
+[00217] joao.pedro@pixvelox.example -> vitima093@caixa-postal.example :: encerrou
+[00218] rafa@pixvelox.example -> vitima354@webmail.example :: enviou link
+[00219] marina@pixvelox.example -> vitima063@webmail.example :: abriu atendimento
+[00220] bia@pixvelox.example -> vitima073@correio.example :: transferiu
+[00221] marina@pixvelox.example -> vitima465@webmail.example :: enviou link
+[00222] joao.pedro@pixvelox.example -> vitima043@caixa-postal.example :: transferiu
+[00223] rafa@pixvelox.example -> vitima107@mailbr.example :: abriu atendimento
+[00224] bia@pixvelox.example -> vitima443@caixa-postal.example :: enviou link
+[00225] rafa@pixvelox.example -> vitima111@webmail.example :: pediu código
+[00226] rafa@pixvelox.example -> vitima447@correio.example :: pediu código
+[00227] rafa@pixvelox.example -> vitima359@correio.example :: abriu atendimento
+[00228] camila@pixvelox.example -> vitima343@mailbr.example :: encerrou
+[00229] lucas@pixvelox.example -> vitima303@caixa-postal.example :: abriu atendimento
+[00230] joao.pedro@pixvelox.example -> vitima320@webmail.example :: pediu código
+[00231] rafa@pixvelox.example -> vitima415@correio.example :: enviou link
+[00232] lucas@pixvelox.example -> vitima312@webmail.example :: abriu atendimento
+[00233] camila@pixvelox.example -> vitima384@correio.example :: pediu código
+[00234] rafa@pixvelox.example -> vitima068@mailbr.example :: pediu código
+[00235] marina@pixvelox.example -> vitima218@mailbr.example :: enviou link
+[00236] lucas@pixvelox.example -> vitima200@webmail.example :: transferiu
+[00237] marina@pixvelox.example -> vitima265@caixa-postal.example :: encerrou
+[00238] marina@pixvelox.example -> vitima224@caixa-postal.example :: pediu código
+[00239] rafa@pixvelox.example -> vitima454@webmail.example :: pediu código
+[00240] joao.pedro@pixvelox.example -> vitima091@caixa-postal.example :: transferiu
+[00241] rafa@pixvelox.example -> vitima327@webmail.example :: transferiu
+[00242] rafa@pixvelox.example -> vitima114@webmail.example :: abriu atendimento
+[00243] marina@pixvelox.example -> vitima196@caixa-postal.example :: abriu atendimento
+[00244] rafa@pixvelox.example -> vitima410@mailbr.example :: encerrou
+[00245] marina@pixvelox.example -> vitima385@correio.example :: encerrou
+[00246] lucas@pixvelox.example -> vitima308@correio.example :: encerrou
+[00247] bia@pixvelox.example -> vitima456@correio.example :: transferiu
+[00248] joao.pedro@pixvelox.example -> vitima313@mailbr.example :: enviou link
+[00249] camila@pixvelox.example -> vitima418@caixa-postal.example :: encerrou
+[00250] marina@pixvelox.example -> vitima233@correio.example :: transferiu
+[00251] marina@pixvelox.example -> vitima195@webmail.example :: pediu código
+[00252] camila@pixvelox.example -> vitima434@webmail.example :: abriu atendimento
+[00253] lucas@pixvelox.example -> vitima384@correio.example :: abriu atendimento
+[00254] joao.pedro@pixvelox.example -> vitima444@caixa-postal.example :: abriu atendimento
+[00255] joao.pedro@pixvelox.example -> vitima117@correio.example :: pediu código
+[00256] camila@pixvelox.example -> vitima267@webmail.example :: abriu atendimento
+[00257] lucas@pixvelox.example -> vitima339@caixa-postal.example :: enviou link
+[00258] bia@pixvelox.example -> vitima166@correio.example :: pediu código
+[00259] bia@pixvelox.example -> vitima237@correio.example :: abriu atendimento
+[00260] lucas@pixvelox.example -> vitima185@mailbr.example :: enviou link
+[00261] camila@pixvelox.example -> vitima248@correio.example :: encerrou
+[00262] camila@pixvelox.example -> vitima054@webmail.example :: encerrou
+[00263] lucas@pixvelox.example -> vitima201@caixa-postal.example :: transferiu
+[00264] bia@pixvelox.example -> vitima199@caixa-postal.example :: enviou link
+[00265] bia@pixvelox.example -> vitima414@correio.example :: pediu código
+[00266] marina@pixvelox.example -> vitima188@caixa-postal.example :: encerrou
+[00267] bia@pixvelox.example -> vitima052@mailbr.example :: enviou link
+[00268] marina@pixvelox.example -> vitima398@webmail.example :: abriu atendimento
+[00269] bia@pixvelox.example -> vitima033@mailbr.example :: pediu código
+[00270] bia@pixvelox.example -> vitima371@caixa-postal.example :: enviou link
+[00271] lucas@pixvelox.example -> vitima480@caixa-postal.example :: enviou link
+[00272] rafa@pixvelox.example -> vitima236@mailbr.example :: encerrou
+[00273] joao.pedro@pixvelox.example -> vitima301@webmail.example :: transferiu
+[00274] lucas@pixvelox.example -> vitima053@caixa-postal.example :: abriu atendimento
+[00275] joao.pedro@pixvelox.example -> vitima285@mailbr.example :: encerrou
+[00276] lucas@pixvelox.example -> vitima031@correio.example :: enviou link
+[00277] rafa@pixvelox.example -> vitima269@correio.example :: transferiu
+[00278] joao.pedro@pixvelox.example -> vitima016@caixa-postal.example :: transferiu
+[00279] bia@pixvelox.example -> vitima063@caixa-postal.example :: enviou link
+[00280] marina@pixvelox.example -> vitima174@webmail.example :: encerrou
+[00281] bia@pixvelox.example -> vitima407@caixa-postal.example :: enviou link
+[00282] bia@pixvelox.example -> vitima084@mailbr.example :: enviou link
+[00283] camila@pixvelox.example -> vitima153@caixa-postal.example :: abriu atendimento
+[00284] bia@pixvelox.example -> vitima311@webmail.example :: transferiu
+[00285] marina@pixvelox.example -> vitima100@caixa-postal.example :: abriu atendimento
+[00286] marina@pixvelox.example -> vitima113@caixa-postal.example :: enviou link
+[00287] joao.pedro@pixvelox.example -> vitima228@webmail.example :: transferiu
+[00288] camila@pixvelox.example -> vitima033@correio.example :: pediu código
+[00289] bia@pixvelox.example -> vitima095@caixa-postal.example :: abriu atendimento
+[00290] lucas@pixvelox.example -> vitima446@webmail.example :: encerrou
+[00291] marina@pixvelox.example -> vitima312@caixa-postal.example :: pediu código
+[00292] bia@pixvelox.example -> vitima405@webmail.example :: enviou link
+[00293] camila@pixvelox.example -> vitima213@webmail.example :: pediu código
+[00294] camila@pixvelox.example -> vitima034@webmail.example :: encerrou
+[00295] joao.pedro@pixvelox.example -> vitima019@caixa-postal.example :: transferiu
+[00296] rafa@pixvelox.example -> vitima417@caixa-postal.example :: transferiu
+[00297] marina@pixvelox.example -> vitima145@correio.example :: encerrou
+[00298] joao.pedro@pixvelox.example -> vitima055@mailbr.example :: transferiu
+[00299] marina@pixvelox.example -> vitima118@webmail.example :: enviou link
+[00300] joao.pedro@pixvelox.example -> vitima031@caixa-postal.example :: encerrou
+[00301] marina@pixvelox.example -> vitima314@webmail.example :: enviou link
+[00302] bia@pixvelox.example -> vitima209@correio.example :: enviou link
+[00303] rafa@pixvelox.example -> vitima326@caixa-postal.example :: pediu código
+[00304] marina@pixvelox.example -> vitima350@caixa-postal.example :: abriu atendimento
+[00305] marina@pixvelox.example -> vitima147@mailbr.example :: abriu atendimento
+[00306] camila@pixvelox.example -> vitima406@caixa-postal.example :: enviou link
+[00307] bia@pixvelox.example -> vitima203@caixa-postal.example :: pediu código
+[00308] lucas@pixvelox.example -> vitima447@caixa-postal.example :: enviou link
+[00309] camila@pixvelox.example -> vitima450@webmail.example :: encerrou
+[00310] lucas@pixvelox.example -> vitima264@caixa-postal.example :: transferiu
+[00311] marina@pixvelox.example -> vitima261@caixa-postal.example :: abriu atendimento
+[00312] cofre@pixvelox.example -> sistema@pixvelox.example :: backup agendado
+[00313] lucas@pixvelox.example -> vitima278@webmail.example :: transferiu
+[00314] marina@pixvelox.example -> vitima083@mailbr.example :: pediu código
+[00315] joao.pedro@pixvelox.example -> vitima291@mailbr.example :: transferiu
+[00316] joao.pedro@pixvelox.example -> vitima086@correio.example :: abriu atendimento
+[00317] joao.pedro@pixvelox.example -> vitima103@webmail.example :: encerrou
+[00318] rafa@pixvelox.example -> vitima185@mailbr.example :: transferiu
+[00319] joao.pedro@pixvelox.example -> vitima079@caixa-postal.example :: abriu atendimento
+[00320] rafa@pixvelox.example -> vitima250@mailbr.example :: enviou link
+[00321] marina@pixvelox.example -> vitima424@webmail.example :: enviou link
+[00322] camila@pixvelox.example -> vitima001@webmail.example :: pediu código
+[00323] rafa@pixvelox.example -> vitima382@correio.example :: enviou link
+[00324] bia@pixvelox.example -> vitima272@correio.example :: pediu código
+[00325] bia@pixvelox.example -> vitima096@webmail.example :: transferiu
+[00326] marina@pixvelox.example -> vitima438@correio.example :: pediu código
+[00327] marina@pixvelox.example -> vitima234@webmail.example :: enviou link
+[00328] joao.pedro@pixvelox.example -> vitima229@mailbr.example :: abriu atendimento
+[00329] marina@pixvelox.example -> vitima246@webmail.example :: abriu atendimento
+[00330] joao.pedro@pixvelox.example -> vitima317@caixa-postal.example :: encerrou
+[00331] bia@pixvelox.example -> vitima145@mailbr.example :: encerrou
+[00332] joao.pedro@pixvelox.example -> vitima452@mailbr.example :: abriu atendimento
+[00333] rafa@pixvelox.example -> vitima379@caixa-postal.example :: enviou link
+[00334] camila@pixvelox.example -> vitima106@mailbr.example :: abriu atendimento
+[00335] rafa@pixvelox.example -> vitima470@mailbr.example :: abriu atendimento
+[00336] bia@pixvelox.example -> vitima461@caixa-postal.example :: transferiu
+[00337] camila@pixvelox.example -> vitima383@caixa-postal.example :: enviou link
+[00338] lucas@pixvelox.example -> vitima057@mailbr.example :: pediu código
+[00339] bia@pixvelox.example -> vitima254@caixa-postal.example :: enviou link
+[00340] lucas@pixvelox.example -> vitima018@mailbr.example :: transferiu
+[00341] rafa@pixvelox.example -> vitima197@webmail.example :: pediu código
+[00342] lucas@pixvelox.example -> vitima460@webmail.example :: abriu atendimento
+[00343] camila@pixvelox.example -> vitima248@correio.example :: abriu atendimento
+[00344] joao.pedro@pixvelox.example -> vitima254@mailbr.example :: enviou link
+[00345] bia@pixvelox.example -> vitima398@webmail.example :: transferiu
+[00346] camila@pixvelox.example -> vitima341@caixa-postal.example :: pediu código
+[00347] lucas@pixvelox.example -> vitima013@webmail.example :: encerrou
+[00348] camila@pixvelox.example -> vitima039@correio.example :: transferiu
+[00349] lucas@pixvelox.example -> vitima365@caixa-postal.example :: enviou link
+[00350] camila@pixvelox.example -> vitima162@caixa-postal.example :: enviou link
+[00351] marina@pixvelox.example -> vitima061@mailbr.example :: transferiu
+[00352] marina@pixvelox.example -> vitima236@caixa-postal.example :: enviou link
+[00353] rafa@pixvelox.example -> vitima318@caixa-postal.example :: pediu código
+[00354] rafa@pixvelox.example -> vitima167@mailbr.example :: encerrou
+[00355] bia@pixvelox.example -> vitima307@correio.example :: encerrou
+[00356] lucas@pixvelox.example -> vitima313@caixa-postal.example :: abriu atendimento
+[00357] joao.pedro@pixvelox.example -> vitima346@mailbr.example :: transferiu
+[00358] camila@pixvelox.example -> vitima396@correio.example :: transferiu
+[00359] bia@pixvelox.example -> vitima275@mailbr.example :: pediu código
+[00360] camila@pixvelox.example -> vitima477@caixa-postal.example :: abriu atendimento
+[00361] rafa@pixvelox.example -> vitima187@correio.example :: enviou link
+[00362] marina@pixvelox.example -> vitima087@caixa-postal.example :: enviou link
+[00363] joao.pedro@pixvelox.example -> vitima400@caixa-postal.example :: pediu código
+[00364] bia@pixvelox.example -> vitima470@correio.example :: pediu código
+[00365] joao.pedro@pixvelox.example -> vitima229@mailbr.example :: transferiu
+[00366] bia@pixvelox.example -> vitima356@caixa-postal.example :: abriu atendimento
+[00367] rafa@pixvelox.example -> vitima324@webmail.example :: pediu código
+[00368] rafa@pixvelox.example -> vitima348@webmail.example :: enviou link
+[00369] lucas@pixvelox.example -> vitima276@webmail.example :: encerrou
+[00370] bia@pixvelox.example -> vitima287@webmail.example :: pediu código
+[00371] lucas@pixvelox.example -> vitima218@mailbr.example :: encerrou
+[00372] marina@pixvelox.example -> vitima021@correio.example :: encerrou
+[00373] joao.pedro@pixvelox.example -> vitima207@mailbr.example :: abriu atendimento
+[00374] lucas@pixvelox.example -> vitima408@mailbr.example :: pediu código
+[00375] camila@pixvelox.example -> vitima403@caixa-postal.example :: pediu código
+[00376] rafa@pixvelox.example -> vitima174@webmail.example :: encerrou
+[00377] camila@pixvelox.example -> vitima391@webmail.example :: transferiu
+[00378] marina@pixvelox.example -> vitima282@correio.example :: encerrou
+[00379] lucas@pixvelox.example -> vitima122@webmail.example :: encerrou
+[00380] marina@pixvelox.example -> vitima045@mailbr.example :: enviou link
+[00381] joao.pedro@pixvelox.example -> vitima346@mailbr.example :: transferiu
+[00382] marina@pixvelox.example -> vitima060@correio.example :: encerrou
+[00383] rafa@pixvelox.example -> vitima120@correio.example :: enviou link
+[00384] camila@pixvelox.example -> vitima307@mailbr.example :: transferiu
+[00385] bia@pixvelox.example -> vitima016@caixa-postal.example :: transferiu
+[00386] camila@pixvelox.example -> vitima313@webmail.example :: abriu atendimento
+[00387] joao.pedro@pixvelox.example -> vitima105@webmail.example :: pediu código
+[00388] joao.pedro@pixvelox.example -> vitima410@webmail.example :: pediu código
+[00389] lucas@pixvelox.example -> vitima299@caixa-postal.example :: transferiu
+[00390] camila@pixvelox.example -> vitima042@correio.example :: encerrou
+[00391] rafa@pixvelox.example -> vitima155@mailbr.example :: pediu código
+[00392] lucas@pixvelox.example -> vitima405@webmail.example :: enviou link
+[00393] bia@pixvelox.example -> vitima181@mailbr.example :: abriu atendimento
+[00394] joao.pedro@pixvelox.example -> vitima119@correio.example :: abriu atendimento
+[00395] lucas@pixvelox.example -> vitima130@webmail.example :: encerrou
+[00396] joao.pedro@pixvelox.example -> vitima415@webmail.example :: abriu atendimento
+[00397] lucas@pixvelox.example -> vitima291@mailbr.example :: pediu código
+[00398] bia@pixvelox.example -> vitima200@correio.example :: abriu atendimento
+[00399] lucas@pixvelox.example -> vitima244@correio.example :: abriu atendimento
+[00400] lucas@pixvelox.example -> vitima398@mailbr.example :: enviou link
+[00401] camila@pixvelox.example -> vitima037@caixa-postal.example :: encerrou
+[00402] camila@pixvelox.example -> vitima099@mailbr.example :: pediu código
+[00403] lucas@pixvelox.example -> vitima021@correio.example :: abriu atendimento
+[00404] lucas@pixvelox.example -> vitima262@mailbr.example :: abriu atendimento
+[00405] joao.pedro@pixvelox.example -> vitima125@caixa-postal.example :: transferiu
+[00406] lucas@pixvelox.example -> vitima142@caixa-postal.example :: enviou link
+[00407] rafa@pixvelox.example -> vitima321@correio.example :: transferiu
+[00408] camila@pixvelox.example -> vitima418@correio.example :: pediu código
+[00409] lucas@pixvelox.example -> vitima049@webmail.example :: pediu código
+[00410] camila@pixvelox.example -> vitima294@mailbr.example :: transferiu
+[00411] bia@pixvelox.example -> vitima465@caixa-postal.example :: abriu atendimento
+[00412] camila@pixvelox.example -> vitima232@webmail.example :: encerrou
+[00413] bia@pixvelox.example -> vitima262@webmail.example :: pediu código
+[00414] lucas@pixvelox.example -> vitima085@webmail.example :: transferiu
+[00415] joao.pedro@pixvelox.example -> vitima371@correio.example :: enviou link
+[00416] joao.pedro@pixvelox.example -> vitima223@mailbr.example :: encerrou
+[00417] bia@pixvelox.example -> vitima035@correio.example :: abriu atendimento
+[00418] rafa@pixvelox.example -> vitima480@mailbr.example :: pediu código
+[00419] marina@pixvelox.example -> vitima461@correio.example :: encerrou
+[00420] lucas@pixvelox.example -> vitima359@caixa-postal.example :: encerrou
+[00421] camila@pixvelox.example -> vitima092@correio.example :: transferiu
+[00422] lucas@pixvelox.example -> vitima134@caixa-postal.example :: pediu código
+[00423] camila@pixvelox.example -> vitima141@correio.example :: transferiu
+[00424] camila@pixvelox.example -> vitima387@correio.example :: encerrou
+[00425] rafa@pixvelox.example -> vitima409@correio.example :: pediu código
+[00426] lucas@pixvelox.example -> vitima467@correio.example :: abriu atendimento
+[00427] rafa@pixvelox.example -> vitima240@caixa-postal.example :: transferiu
+[00428] rafa@pixvelox.example -> vitima398@correio.example :: encerrou
+[00429] bia@pixvelox.example -> vitima345@caixa-postal.example :: encerrou
+[00430] joao.pedro@pixvelox.example -> vitima201@correio.example :: pediu código
+[00431] marina@pixvelox.example -> vitima085@caixa-postal.example :: abriu atendimento
+[00432] joao.pedro@pixvelox.example -> vitima252@caixa-postal.example :: encerrou
+[00433] rafa@pixvelox.example -> vitima315@mailbr.example :: transferiu
+[00434] lucas@pixvelox.example -> vitima336@caixa-postal.example :: transferiu
+[00435] lucas@pixvelox.example -> vitima405@caixa-postal.example :: encerrou
+[00436] joao.pedro@pixvelox.example -> vitima130@webmail.example :: encerrou
+[00437] camila@pixvelox.example -> vitima142@mailbr.example :: enviou link
+[00438] joao.pedro@pixvelox.example -> vitima255@mailbr.example :: pediu código
+[00439] lucas@pixvelox.example -> vitima359@webmail.example :: abriu atendimento
+[00440] camila@pixvelox.example -> vitima237@mailbr.example :: abriu atendimento
+[00441] joao.pedro@pixvelox.example -> vitima031@webmail.example :: encerrou
+[00442] joao.pedro@pixvelox.example -> vitima447@mailbr.example :: encerrou
+[00443] marina@pixvelox.example -> vitima258@correio.example :: abriu atendimento
+[00444] lucas@pixvelox.example -> vitima342@caixa-postal.example :: pediu código
+[00445] rafa@pixvelox.example -> vitima282@correio.example :: enviou link
+[00446] joao.pedro@pixvelox.example -> vitima045@mailbr.example :: encerrou
+[00447] marina@pixvelox.example -> vitima022@webmail.example :: pediu código
+[00448] bia@pixvelox.example -> vitima020@caixa-postal.example :: encerrou
+[00449] camila@pixvelox.example -> vitima266@mailbr.example :: abriu atendimento
+[00450] bia@pixvelox.example -> vitima156@caixa-postal.example :: enviou link
+[00451] camila@pixvelox.example -> vitima430@mailbr.example :: pediu código
+[00452] joao.pedro@pixvelox.example -> vitima018@mailbr.example :: abriu atendimento
+[00453] joao.pedro@pixvelox.example -> vitima330@mailbr.example :: transferiu
+[00454] joao.pedro@pixvelox.example -> vitima151@webmail.example :: abriu atendimento
+[00455] bia@pixvelox.example -> vitima302@caixa-postal.example :: pediu código
+[00456] lucas@pixvelox.example -> vitima208@webmail.example :: pediu código
+[00457] joao.pedro@pixvelox.example -> vitima396@mailbr.example :: encerrou
+[00458] marina@pixvelox.example -> vitima033@mailbr.example :: encerrou
+[00459] lucas@pixvelox.example -> vitima283@caixa-postal.example :: enviou link
+[00460] camila@pixvelox.example -> vitima123@mailbr.example :: enviou link
+[00461] marina@pixvelox.example -> vitima388@caixa-postal.example :: pediu código
+[00462] lucas@pixvelox.example -> vitima038@webmail.example :: enviou link
+[00463] joao.pedro@pixvelox.example -> vitima299@mailbr.example :: encerrou
+[00464] camila@pixvelox.example -> vitima330@correio.example :: encerrou
+[00465] joao.pedro@pixvelox.example -> vitima441@mailbr.example :: enviou link
+[00466] bia@pixvelox.example -> vitima449@correio.example :: abriu atendimento
+[00467] bia@pixvelox.example -> vitima076@mailbr.example :: pediu código
+[00468] rafa@pixvelox.example -> vitima459@correio.example :: pediu código
+[00469] camila@pixvelox.example -> vitima423@webmail.example :: encerrou
+[00470] joao.pedro@pixvelox.example -> vitima114@mailbr.example :: encerrou
+[00471] camila@pixvelox.example -> vitima120@webmail.example :: pediu código
+[00472] bia@pixvelox.example -> vitima470@correio.example :: transferiu
+[00473] marina@pixvelox.example -> vitima089@caixa-postal.example :: pediu código
+[00474] camila@pixvelox.example -> vitima023@webmail.example :: encerrou
+[00475] bia@pixvelox.example -> vitima402@webmail.example :: enviou link
+[00476] marina@pixvelox.example -> vitima259@mailbr.example :: encerrou
+[00477] camila@pixvelox.example -> vitima181@webmail.example :: abriu atendimento
+[00478] marina@pixvelox.example -> vitima162@webmail.example :: enviou link
+[00479] joao.pedro@pixvelox.example -> vitima138@correio.example :: enviou link
+[00480] camila@pixvelox.example -> vitima272@caixa-postal.example :: pediu código
+[00481] lucas@pixvelox.example -> vitima066@webmail.example :: transferiu
+[00482] rafa@pixvelox.example -> vitima290@correio.example :: pediu código
+[00483] camila@pixvelox.example -> vitima363@webmail.example :: encerrou
+[00484] camila@pixvelox.example -> vitima392@caixa-postal.example :: encerrou
+[00485] lucas@pixvelox.example -> vitima236@mailbr.example :: pediu código
+[00486] rafa@pixvelox.example -> vitima273@correio.example :: pediu código
+[00487] marina@pixvelox.example -> vitima038@caixa-postal.example :: pediu código
+[00488] rafa@pixvelox.example -> vitima347@caixa-postal.example :: abriu atendimento
+[00489] camila@pixvelox.example -> vitima013@correio.example :: enviou link
+[00490] bia@pixvelox.example -> vitima395@correio.example :: abriu atendimento
+[00491] joao.pedro@pixvelox.example -> vitima169@mailbr.example :: pediu código
+[00492] marina@pixvelox.example -> vitima332@mailbr.example :: pediu código
+[00493] joao.pedro@pixvelox.example -> vitima365@mailbr.example :: enviou link
+[00494] joao.pedro@pixvelox.example -> vitima245@caixa-postal.example :: abriu atendimento
+[00495] marina@pixvelox.example -> vitima287@correio.example :: enviou link
+[00496] camila@pixvelox.example -> vitima212@correio.example :: abriu atendimento
+[00497] camila@pixvelox.example -> vitima190@mailbr.example :: enviou link
+[00498] lucas@pixvelox.example -> vitima287@webmail.example :: abriu atendimento
+[00499] rafa@pixvelox.example -> vitima368@mailbr.example :: encerrou
+[00500] camila@pixvelox.example -> vitima102@mailbr.example :: encerrou
+[00501] rafa@pixvelox.example -> vitima079@caixa-postal.example :: enviou link
+[00502] joao.pedro@pixvelox.example -> vitima391@correio.example :: enviou link
+[00503] joao.pedro@pixvelox.example -> vitima053@mailbr.example :: encerrou
+[00504] joao.pedro@pixvelox.example -> vitima029@webmail.example :: pediu código
+[00505] lucas@pixvelox.example -> vitima087@mailbr.example :: transferiu
+[00506] marina@pixvelox.example -> vitima133@correio.example :: abriu atendimento
+[00507] bia@pixvelox.example -> vitima434@webmail.example :: abriu atendimento
+[00508] bia@pixvelox.example -> vitima208@correio.example :: transferiu
+[00509] rafa@pixvelox.example -> vitima057@mailbr.example :: pediu código
+[00510] camila@pixvelox.example -> vitima378@caixa-postal.example :: encerrou
+[00511] camila@pixvelox.example -> vitima404@webmail.example :: enviou link
+[00512] marina@pixvelox.example -> vitima278@mailbr.example :: pediu código
+[00513] camila@pixvelox.example -> vitima104@correio.example :: encerrou
+[00514] marina@pixvelox.example -> vitima301@webmail.example :: enviou link
+[00515] bia@pixvelox.example -> vitima334@mailbr.example :: pediu código
+[00516] lucas@pixvelox.example -> vitima302@correio.example :: pediu código
+[00517] camila@pixvelox.example -> vitima211@caixa-postal.example :: encerrou
+[00518] bia@pixvelox.example -> vitima378@mailbr.example :: transferiu
+[00519] bia@pixvelox.example -> vitima298@webmail.example :: enviou link
+[00520] marina@pixvelox.example -> vitima384@mailbr.example :: abriu atendimento
+[00521] rafa@pixvelox.example -> vitima436@mailbr.example :: transferiu
+[00522] camila@pixvelox.example -> vitima103@correio.example :: enviou link
+[00523] bia@pixvelox.example -> vitima345@webmail.example :: pediu código
+[00524] camila@pixvelox.example -> vitima431@caixa-postal.example :: encerrou
+[00525] camila@pixvelox.example -> vitima077@correio.example :: pediu código
+[00526] rafa@pixvelox.example -> vitima007@correio.example :: pediu código
+[00527] marina@pixvelox.example -> vitima473@mailbr.example :: abriu atendimento
+[00528] camila@pixvelox.example -> vitima385@webmail.example :: abriu atendimento
+[00529] bia@pixvelox.example -> vitima214@correio.example :: enviou link
+[00530] lucas@pixvelox.example -> vitima373@webmail.example :: transferiu
+[00531] marina@pixvelox.example -> vitima107@webmail.example :: encerrou
+[00532] joao.pedro@pixvelox.example -> vitima322@correio.example :: abriu atendimento
+[00533] rafa@pixvelox.example -> vitima178@caixa-postal.example :: abriu atendimento
+[00534] camila@pixvelox.example -> vitima367@mailbr.example :: abriu atendimento
+[00535] marina@pixvelox.example -> vitima102@caixa-postal.example :: abriu atendimento
+[00536] marina@pixvelox.example -> vitima399@caixa-postal.example :: enviou link
+[00537] lucas@pixvelox.example -> vitima394@webmail.example :: pediu código
+[00538] bia@pixvelox.example -> vitima009@caixa-postal.example :: pediu código
+[00539] bia@pixvelox.example -> vitima366@mailbr.example :: transferiu
+[00540] bia@pixvelox.example -> vitima046@caixa-postal.example :: enviou link
+[00541] joao.pedro@pixvelox.example -> vitima252@webmail.example :: pediu código
+[00542] lucas@pixvelox.example -> vitima189@caixa-postal.example :: abriu atendimento
+[00543] lucas@pixvelox.example -> vitima004@correio.example :: pediu código
+[00544] rafa@pixvelox.example -> vitima423@mailbr.example :: transferiu
+[00545] lucas@pixvelox.example -> vitima239@caixa-postal.example :: enviou link
+[00546] rafa@pixvelox.example -> vitima036@caixa-postal.example :: abriu atendimento
+[00547] marina@pixvelox.example -> vitima378@webmail.example :: transferiu
+[00548] rafa@pixvelox.example -> vitima187@mailbr.example :: encerrou
+[00549] lucas@pixvelox.example -> vitima230@caixa-postal.example :: enviou link
+[00550] lucas@pixvelox.example -> vitima332@webmail.example :: abriu atendimento
+[00551] camila@pixvelox.example -> vitima144@webmail.example :: abriu atendimento
+[00552] marina@pixvelox.example -> vitima359@correio.example :: enviou link
+[00553] joao.pedro@pixvelox.example -> vitima391@webmail.example :: abriu atendimento
+[00554] lucas@pixvelox.example -> vitima159@correio.example :: abriu atendimento
+[00555] joao.pedro@pixvelox.example -> vitima358@correio.example :: enviou link
+[00556] lucas@pixvelox.example -> vitima088@correio.example :: pediu código
+[00557] lucas@pixvelox.example -> vitima453@caixa-postal.example :: transferiu
+[00558] marina@pixvelox.example -> vitima271@caixa-postal.example :: enviou link
+[00559] rafa@pixvelox.example -> vitima116@mailbr.example :: abriu atendimento
+[00560] bia@pixvelox.example -> vitima053@webmail.example :: transferiu
+[00561] camila@pixvelox.example -> vitima129@correio.example :: pediu código
+[00562] joao.pedro@pixvelox.example -> vitima390@webmail.example :: abriu atendimento
+[00563] lucas@pixvelox.example -> vitima409@mailbr.example :: abriu atendimento
+[00564] joao.pedro@pixvelox.example -> vitima470@caixa-postal.example :: transferiu
+[00565] marina@pixvelox.example -> vitima420@mailbr.example :: transferiu
+[00566] lucas@pixvelox.example -> vitima143@caixa-postal.example :: enviou link
+[00567] camila@pixvelox.example -> vitima217@correio.example :: abriu atendimento
+[00568] camila@pixvelox.example -> vitima403@correio.example :: enviou link
+[00569] lucas@pixvelox.example -> vitima449@correio.example :: transferiu
+[00570] rafa@pixvelox.example -> vitima434@webmail.example :: pediu código
+[00571] camila@pixvelox.example -> vitima076@mailbr.example :: abriu atendimento
+[00572] camila@pixvelox.example -> vitima135@mailbr.example :: enviou link
+[00573] joao.pedro@pixvelox.example -> vitima474@caixa-postal.example :: transferiu
+[00574] marina@pixvelox.example -> vitima460@webmail.example :: encerrou
+[00575] rafa@pixvelox.example -> vitima222@webmail.example :: abriu atendimento
+[00576] rafa@pixvelox.example -> vitima245@correio.example :: abriu atendimento
+[00577] bia@pixvelox.example -> vitima195@caixa-postal.example :: transferiu
+[00578] joao.pedro@pixvelox.example -> vitima044@mailbr.example :: transferiu
+[00579] bia@pixvelox.example -> vitima192@webmail.example :: encerrou
+[00580] rafa@pixvelox.example -> vitima232@correio.example :: encerrou
+[00581] lucas@pixvelox.example -> vitima081@correio.example :: enviou link
+[00582] joao.pedro@pixvelox.example -> vitima231@correio.example :: encerrou
+[00583] bia@pixvelox.example -> vitima318@caixa-postal.example :: enviou link
+[00584] lucas@pixvelox.example -> vitima472@caixa-postal.example :: abriu atendimento
+[00585] rafa@pixvelox.example -> vitima138@mailbr.example :: abriu atendimento
+[00586] camila@pixvelox.example -> vitima079@webmail.example :: transferiu
+[00587] marina@pixvelox.example -> vitima057@correio.example :: encerrou
+[00588] rafa@pixvelox.example -> vitima138@correio.example :: enviou link
+[00589] lucas@pixvelox.example -> vitima121@webmail.example :: pediu código
+[00590] joao.pedro@pixvelox.example -> vitima341@mailbr.example :: enviou link
+[00591] marina@pixvelox.example -> vitima137@caixa-postal.example :: encerrou
+[00592] marina@pixvelox.example -> vitima472@caixa-postal.example :: transferiu
+[00593] rafa@pixvelox.example -> vitima171@caixa-postal.example :: enviou link
+[00594] bia@pixvelox.example -> vitima019@webmail.example :: abriu atendimento
+[00595] joao.pedro@pixvelox.example -> vitima173@correio.example :: pediu código
+[00596] marina@pixvelox.example -> vitima119@mailbr.example :: encerrou
+[00597] bia@pixvelox.example -> vitima066@correio.example :: pediu código
+[00598] bia@pixvelox.example -> vitima188@mailbr.example :: enviou link
+[00599] lucas@pixvelox.example -> vitima172@mailbr.example :: enviou link
+[00600] joao.pedro@pixvelox.example -> vitima240@correio.example :: encerrou
+[00601] lucas@pixvelox.example -> vitima022@caixa-postal.example :: encerrou
+[00602] camila@pixvelox.example -> vitima276@correio.example :: transferiu
+[00603] joao.pedro@pixvelox.example -> vitima435@correio.example :: abriu atendimento
+[00604] marina@pixvelox.example -> vitima407@mailbr.example :: abriu atendimento
+[00605] bia@pixvelox.example -> vitima327@webmail.example :: transferiu
+[00606] joao.pedro@pixvelox.example -> vitima208@mailbr.example :: enviou link
+[00607] lucas@pixvelox.example -> vitima046@caixa-postal.example :: abriu atendimento
+[00608] camila@pixvelox.example -> vitima009@webmail.example :: encerrou
+[00609] lucas@pixvelox.example -> vitima129@caixa-postal.example :: encerrou
+[00610] joao.pedro@pixvelox.example -> vitima449@webmail.example :: pediu código
+[00611] joao.pedro@pixvelox.example -> vitima235@correio.example :: abriu atendimento
+[00612] rafa@pixvelox.example -> vitima263@webmail.example :: enviou link
+[00613] rafa@pixvelox.example -> vitima399@correio.example :: enviou link
+[00614] lucas@pixvelox.example -> vitima405@webmail.example :: pediu código
+[00615] lucas@pixvelox.example -> vitima176@caixa-postal.example :: transferiu
+[00616] lucas@pixvelox.example -> vitima126@mailbr.example :: enviou link
+[00617] rafa@pixvelox.example -> vitima366@caixa-postal.example :: encerrou
+[00618] camila@pixvelox.example -> vitima278@webmail.example :: encerrou
+[00619] marina@pixvelox.example -> vitima473@correio.example :: pediu código
+[00620] camila@pixvelox.example -> vitima044@mailbr.example :: pediu código
+[00621] joao.pedro@pixvelox.example -> vitima147@webmail.example :: enviou link
+[00622] joao.pedro@pixvelox.example -> vitima260@webmail.example :: encerrou
+[00623] rafa@pixvelox.example -> vitima409@mailbr.example :: encerrou
+[00624] marina@pixvelox.example -> vitima210@caixa-postal.example :: enviou link
+[00625] bia@pixvelox.example -> vitima217@webmail.example :: enviou link
+[00626] lucas@pixvelox.example -> vitima458@mailbr.example :: transferiu
+[00627] lucas@pixvelox.example -> vitima092@mailbr.example :: abriu atendimento
+[00628] joao.pedro@pixvelox.example -> vitima448@correio.example :: transferiu
+[00629] camila@pixvelox.example -> vitima363@webmail.example :: pediu código
+[00630] marina@pixvelox.example -> vitima429@caixa-postal.example :: transferiu
+[00631] bia@pixvelox.example -> vitima300@correio.example :: encerrou
+[00632] rafa@pixvelox.example -> vitima062@caixa-postal.example :: encerrou
+[00633] joao.pedro@pixvelox.example -> vitima448@caixa-postal.example :: transferiu
+[00634] bia@pixvelox.example -> vitima359@mailbr.example :: transferiu
+[00635] marina@pixvelox.example -> vitima462@correio.example :: enviou link
+[00636] camila@pixvelox.example -> vitima281@caixa-postal.example :: pediu código
+[00637] camila@pixvelox.example -> vitima310@mailbr.example :: pediu código
+[00638] marina@pixvelox.example -> vitima270@caixa-postal.example :: transferiu
+[00639] lucas@pixvelox.example -> vitima293@correio.example :: transferiu
+[00640] camila@pixvelox.example -> vitima001@webmail.example :: enviou link
+[00641] rafa@pixvelox.example -> vitima338@correio.example :: enviou link
+[00642] rafa@pixvelox.example -> vitima479@webmail.example :: encerrou
+[00643] rafa@pixvelox.example -> vitima272@caixa-postal.example :: abriu atendimento
+[00644] rafa@pixvelox.example -> vitima379@caixa-postal.example :: abriu atendimento
+[00645] rafa@pixvelox.example -> vitima345@correio.example :: enviou link
+[00646] rafa@pixvelox.example -> vitima269@mailbr.example :: enviou link
+[00647] lucas@pixvelox.example -> vitima325@caixa-postal.example :: transferiu
+[00648] rafa@pixvelox.example -> vitima357@correio.example :: pediu código
+[00649] lucas@pixvelox.example -> vitima473@webmail.example :: abriu atendimento
+[00650] bia@pixvelox.example -> vitima232@correio.example :: pediu código
+[00651] lucas@pixvelox.example -> vitima088@correio.example :: enviou link
+[00652] lucas@pixvelox.example -> vitima050@caixa-postal.example :: enviou link
+[00653] marina@pixvelox.example -> vitima185@correio.example :: transferiu
+[00654] lucas@pixvelox.example -> vitima214@mailbr.example :: pediu código
+[00655] camila@pixvelox.example -> vitima335@mailbr.example :: abriu atendimento
+[00656] bia@pixvelox.example -> vitima121@webmail.example :: enviou link
+[00657] joao.pedro@pixvelox.example -> vitima258@caixa-postal.example :: encerrou
+[00658] marina@pixvelox.example -> vitima308@correio.example :: encerrou
+[00659] joao.pedro@pixvelox.example -> vitima371@webmail.example :: encerrou
+[00660] marina@pixvelox.example -> vitima353@mailbr.example :: encerrou
+[00661] bia@pixvelox.example -> vitima198@webmail.example :: enviou link
+[00662] joao.pedro@pixvelox.example -> vitima107@caixa-postal.example :: transferiu
+[00663] lucas@pixvelox.example -> vitima347@caixa-postal.example :: enviou link
+[00664] camila@pixvelox.example -> vitima277@caixa-postal.example :: enviou link
+[00665] lucas@pixvelox.example -> vitima084@webmail.example :: pediu código
+[00666] marina@pixvelox.example -> vitima219@caixa-postal.example :: transferiu
+[00667] camila@pixvelox.example -> vitima164@mailbr.example :: abriu atendimento
+[00668] joao.pedro@pixvelox.example -> vitima462@caixa-postal.example :: pediu código
+[00669] joao.pedro@pixvelox.example -> vitima041@correio.example :: abriu atendimento
+[00670] camila@pixvelox.example -> vitima353@caixa-postal.example :: abriu atendimento
+[00671] marina@pixvelox.example -> vitima264@caixa-postal.example :: transferiu
+[00672] rafa@pixvelox.example -> vitima134@correio.example :: enviou link
+[00673] joao.pedro@pixvelox.example -> vitima427@webmail.example :: abriu atendimento
+[00674] bia@pixvelox.example -> vitima104@caixa-postal.example :: transferiu
+[00675] lucas@pixvelox.example -> vitima169@correio.example :: transferiu
+[00676] bia@pixvelox.example -> vitima004@mailbr.example :: transferiu
+[00677] camila@pixvelox.example -> vitima041@caixa-postal.example :: transferiu
+[00678] bia@pixvelox.example -> vitima456@mailbr.example :: abriu atendimento
+[00679] bia@pixvelox.example -> vitima332@correio.example :: transferiu
+[00680] bia@pixvelox.example -> vitima283@caixa-postal.example :: encerrou
+[00681] camila@pixvelox.example -> vitima143@webmail.example :: pediu código
+[00682] rafa@pixvelox.example -> vitima302@mailbr.example :: encerrou
+[00683] camila@pixvelox.example -> vitima472@caixa-postal.example :: enviou link
+[00684] rafa@pixvelox.example -> vitima286@webmail.example :: abriu atendimento
+[00685] marina@pixvelox.example -> vitima055@mailbr.example :: transferiu
+[00686] camila@pixvelox.example -> vitima240@correio.example :: transferiu
+[00687] bia@pixvelox.example -> vitima059@caixa-postal.example :: abriu atendimento
+[00688] lucas@pixvelox.example -> vitima438@webmail.example :: transferiu
+[00689] marina@pixvelox.example -> vitima355@webmail.example :: encerrou
+[00690] lucas@pixvelox.example -> vitima209@webmail.example :: pediu código
+[00691] camila@pixvelox.example -> vitima133@correio.example :: enviou link
+[00692] camila@pixvelox.example -> vitima276@correio.example :: transferiu
+[00693] lucas@pixvelox.example -> vitima056@correio.example :: enviou link
+[00694] marina@pixvelox.example -> vitima130@caixa-postal.example :: enviou link
+[00695] lucas@pixvelox.example -> vitima385@webmail.example :: pediu código
+[00696] bia@pixvelox.example -> vitima143@correio.example :: abriu atendimento
+[00697] rafa@pixvelox.example -> vitima118@mailbr.example :: pediu código
+[00698] camila@pixvelox.example -> vitima462@correio.example :: enviou link
+[00699] camila@pixvelox.example -> vitima031@correio.example :: transferiu
+[00700] bia@pixvelox.example -> vitima089@correio.example :: encerrou
+[00701] joao.pedro@pixvelox.example -> vitima469@mailbr.example :: enviou link
+[00702] joao.pedro@pixvelox.example -> vitima058@webmail.example :: enviou link
+[00703] bia@pixvelox.example -> vitima292@mailbr.example :: pediu código
+[00704] bia@pixvelox.example -> vitima181@correio.example :: transferiu
+[00705] camila@pixvelox.example -> vitima471@correio.example :: transferiu
+[00706] marina@pixvelox.example -> vitima176@mailbr.example :: pediu código
+[00707] bia@pixvelox.example -> vitima414@mailbr.example :: enviou link
+[00708] lucas@pixvelox.example -> vitima140@mailbr.example :: transferiu
+[00709] joao.pedro@pixvelox.example -> vitima412@webmail.example :: encerrou
+[00710] marina@pixvelox.example -> vitima196@mailbr.example :: pediu código
+[00711] lucas@pixvelox.example -> vitima392@mailbr.example :: enviou link
+[00712] bia@pixvelox.example -> vitima085@correio.example :: encerrou
+[00713] camila@pixvelox.example -> vitima263@webmail.example :: encerrou
+[00714] camila@pixvelox.example -> vitima250@webmail.example :: pediu código
+[00715] joao.pedro@pixvelox.example -> vitima251@caixa-postal.example :: pediu código
+[00716] rafa@pixvelox.example -> vitima401@correio.example :: transferiu
+[00717] rafa@pixvelox.example -> vitima192@webmail.example :: abriu atendimento
+[00718] joao.pedro@pixvelox.example -> vitima140@mailbr.example :: enviou link
+[00719] marina@pixvelox.example -> vitima261@caixa-postal.example :: abriu atendimento
+[00720] bia@pixvelox.example -> vitima108@correio.example :: encerrou
+[00721] rafa@pixvelox.example -> vitima056@caixa-postal.example :: pediu código
+[00722] rafa@pixvelox.example -> vitima181@webmail.example :: transferiu
+[00723] lucas@pixvelox.example -> vitima101@caixa-postal.example :: encerrou
+[00724] rafa@pixvelox.example -> vitima380@webmail.example :: encerrou
+[00725] marina@pixvelox.example -> vitima236@caixa-postal.example :: transferiu
+[00726] lucas@pixvelox.example -> vitima029@mailbr.example :: transferiu
+[00727] bia@pixvelox.example -> vitima079@mailbr.example :: enviou link
+[00728] lucas@pixvelox.example -> vitima298@mailbr.example :: pediu código
+[00729] bia@pixvelox.example -> vitima054@caixa-postal.example :: enviou link
+[00730] rafa@pixvelox.example -> vitima079@mailbr.example :: enviou link
+[00731] rafa@pixvelox.example -> vitima037@correio.example :: transferiu
+[00732] camila@pixvelox.example -> vitima027@caixa-postal.example :: enviou link
+[00733] lucas@pixvelox.example -> vitima044@mailbr.example :: encerrou
+[00734] camila@pixvelox.example -> vitima017@caixa-postal.example :: encerrou
+[00735] bia@pixvelox.example -> vitima444@mailbr.example :: abriu atendimento
+[00736] rafa@pixvelox.example -> vitima394@webmail.example :: abriu atendimento
+[00737] lucas@pixvelox.example -> vitima474@webmail.example :: enviou link
+[00738] marina@pixvelox.example -> vitima355@correio.example :: enviou link
+[00739] bia@pixvelox.example -> vitima296@mailbr.example :: pediu código
+[00740] bia@pixvelox.example -> vitima343@caixa-postal.example :: pediu código
+[00741] joao.pedro@pixvelox.example -> vitima431@caixa-postal.example :: enviou link
+[00742] lucas@pixvelox.example -> vitima085@correio.example :: enviou link
+[00743] joao.pedro@pixvelox.example -> vitima225@correio.example :: pediu código
+[00744] lucas@pixvelox.example -> vitima325@webmail.example :: pediu código
+[00745] bia@pixvelox.example -> vitima109@mailbr.example :: transferiu
+[00746] marina@pixvelox.example -> vitima103@mailbr.example :: pediu código
+[00747] joao.pedro@pixvelox.example -> vitima288@correio.example :: transferiu
+[00748] camila@pixvelox.example -> vitima011@correio.example :: encerrou
+[00749] joao.pedro@pixvelox.example -> vitima173@webmail.example :: pediu código
+[00750] joao.pedro@pixvelox.example -> vitima472@correio.example :: pediu código
+[00751] marina@pixvelox.example -> vitima275@caixa-postal.example :: encerrou
+[00752] bia@pixvelox.example -> vitima262@mailbr.example :: abriu atendimento
+[00753] rafa@pixvelox.example -> vitima063@webmail.example :: abriu atendimento
+[00754] joao.pedro@pixvelox.example -> vitima145@correio.example :: encerrou
+[00755] bia@pixvelox.example -> vitima175@mailbr.example :: abriu atendimento
+[00756] bia@pixvelox.example -> vitima141@mailbr.example :: pediu código
+[00757] bia@pixvelox.example -> vitima263@mailbr.example :: pediu código
+[00758] rafa@pixvelox.example -> vitima395@webmail.example :: transferiu
+[00759] marina@pixvelox.example -> vitima444@mailbr.example :: abriu atendimento
+[00760] lucas@pixvelox.example -> vitima445@caixa-postal.example :: enviou link
+[00761] bia@pixvelox.example -> vitima376@mailbr.example :: abriu atendimento
+[00762] bia@pixvelox.example -> vitima093@webmail.example :: enviou link
+[00763] joao.pedro@pixvelox.example -> vitima083@correio.example :: transferiu
+[00764] marina@pixvelox.example -> vitima243@webmail.example :: pediu código
+[00765] bia@pixvelox.example -> vitima278@webmail.example :: encerrou
+[00766] bia@pixvelox.example -> vitima298@correio.example :: enviou link
+[00767] rafa@pixvelox.example -> vitima046@caixa-postal.example :: enviou link
+[00768] rafa@pixvelox.example -> vitima442@caixa-postal.example :: enviou link
+[00769] camila@pixvelox.example -> vitima036@webmail.example :: enviou link
+[00770] lucas@pixvelox.example -> vitima230@correio.example :: abriu atendimento
+[00771] bia@pixvelox.example -> vitima402@correio.example :: encerrou
+[00772] marina@pixvelox.example -> vitima474@mailbr.example :: transferiu
+[00773] joao.pedro@pixvelox.example -> vitima362@webmail.example :: encerrou
+[00774] marina@pixvelox.example -> vitima418@webmail.example :: transferiu
+[00775] rafa@pixvelox.example -> vitima468@correio.example :: enviou link
+[00776] joao.pedro@pixvelox.example -> vitima236@webmail.example :: enviou link
+[00777] marina@pixvelox.example -> vitima004@caixa-postal.example :: abriu atendimento
+[00778] mare_alta@cofre-pixvelox.example -> painel@pixvelox.example :: login
+[00779] marina@pixvelox.example -> vitima280@mailbr.example :: abriu atendimento
+[00780] joao.pedro@pixvelox.example -> vitima098@caixa-postal.example :: enviou link
+[00781] camila@pixvelox.example -> vitima311@caixa-postal.example :: abriu atendimento
+[00782] rafa@pixvelox.example -> vitima106@caixa-postal.example :: enviou link
+[00783] marina@pixvelox.example -> vitima247@webmail.example :: transferiu
+[00784] marina@pixvelox.example -> vitima280@correio.example :: transferiu
+[00785] marina@pixvelox.example -> vitima099@correio.example :: transferiu
+[00786] bia@pixvelox.example -> vitima022@mailbr.example :: pediu código
+[00787] rafa@pixvelox.example -> vitima412@webmail.example :: enviou link
+[00788] rafa@pixvelox.example -> vitima289@caixa-postal.example :: pediu código
+[00789] lucas@pixvelox.example -> vitima025@correio.example :: encerrou
+[00790] camila@pixvelox.example -> vitima416@mailbr.example :: abriu atendimento
+[00791] joao.pedro@pixvelox.example -> vitima478@webmail.example :: enviou link
+[00792] rafa@pixvelox.example -> vitima126@correio.example :: abriu atendimento
+[00793] camila@pixvelox.example -> vitima436@mailbr.example :: enviou link
+[00794] camila@pixvelox.example -> vitima247@caixa-postal.example :: enviou link
+[00795] joao.pedro@pixvelox.example -> vitima285@mailbr.example :: pediu código
+[00796] bia@pixvelox.example -> vitima168@mailbr.example :: abriu atendimento
+[00797] bia@pixvelox.example -> vitima035@mailbr.example :: abriu atendimento
+[00798] lucas@pixvelox.example -> vitima200@correio.example :: transferiu
+[00799] joao.pedro@pixvelox.example -> vitima333@webmail.example :: abriu atendimento
+[00800] camila@pixvelox.example -> vitima449@mailbr.example :: abriu atendimento
+[00801] bia@pixvelox.example -> vitima372@webmail.example :: enviou link
+[00802] joao.pedro@pixvelox.example -> vitima090@correio.example :: enviou link
+[00803] marina@pixvelox.example -> vitima226@correio.example :: enviou link
+[00804] lucas@pixvelox.example -> vitima010@correio.example :: enviou link
+[00805] marina@pixvelox.example -> vitima244@caixa-postal.example :: abriu atendimento
+[00806] bia@pixvelox.example -> vitima319@webmail.example :: abriu atendimento
+[00807] bia@pixvelox.example -> vitima077@caixa-postal.example :: enviou link
+[00808] bia@pixvelox.example -> vitima162@webmail.example :: abriu atendimento
+[00809] bia@pixvelox.example -> vitima093@correio.example :: abriu atendimento
+[00810] rafa@pixvelox.example -> vitima250@correio.example :: encerrou
+[00811] joao.pedro@pixvelox.example -> vitima081@webmail.example :: encerrou
+[00812] joao.pedro@pixvelox.example -> vitima366@caixa-postal.example :: abriu atendimento
+[00813] camila@pixvelox.example -> vitima185@mailbr.example :: enviou link
+[00814] camila@pixvelox.example -> vitima027@correio.example :: abriu atendimento
+[00815] marina@pixvelox.example -> vitima125@webmail.example :: abriu atendimento
+[00816] bia@pixvelox.example -> vitima111@mailbr.example :: pediu código
+[00817] camila@pixvelox.example -> vitima242@correio.example :: abriu atendimento
+[00818] camila@pixvelox.example -> vitima419@caixa-postal.example :: encerrou
+[00819] joao.pedro@pixvelox.example -> vitima437@caixa-postal.example :: abriu atendimento
+[00820] lucas@pixvelox.example -> vitima353@caixa-postal.example :: encerrou
+[00821] lucas@pixvelox.example -> vitima477@caixa-postal.example :: abriu atendimento
+[00822] lucas@pixvelox.example -> vitima334@correio.example :: transferiu
+[00823] camila@pixvelox.example -> vitima325@webmail.example :: enviou link
+[00824] camila@pixvelox.example -> vitima145@mailbr.example :: pediu código
+[00825] marina@pixvelox.example -> vitima464@correio.example :: enviou link
+[00826] camila@pixvelox.example -> vitima078@mailbr.example :: abriu atendimento
+[00827] marina@pixvelox.example -> vitima234@webmail.example :: enviou link
+[00828] camila@pixvelox.example -> vitima425@mailbr.example :: abriu atendimento
+[00829] bia@pixvelox.example -> vitima457@webmail.example :: transferiu
+[00830] rafa@pixvelox.example -> vitima166@caixa-postal.example :: enviou link
+[00831] marina@pixvelox.example -> vitima105@webmail.example :: enviou link
+[00832] rafa@pixvelox.example -> vitima289@caixa-postal.example :: transferiu
+[00833] bia@pixvelox.example -> vitima175@caixa-postal.example :: encerrou
+[00834] joao.pedro@pixvelox.example -> vitima377@webmail.example :: enviou link
+[00835] joao.pedro@pixvelox.example -> vitima200@webmail.example :: pediu código
+[00836] rafa@pixvelox.example -> vitima231@mailbr.example :: abriu atendimento
+[00837] joao.pedro@pixvelox.example -> vitima014@mailbr.example :: enviou link
+[00838] lucas@pixvelox.example -> vitima304@correio.example :: pediu código
+[00839] bia@pixvelox.example -> vitima316@mailbr.example :: transferiu
+[00840] camila@pixvelox.example -> vitima379@webmail.example :: enviou link
+[00841] marina@pixvelox.example -> vitima432@webmail.example :: transferiu
+[00842] bia@pixvelox.example -> vitima408@caixa-postal.example :: encerrou
+[00843] lucas@pixvelox.example -> vitima425@webmail.example :: transferiu
+[00844] joao.pedro@pixvelox.example -> vitima061@correio.example :: transferiu
+[00845] bia@pixvelox.example -> vitima478@caixa-postal.example :: enviou link
+[00846] lucas@pixvelox.example -> vitima029@webmail.example :: transferiu
+[00847] rafa@pixvelox.example -> vitima045@correio.example :: abriu atendimento
+[00848] camila@pixvelox.example -> vitima025@webmail.example :: abriu atendimento
+[00849] marina@pixvelox.example -> vitima161@correio.example :: pediu código
+[00850] rafa@pixvelox.example -> vitima248@webmail.example :: transferiu
+[00851] bia@pixvelox.example -> vitima383@mailbr.example :: enviou link
+[00852] joao.pedro@pixvelox.example -> vitima269@correio.example :: encerrou
+[00853] lucas@pixvelox.example -> vitima266@mailbr.example :: transferiu
+[00854] joao.pedro@pixvelox.example -> vitima369@caixa-postal.example :: enviou link
+[00855] joao.pedro@pixvelox.example -> vitima205@mailbr.example :: enviou link
+[00856] marina@pixvelox.example -> vitima344@caixa-postal.example :: pediu código
+[00857] camila@pixvelox.example -> vitima447@mailbr.example :: enviou link
+[00858] bia@pixvelox.example -> vitima258@mailbr.example :: pediu código
+[00859] camila@pixvelox.example -> vitima430@webmail.example :: pediu código
+[00860] marina@pixvelox.example -> vitima396@mailbr.example :: pediu código
+[00861] joao.pedro@pixvelox.example -> vitima141@caixa-postal.example :: transferiu
+[00862] marina@pixvelox.example -> vitima466@caixa-postal.example :: enviou link
+[00863] bia@pixvelox.example -> vitima246@caixa-postal.example :: pediu código
+[00864] joao.pedro@pixvelox.example -> vitima061@webmail.example :: encerrou
+[00865] rafa@pixvelox.example -> vitima384@mailbr.example :: enviou link
+[00866] rafa@pixvelox.example -> vitima403@caixa-postal.example :: transferiu
+[00867] joao.pedro@pixvelox.example -> vitima442@caixa-postal.example :: abriu atendimento
+[00868] lucas@pixvelox.example -> vitima034@caixa-postal.example :: enviou link
+[00869] rafa@pixvelox.example -> vitima202@webmail.example :: enviou link
+[00870] bia@pixvelox.example -> vitima164@correio.example :: enviou link
+[00871] camila@pixvelox.example -> vitima259@mailbr.example :: encerrou
+[00872] marina@pixvelox.example -> vitima076@webmail.example :: encerrou
+[00873] lucas@pixvelox.example -> vitima025@mailbr.example :: encerrou
+[00874] camila@pixvelox.example -> vitima045@correio.example :: enviou link
+[00875] rafa@pixvelox.example -> vitima362@webmail.example :: enviou link
+[00876] camila@pixvelox.example -> vitima104@webmail.example :: pediu código
+[00877] lucas@pixvelox.example -> vitima115@correio.example :: enviou link
+[00878] marina@pixvelox.example -> vitima039@correio.example :: abriu atendimento
+[00879] rafa@pixvelox.example -> vitima210@mailbr.example :: abriu atendimento
+[00880] lucas@pixvelox.example -> vitima308@mailbr.example :: enviou link
+[00881] camila@pixvelox.example -> vitima382@webmail.example :: transferiu
+[00882] bia@pixvelox.example -> vitima472@correio.example :: encerrou
+[00883] marina@pixvelox.example -> vitima122@caixa-postal.example :: pediu código
+[00884] bia@pixvelox.example -> vitima006@mailbr.example :: pediu código
+[00885] camila@pixvelox.example -> vitima347@webmail.example :: encerrou
+[00886] marina@pixvelox.example -> vitima134@mailbr.example :: abriu atendimento
+[00887] camila@pixvelox.example -> vitima473@caixa-postal.example :: enviou link
+[00888] rafa@pixvelox.example -> vitima429@mailbr.example :: enviou link
+[00889] joao.pedro@pixvelox.example -> vitima370@mailbr.example :: enviou link
+[00890] joao.pedro@pixvelox.example -> vitima288@correio.example :: transferiu
+[00891] camila@pixvelox.example -> vitima407@webmail.example :: transferiu
+[00892] lucas@pixvelox.example -> vitima040@mailbr.example :: encerrou
+[00893] camila@pixvelox.example -> vitima260@webmail.example :: abriu atendimento
+[00894] joao.pedro@pixvelox.example -> vitima385@webmail.example :: pediu código
+[00895] rafa@pixvelox.example -> vitima347@correio.example :: transferiu
+[00896] lucas@pixvelox.example -> vitima288@correio.example :: transferiu
+[00897] camila@pixvelox.example -> vitima201@correio.example :: enviou link
+[00898] camila@pixvelox.example -> vitima290@correio.example :: enviou link
+[00899] marina@pixvelox.example -> vitima162@caixa-postal.example :: enviou link
+[00900] bia@pixvelox.example -> vitima394@mailbr.example :: transferiu
+[00901] marina@pixvelox.example -> vitima181@correio.example :: abriu atendimento
+[00902] lucas@pixvelox.example -> vitima467@correio.example :: pediu código
+[00903] marina@pixvelox.example -> vitima351@webmail.example :: enviou link
+[00904] bia@pixvelox.example -> vitima323@caixa-postal.example :: enviou link
+[00905] bia@pixvelox.example -> vitima274@caixa-postal.example :: encerrou
+[00906] camila@pixvelox.example -> vitima218@webmail.example :: transferiu
+[00907] joao.pedro@pixvelox.example -> vitima414@caixa-postal.example :: transferiu
+[00908] bia@pixvelox.example -> vitima193@caixa-postal.example :: transferiu
+[00909] joao.pedro@pixvelox.example -> vitima338@mailbr.example :: pediu código
+[00910] bia@pixvelox.example -> vitima201@caixa-postal.example :: pediu código
+[00911] marina@pixvelox.example -> vitima458@webmail.example :: abriu atendimento
+[00912] marina@pixvelox.example -> vitima036@caixa-postal.example :: pediu código
+[00913] rafa@pixvelox.example -> vitima415@correio.example :: encerrou
+[00914] bia@pixvelox.example -> vitima016@mailbr.example :: pediu código
+[00915] camila@pixvelox.example -> vitima464@webmail.example :: transferiu
+[00916] rafa@pixvelox.example -> vitima371@correio.example :: encerrou
+[00917] bia@pixvelox.example -> vitima363@webmail.example :: encerrou
+[00918] lucas@pixvelox.example -> vitima439@correio.example :: transferiu
+[00919] bia@pixvelox.example -> vitima032@correio.example :: encerrou
+[00920] marina@pixvelox.example -> vitima252@caixa-postal.example :: enviou link
+[00921] camila@pixvelox.example -> vitima214@correio.example :: transferiu
+[00922] lucas@pixvelox.example -> vitima317@mailbr.example :: abriu atendimento
+[00923] camila@pixvelox.example -> vitima070@caixa-postal.example :: transferiu
+[00924] camila@pixvelox.example -> vitima343@correio.example :: transferiu
+[00925] camila@pixvelox.example -> vitima083@correio.example :: encerrou
+[00926] rafa@pixvelox.example -> vitima134@webmail.example :: enviou link
+[00927] lucas@pixvelox.example -> vitima136@webmail.example :: transferiu
+[00928] bia@pixvelox.example -> vitima375@correio.example :: enviou link
+[00929] bia@pixvelox.example -> vitima336@caixa-postal.example :: transferiu
+[00930] joao.pedro@pixvelox.example -> vitima414@caixa-postal.example :: transferiu
+[00931] camila@pixvelox.example -> vitima313@webmail.example :: encerrou
+[00932] bia@pixvelox.example -> vitima233@caixa-postal.example :: enviou link
+[00933] camila@pixvelox.example -> vitima363@webmail.example :: enviou link
+[00934] joao.pedro@pixvelox.example -> vitima220@webmail.example :: encerrou
+[00935] rafa@pixvelox.example -> vitima365@correio.example :: pediu código
+[00936] rafa@pixvelox.example -> vitima296@webmail.example :: transferiu
+[00937] bia@pixvelox.example -> vitima009@mailbr.example :: pediu código
+[00938] joao.pedro@pixvelox.example -> vitima130@webmail.example :: enviou link
+[00939] rafa@pixvelox.example -> vitima137@correio.example :: encerrou
+[00940] rafa@pixvelox.example -> vitima053@mailbr.example :: transferiu
+[00941] marina@pixvelox.example -> vitima230@caixa-postal.example :: enviou link
+[00942] marina@pixvelox.example -> vitima024@correio.example :: enviou link
+[00943] bia@pixvelox.example -> vitima068@webmail.example :: enviou link
+[00944] rafa@pixvelox.example -> vitima338@webmail.example :: abriu atendimento
+[00945] marina@pixvelox.example -> vitima333@correio.example :: pediu código
+[00946] bia@pixvelox.example -> vitima452@caixa-postal.example :: abriu atendimento
+[00947] bia@pixvelox.example -> vitima149@mailbr.example :: transferiu
+[00948] rafa@pixvelox.example -> vitima403@webmail.example :: enviou link
+[00949] marina@pixvelox.example -> vitima136@mailbr.example :: encerrou
+[00950] joao.pedro@pixvelox.example -> vitima076@caixa-postal.example :: enviou link
+[00951] bia@pixvelox.example -> vitima064@correio.example :: abriu atendimento
+[00952] rafa@pixvelox.example -> vitima097@webmail.example :: encerrou
+[00953] camila@pixvelox.example -> vitima285@caixa-postal.example :: encerrou
+[00954] joao.pedro@pixvelox.example -> vitima229@mailbr.example :: enviou link
+[00955] lucas@pixvelox.example -> vitima380@webmail.example :: transferiu
+[00956] camila@pixvelox.example -> vitima343@caixa-postal.example :: abriu atendimento
+[00957] rafa@pixvelox.example -> vitima417@mailbr.example :: pediu código
+[00958] marina@pixvelox.example -> vitima370@mailbr.example :: transferiu
+[00959] lucas@pixvelox.example -> vitima286@caixa-postal.example :: pediu código
+[00960] lucas@pixvelox.example -> vitima330@caixa-postal.example :: abriu atendimento
+[00961] camila@pixvelox.example -> vitima235@mailbr.example :: enviou link
+[00962] rafa@pixvelox.example -> vitima290@caixa-postal.example :: pediu código
+[00963] joao.pedro@pixvelox.example -> vitima216@correio.example :: enviou link
+[00964] bia@pixvelox.example -> vitima382@caixa-postal.example :: encerrou
+[00965] bia@pixvelox.example -> vitima124@mailbr.example :: abriu atendimento
+[00966] bia@pixvelox.example -> vitima087@webmail.example :: enviou link
+[00967] marina@pixvelox.example -> vitima221@webmail.example :: transferiu
+[00968] joao.pedro@pixvelox.example -> vitima166@mailbr.example :: pediu código
+[00969] bia@pixvelox.example -> vitima283@webmail.example :: encerrou
+[00970] rafa@pixvelox.example -> vitima100@mailbr.example :: pediu código
+[00971] marina@pixvelox.example -> vitima423@webmail.example :: encerrou
+[00972] marina@pixvelox.example -> vitima421@correio.example :: abriu atendimento
+[00973] rafa@pixvelox.example -> vitima214@mailbr.example :: encerrou
+[00974] joao.pedro@pixvelox.example -> vitima242@correio.example :: abriu atendimento
+[00975] marina@pixvelox.example -> vitima320@mailbr.example :: transferiu
+[00976] rafa@pixvelox.example -> vitima327@correio.example :: encerrou
+[00977] marina@pixvelox.example -> vitima185@caixa-postal.example :: enviou link
+[00978] bia@pixvelox.example -> vitima161@caixa-postal.example :: enviou link
+[00979] joao.pedro@pixvelox.example -> vitima469@webmail.example :: enviou link
+[00980] lucas@pixvelox.example -> vitima342@mailbr.example :: abriu atendimento
+[00981] bia@pixvelox.example -> vitima120@webmail.example :: encerrou
+[00982] bia@pixvelox.example -> vitima101@webmail.example :: transferiu
+[00983] rafa@pixvelox.example -> vitima221@correio.example :: abriu atendimento
+[00984] rafa@pixvelox.example -> vitima276@mailbr.example :: transferiu
+[00985] marina@pixvelox.example -> vitima263@correio.example :: enviou link
+[00986] camila@pixvelox.example -> vitima063@webmail.example :: enviou link
+[00987] bia@pixvelox.example -> vitima335@correio.example :: abriu atendimento
+[00988] marina@pixvelox.example -> vitima345@correio.example :: encerrou
+[00989] joao.pedro@pixvelox.example -> vitima044@caixa-postal.example :: pediu código
+[00990] rafa@pixvelox.example -> vitima349@caixa-postal.example :: pediu código
+[00991] lucas@pixvelox.example -> vitima002@correio.example :: enviou link
+[00992] camila@pixvelox.example -> vitima156@mailbr.example :: transferiu
+[00993] rafa@pixvelox.example -> vitima286@correio.example :: encerrou
+[00994] lucas@pixvelox.example -> vitima290@mailbr.example :: abriu atendimento
+[00995] rafa@pixvelox.example -> vitima028@correio.example :: transferiu
+[00996] camila@pixvelox.example -> vitima201@correio.example :: encerrou
+[00997] rafa@pixvelox.example -> vitima026@mailbr.example :: pediu código
+[00998] marina@pixvelox.example -> vitima251@caixa-postal.example :: enviou link
+[00999] marina@pixvelox.example -> vitima158@correio.example :: enviou link
+[01000] bia@pixvelox.example -> vitima268@webmail.example :: encerrou
+[01001] marina@pixvelox.example -> vitima151@mailbr.example :: pediu código
+[01002] camila@pixvelox.example -> vitima201@mailbr.example :: pediu código
+[01003] joao.pedro@pixvelox.example -> vitima147@webmail.example :: encerrou
+[01004] camila@pixvelox.example -> vitima094@correio.example :: enviou link
+[01005] camila@pixvelox.example -> vitima104@caixa-postal.example :: pediu código
+[01006] rafa@pixvelox.example -> vitima413@caixa-postal.example :: transferiu
+[01007] bia@pixvelox.example -> vitima230@caixa-postal.example :: enviou link
+[01008] rafa@pixvelox.example -> vitima373@webmail.example :: enviou link
+[01009] camila@pixvelox.example -> vitima051@caixa-postal.example :: pediu código
+[01010] marina@pixvelox.example -> vitima164@correio.example :: encerrou
+[01011] rafa@pixvelox.example -> vitima316@caixa-postal.example :: enviou link
+[01012] lucas@pixvelox.example -> vitima132@mailbr.example :: transferiu
+[01013] lucas@pixvelox.example -> vitima378@correio.example :: enviou link
+[01014] joao.pedro@pixvelox.example -> vitima440@caixa-postal.example :: encerrou
+[01015] joao.pedro@pixvelox.example -> vitima211@webmail.example :: abriu atendimento
+[01016] lucas@pixvelox.example -> vitima253@mailbr.example :: enviou link
+[01017] rafa@pixvelox.example -> vitima162@mailbr.example :: encerrou
+[01018] joao.pedro@pixvelox.example -> vitima375@caixa-postal.example :: encerrou
+[01019] joao.pedro@pixvelox.example -> vitima261@correio.example :: encerrou
+[01020] lucas@pixvelox.example -> vitima158@correio.example :: encerrou
+[01021] joao.pedro@pixvelox.example -> vitima052@correio.example :: enviou link
+[01022] bia@pixvelox.example -> vitima102@caixa-postal.example :: abriu atendimento
+[01023] bia@pixvelox.example -> vitima043@correio.example :: enviou link
+[01024] bia@pixvelox.example -> vitima354@correio.example :: transferiu
+[01025] camila@pixvelox.example -> vitima305@webmail.example :: enviou link
+[01026] marina@pixvelox.example -> vitima244@caixa-postal.example :: pediu código
+[01027] marina@pixvelox.example -> vitima337@webmail.example :: abriu atendimento
+[01028] rafa@pixvelox.example -> vitima454@correio.example :: enviou link
+[01029] marina@pixvelox.example -> vitima070@correio.example :: abriu atendimento
+[01030] rafa@pixvelox.example -> vitima350@caixa-postal.example :: enviou link
+[01031] camila@pixvelox.example -> vitima417@caixa-postal.example :: enviou link
+[01032] marina@pixvelox.example -> vitima360@mailbr.example :: abriu atendimento
+[01033] rafa@pixvelox.example -> vitima298@mailbr.example :: transferiu
+[01034] camila@pixvelox.example -> vitima167@correio.example :: pediu código
+[01035] bia@pixvelox.example -> vitima063@mailbr.example :: abriu atendimento
+[01036] rafa@pixvelox.example -> vitima008@correio.example :: enviou link
+[01037] rafa@pixvelox.example -> vitima149@correio.example :: encerrou
+[01038] rafa@pixvelox.example -> vitima422@mailbr.example :: abriu atendimento
+[01039] joao.pedro@pixvelox.example -> vitima209@correio.example :: transferiu
+[01040] bia@pixvelox.example -> vitima468@mailbr.example :: pediu código
+[01041] marina@pixvelox.example -> vitima464@caixa-postal.example :: transferiu
+[01042] marina@pixvelox.example -> vitima176@caixa-postal.example :: abriu atendimento
+[01043] bia@pixvelox.example -> vitima283@mailbr.example :: abriu atendimento
+[01044] camila@pixvelox.example -> vitima128@correio.example :: transferiu
+[01045] joao.pedro@pixvelox.example -> vitima163@correio.example :: transferiu
+[01046] camila@pixvelox.example -> vitima438@mailbr.example :: pediu código
+[01047] joao.pedro@pixvelox.example -> vitima264@webmail.example :: abriu atendimento
+[01048] lucas@pixvelox.example -> vitima065@caixa-postal.example :: abriu atendimento
+[01049] camila@pixvelox.example -> vitima317@caixa-postal.example :: transferiu
+[01050] bia@pixvelox.example -> vitima029@mailbr.example :: abriu atendimento
+[01051] lucas@pixvelox.example -> vitima454@webmail.example :: encerrou
+[01052] camila@pixvelox.example -> vitima304@mailbr.example :: pediu código
+[01053] lucas@pixvelox.example -> vitima079@webmail.example :: pediu código
+[01054] camila@pixvelox.example -> vitima455@webmail.example :: abriu atendimento
+[01055] camila@pixvelox.example -> vitima298@webmail.example :: pediu código
+[01056] marina@pixvelox.example -> vitima071@correio.example :: enviou link
+[01057] joao.pedro@pixvelox.example -> vitima140@mailbr.example :: encerrou
+[01058] camila@pixvelox.example -> vitima206@mailbr.example :: enviou link
+[01059] joao.pedro@pixvelox.example -> vitima297@caixa-postal.example :: abriu atendimento
+[01060] marina@pixvelox.example -> vitima262@webmail.example :: pediu código
+[01061] camila@pixvelox.example -> vitima025@correio.example :: transferiu
+[01062] camila@pixvelox.example -> vitima243@caixa-postal.example :: enviou link
+[01063] marina@pixvelox.example -> vitima231@correio.example :: pediu código
+[01064] marina@pixvelox.example -> vitima093@webmail.example :: enviou link
+[01065] marina@pixvelox.example -> vitima293@caixa-postal.example :: enviou link
+[01066] marina@pixvelox.example -> vitima392@webmail.example :: transferiu
+[01067] joao.pedro@pixvelox.example -> vitima477@mailbr.example :: pediu código
+[01068] bia@pixvelox.example -> vitima023@caixa-postal.example :: pediu código
+[01069] marina@pixvelox.example -> vitima216@correio.example :: encerrou
+[01070] marina@pixvelox.example -> vitima242@correio.example :: transferiu
+[01071] rafa@pixvelox.example -> vitima332@caixa-postal.example :: pediu código
+[01072] rafa@pixvelox.example -> vitima277@webmail.example :: encerrou
+[01073] camila@pixvelox.example -> vitima105@webmail.example :: transferiu
+[01074] bia@pixvelox.example -> vitima201@correio.example :: transferiu
+[01075] marina@pixvelox.example -> vitima361@caixa-postal.example :: enviou link
+[01076] camila@pixvelox.example -> vitima351@caixa-postal.example :: pediu código
+[01077] rafa@pixvelox.example -> vitima222@webmail.example :: pediu código
+[01078] marina@pixvelox.example -> vitima373@correio.example :: pediu código
+[01079] rafa@pixvelox.example -> vitima089@caixa-postal.example :: encerrou
+[01080] camila@pixvelox.example -> vitima175@mailbr.example :: transferiu
+[01081] joao.pedro@pixvelox.example -> vitima275@correio.example :: enviou link
+[01082] rafa@pixvelox.example -> vitima401@caixa-postal.example :: encerrou
+[01083] joao.pedro@pixvelox.example -> vitima268@webmail.example :: enviou link
+[01084] rafa@pixvelox.example -> vitima201@caixa-postal.example :: encerrou
+[01085] marina@pixvelox.example -> vitima465@webmail.example :: encerrou
+[01086] rafa@pixvelox.example -> vitima170@correio.example :: enviou link
+[01087] joao.pedro@pixvelox.example -> vitima096@mailbr.example :: encerrou
+[01088] marina@pixvelox.example -> vitima221@correio.example :: transferiu
+[01089] camila@pixvelox.example -> vitima223@webmail.example :: enviou link
+[01090] bia@pixvelox.example -> vitima371@caixa-postal.example :: abriu atendimento
+[01091] marina@pixvelox.example -> vitima433@caixa-postal.example :: pediu código
+[01092] marina@pixvelox.example -> vitima390@mailbr.example :: pediu código
+[01093] bia@pixvelox.example -> vitima430@caixa-postal.example :: enviou link
+[01094] marina@pixvelox.example -> vitima355@caixa-postal.example :: pediu código
+[01095] bia@pixvelox.example -> vitima311@caixa-postal.example :: encerrou
+[01096] joao.pedro@pixvelox.example -> vitima189@webmail.example :: transferiu
+[01097] marina@pixvelox.example -> vitima231@correio.example :: transferiu
+[01098] camila@pixvelox.example -> vitima307@correio.example :: enviou link
+[01099] marina@pixvelox.example -> vitima286@webmail.example :: abriu atendimento
+[01100] lucas@pixvelox.example -> vitima191@mailbr.example :: pediu código
+[01101] lucas@pixvelox.example -> vitima129@caixa-postal.example :: pediu código
+[01102] marina@pixvelox.example -> vitima425@correio.example :: enviou link
+[01103] bia@pixvelox.example -> vitima435@correio.example :: pediu código
+[01104] rafa@pixvelox.example -> vitima138@mailbr.example :: abriu atendimento
+[01105] lucas@pixvelox.example -> vitima115@webmail.example :: abriu atendimento
+[01106] marina@pixvelox.example -> vitima120@mailbr.example :: pediu código
+[01107] lucas@pixvelox.example -> vitima332@correio.example :: encerrou
+[01108] rafa@pixvelox.example -> vitima062@webmail.example :: abriu atendimento
+[01109] joao.pedro@pixvelox.example -> vitima167@mailbr.example :: encerrou
+[01110] joao.pedro@pixvelox.example -> vitima452@caixa-postal.example :: transferiu
+[01111] rafa@pixvelox.example -> vitima415@webmail.example :: transferiu
+[01112] bia@pixvelox.example -> vitima439@caixa-postal.example :: pediu código
+[01113] joao.pedro@pixvelox.example -> vitima330@caixa-postal.example :: abriu atendimento
+[01114] rafa@pixvelox.example -> vitima073@caixa-postal.example :: enviou link
+[01115] bia@pixvelox.example -> vitima031@caixa-postal.example :: encerrou
+[01116] marina@pixvelox.example -> vitima314@caixa-postal.example :: enviou link
+[01117] marina@pixvelox.example -> vitima295@correio.example :: transferiu
+[01118] bia@pixvelox.example -> vitima387@correio.example :: enviou link
+[01119] camila@pixvelox.example -> vitima324@correio.example :: pediu código
+[01120] lucas@pixvelox.example -> vitima267@webmail.example :: pediu código
+[01121] camila@pixvelox.example -> vitima020@mailbr.example :: transferiu
+[01122] bia@pixvelox.example -> vitima308@correio.example :: enviou link
+[01123] joao.pedro@pixvelox.example -> vitima123@caixa-postal.example :: transferiu
+[01124] joao.pedro@pixvelox.example -> vitima318@correio.example :: enviou link
+[01125] camila@pixvelox.example -> vitima015@caixa-postal.example :: abriu atendimento
+[01126] camila@pixvelox.example -> vitima208@mailbr.example :: transferiu
+[01127] lucas@pixvelox.example -> vitima071@correio.example :: encerrou
+[01128] rafa@pixvelox.example -> vitima047@webmail.example :: enviou link
+[01129] camila@pixvelox.example -> vitima333@webmail.example :: pediu código
+[01130] rafa@pixvelox.example -> vitima196@correio.example :: enviou link
+[01131] joao.pedro@pixvelox.example -> vitima219@correio.example :: pediu código
+[01132] rafa@pixvelox.example -> vitima108@mailbr.example :: encerrou
+[01133] bia@pixvelox.example -> vitima224@caixa-postal.example :: encerrou
+[01134] rafa@pixvelox.example -> vitima346@caixa-postal.example :: enviou link
+[01135] camila@pixvelox.example -> vitima074@webmail.example :: enviou link
+[01136] joao.pedro@pixvelox.example -> vitima352@caixa-postal.example :: encerrou
+[01137] bia@pixvelox.example -> vitima359@mailbr.example :: abriu atendimento
+[01138] rafa@pixvelox.example -> vitima054@correio.example :: enviou link
+[01139] marina@pixvelox.example -> vitima391@webmail.example :: transferiu
+[01140] camila@pixvelox.example -> vitima428@correio.example :: enviou link
+[01141] camila@pixvelox.example -> vitima479@caixa-postal.example :: encerrou
+[01142] joao.pedro@pixvelox.example -> vitima406@caixa-postal.example :: encerrou
+[01143] marina@pixvelox.example -> vitima184@correio.example :: abriu atendimento
+[01144] joao.pedro@pixvelox.example -> vitima060@caixa-postal.example :: encerrou
+[01145] lucas@pixvelox.example -> vitima136@mailbr.example :: enviou link
+[01146] marina@pixvelox.example -> vitima174@caixa-postal.example :: pediu código
+[01147] rafa@pixvelox.example -> vitima179@webmail.example :: pediu código
+[01148] bia@pixvelox.example -> vitima301@webmail.example :: pediu código
+[01149] marina@pixvelox.example -> vitima280@caixa-postal.example :: pediu código
+[01150] camila@pixvelox.example -> vitima137@correio.example :: transferiu
+[01151] marina@pixvelox.example -> vitima203@correio.example :: encerrou
+[01152] bia@pixvelox.example -> vitima141@correio.example :: encerrou
+[01153] bia@pixvelox.example -> vitima139@webmail.example :: encerrou
+[01154] marina@pixvelox.example -> vitima043@mailbr.example :: pediu código
+[01155] lucas@pixvelox.example -> vitima468@mailbr.example :: encerrou
+[01156] marina@pixvelox.example -> vitima066@mailbr.example :: abriu atendimento
+[01157] bia@pixvelox.example -> vitima081@caixa-postal.example :: pediu código
+[01158] camila@pixvelox.example -> vitima068@caixa-postal.example :: enviou link
+[01159] bia@pixvelox.example -> vitima198@correio.example :: enviou link
+[01160] camila@pixvelox.example -> vitima004@mailbr.example :: encerrou
+[01161] lucas@pixvelox.example -> vitima470@correio.example :: encerrou
+[01162] lucas@pixvelox.example -> vitima357@webmail.example :: transferiu
+[01163] rafa@pixvelox.example -> vitima214@caixa-postal.example :: pediu código
+[01164] rafa@pixvelox.example -> vitima071@webmail.example :: pediu código
+[01165] lucas@pixvelox.example -> vitima167@caixa-postal.example :: encerrou
+[01166] marina@pixvelox.example -> vitima158@caixa-postal.example :: pediu código
+[01167] bia@pixvelox.example -> vitima250@mailbr.example :: transferiu
+[01168] camila@pixvelox.example -> vitima283@caixa-postal.example :: enviou link
+[01169] camila@pixvelox.example -> vitima392@mailbr.example :: abriu atendimento
+[01170] joao.pedro@pixvelox.example -> vitima138@mailbr.example :: transferiu
+[01171] lucas@pixvelox.example -> vitima238@correio.example :: pediu código
+[01172] camila@pixvelox.example -> vitima174@caixa-postal.example :: transferiu
+[01173] marina@pixvelox.example -> vitima257@correio.example :: pediu código
+[01174] joao.pedro@pixvelox.example -> vitima443@caixa-postal.example :: enviou link
+[01175] camila@pixvelox.example -> vitima382@webmail.example :: abriu atendimento
+[01176] rafa@pixvelox.example -> vitima343@caixa-postal.example :: pediu código
+[01177] lucas@pixvelox.example -> vitima328@mailbr.example :: enviou link
+[01178] joao.pedro@pixvelox.example -> vitima217@mailbr.example :: transferiu
+[01179] joao.pedro@pixvelox.example -> vitima356@mailbr.example :: pediu código
+[01180] joao.pedro@pixvelox.example -> vitima267@webmail.example :: enviou link
+[01181] marina@pixvelox.example -> vitima362@mailbr.example :: transferiu
+[01182] lucas@pixvelox.example -> vitima198@mailbr.example :: transferiu
+[01183] marina@pixvelox.example -> vitima455@caixa-postal.example :: enviou link
+[01184] camila@pixvelox.example -> vitima115@mailbr.example :: enviou link
+[01185] rafa@pixvelox.example -> vitima226@webmail.example :: abriu atendimento
+[01186] camila@pixvelox.example -> vitima158@caixa-postal.example :: transferiu
+[01187] camila@pixvelox.example -> vitima053@correio.example :: pediu código
+[01188] joao.pedro@pixvelox.example -> vitima458@webmail.example :: encerrou
+[01189] joao.pedro@pixvelox.example -> vitima369@mailbr.example :: abriu atendimento
+[01190] camila@pixvelox.example -> vitima215@caixa-postal.example :: transferiu
+[01191] marina@pixvelox.example -> vitima174@correio.example :: abriu atendimento
+[01192] lucas@pixvelox.example -> vitima206@correio.example :: encerrou
+[01193] marina@pixvelox.example -> vitima368@mailbr.example :: abriu atendimento
+[01194] rafa@pixvelox.example -> vitima250@caixa-postal.example :: abriu atendimento
+[01195] marina@pixvelox.example -> vitima028@mailbr.example :: abriu atendimento
+[01196] lucas@pixvelox.example -> vitima150@caixa-postal.example :: enviou link
+[01197] bia@pixvelox.example -> vitima462@mailbr.example :: pediu código
+[01198] rafa@pixvelox.example -> vitima128@mailbr.example :: encerrou
+[01199] joao.pedro@pixvelox.example -> vitima139@caixa-postal.example :: abriu atendimento
+[01200] bia@pixvelox.example -> vitima042@mailbr.example :: abriu atendimento
+[01201] joao.pedro@pixvelox.example -> vitima448@caixa-postal.example :: pediu código
+[01202] joao.pedro@pixvelox.example -> vitima172@caixa-postal.example :: pediu código
+[01203] bia@pixvelox.example -> vitima105@webmail.example :: pediu código
+[01204] painel@pixvelox.example -> agulha_achada_no_palheiro@cofre.pixvelox.example :: copia oculta do relatorio
+[01205] joao.pedro@pixvelox.example -> vitima138@webmail.example :: pediu código
+[01206] lucas@pixvelox.example -> vitima340@correio.example :: encerrou
+[01207] marina@pixvelox.example -> vitima205@caixa-postal.example :: encerrou
+[01208] bia@pixvelox.example -> vitima294@webmail.example :: encerrou
+[01209] bia@pixvelox.example -> vitima125@mailbr.example :: abriu atendimento
+[01210] lucas@pixvelox.example -> vitima148@caixa-postal.example :: enviou link
+[01211] bia@pixvelox.example -> vitima268@mailbr.example :: abriu atendimento
+[01212] marina@pixvelox.example -> vitima415@mailbr.example :: enviou link
+[01213] rafa@pixvelox.example -> vitima284@correio.example :: transferiu
+[01214] rafa@pixvelox.example -> vitima301@correio.example :: enviou link
+[01215] marina@pixvelox.example -> vitima104@correio.example :: abriu atendimento
+[01216] joao.pedro@pixvelox.example -> vitima208@correio.example :: enviou link
+[01217] bia@pixvelox.example -> vitima028@caixa-postal.example :: encerrou
+[01218] rafa@pixvelox.example -> vitima017@caixa-postal.example :: transferiu
+[01219] marina@pixvelox.example -> vitima191@correio.example :: pediu código
+[01220] marina@pixvelox.example -> vitima108@caixa-postal.example :: encerrou
+[01221] joao.pedro@pixvelox.example -> vitima206@mailbr.example :: encerrou
+[01222] joao.pedro@pixvelox.example -> vitima442@caixa-postal.example :: encerrou
+[01223] marina@pixvelox.example -> vitima093@mailbr.example :: abriu atendimento
+[01224] rafa@pixvelox.example -> vitima455@caixa-postal.example :: enviou link
+[01225] lucas@pixvelox.example -> vitima400@caixa-postal.example :: encerrou
+[01226] camila@pixvelox.example -> vitima155@correio.example :: abriu atendimento
+[01227] marina@pixvelox.example -> vitima020@correio.example :: encerrou
+[01228] joao.pedro@pixvelox.example -> vitima197@correio.example :: encerrou
+[01229] camila@pixvelox.example -> vitima270@mailbr.example :: pediu código
+[01230] bia@pixvelox.example -> vitima004@webmail.example :: encerrou
+[01231] marina@pixvelox.example -> vitima002@webmail.example :: encerrou
+[01232] marina@pixvelox.example -> vitima012@mailbr.example :: encerrou
+[01233] lucas@pixvelox.example -> vitima116@webmail.example :: pediu código
+[01234] lucas@pixvelox.example -> vitima085@webmail.example :: transferiu
+[01235] camila@pixvelox.example -> vitima362@correio.example :: encerrou
+[01236] bia@pixvelox.example -> vitima361@caixa-postal.example :: enviou link
+[01237] joao.pedro@pixvelox.example -> vitima248@caixa-postal.example :: transferiu
+[01238] rafa@pixvelox.example -> vitima071@correio.example :: encerrou
+[01239] bia@pixvelox.example -> vitima002@mailbr.example :: pediu código
+[01240] rafa@pixvelox.example -> vitima096@correio.example :: transferiu
+[01241] bia@pixvelox.example -> vitima333@mailbr.example :: pediu código
+[01242] lucas@pixvelox.example -> vitima329@caixa-postal.example :: transferiu
+[01243] camila@pixvelox.example -> vitima305@mailbr.example :: transferiu
+[01244] bia@pixvelox.example -> vitima112@caixa-postal.example :: pediu código
+[01245] joao.pedro@pixvelox.example -> vitima145@webmail.example :: abriu atendimento
+[01246] bia@pixvelox.example -> vitima290@correio.example :: transferiu
+[01247] bia@pixvelox.example -> vitima231@correio.example :: enviou link
+[01248] joao.pedro@pixvelox.example -> vitima140@caixa-postal.example :: abriu atendimento
+[01249] rafa@pixvelox.example -> vitima480@webmail.example :: abriu atendimento
+[01250] camila@pixvelox.example -> vitima142@mailbr.example :: pediu código
+[01251] camila@pixvelox.example -> vitima418@webmail.example :: encerrou
+[01252] bia@pixvelox.example -> vitima149@webmail.example :: abriu atendimento
+[01253] marina@pixvelox.example -> vitima340@caixa-postal.example :: pediu código
+[01254] camila@pixvelox.example -> vitima421@correio.example :: pediu código
+[01255] joao.pedro@pixvelox.example -> vitima185@correio.example :: enviou link
+[01256] rafa@pixvelox.example -> vitima283@correio.example :: encerrou
+[01257] joao.pedro@pixvelox.example -> vitima470@correio.example :: transferiu
+[01258] rafa@pixvelox.example -> vitima387@correio.example :: pediu código
+[01259] camila@pixvelox.example -> vitima219@webmail.example :: abriu atendimento
+[01260] joao.pedro@pixvelox.example -> vitima163@caixa-postal.example :: transferiu
+[01261] marina@pixvelox.example -> vitima356@caixa-postal.example :: enviou link
+[01262] rafa@pixvelox.example -> vitima431@mailbr.example :: transferiu
+[01263] lucas@pixvelox.example -> vitima054@correio.example :: enviou link
+[01264] lucas@pixvelox.example -> vitima260@mailbr.example :: pediu código
+[01265] marina@pixvelox.example -> vitima297@webmail.example :: abriu atendimento
+[01266] bia@pixvelox.example -> vitima108@caixa-postal.example :: encerrou
+[01267] marina@pixvelox.example -> vitima448@webmail.example :: transferiu
+[01268] rafa@pixvelox.example -> vitima053@webmail.example :: transferiu
+[01269] bia@pixvelox.example -> vitima012@caixa-postal.example :: transferiu
+[01270] marina@pixvelox.example -> vitima253@correio.example :: enviou link
+[01271] camila@pixvelox.example -> vitima387@correio.example :: encerrou
+[01272] bia@pixvelox.example -> vitima426@mailbr.example :: abriu atendimento
+[01273] camila@pixvelox.example -> vitima084@webmail.example :: enviou link
+[01274] rafa@pixvelox.example -> vitima448@caixa-postal.example :: enviou link
+[01275] marina@pixvelox.example -> vitima134@caixa-postal.example :: abriu atendimento
+[01276] camila@pixvelox.example -> vitima451@mailbr.example :: abriu atendimento
+[01277] bia@pixvelox.example -> vitima211@correio.example :: transferiu
+[01278] rafa@pixvelox.example -> vitima341@mailbr.example :: encerrou
+[01279] rafa@pixvelox.example -> vitima009@webmail.example :: pediu código
+[01280] camila@pixvelox.example -> vitima136@mailbr.example :: abriu atendimento
+[01281] rafa@pixvelox.example -> vitima449@mailbr.example :: encerrou
+[01282] rafa@pixvelox.example -> vitima401@mailbr.example :: abriu atendimento
+[01283] bia@pixvelox.example -> vitima342@webmail.example :: abriu atendimento
+[01284] marina@pixvelox.example -> vitima476@caixa-postal.example :: transferiu
+[01285] marina@pixvelox.example -> vitima168@webmail.example :: encerrou
+[01286] bia@pixvelox.example -> vitima403@caixa-postal.example :: abriu atendimento
+[01287] lucas@pixvelox.example -> vitima053@correio.example :: pediu código
+[01288] rafa@pixvelox.example -> vitima282@correio.example :: transferiu
+[01289] marina@pixvelox.example -> vitima466@webmail.example :: pediu código
+[01290] joao.pedro@pixvelox.example -> vitima197@correio.example :: enviou link
+[01291] camila@pixvelox.example -> vitima189@mailbr.example :: abriu atendimento
+[01292] marina@pixvelox.example -> vitima189@mailbr.example :: pediu código
+[01293] joao.pedro@pixvelox.example -> vitima406@caixa-postal.example :: enviou link
+[01294] lucas@pixvelox.example -> vitima165@mailbr.example :: enviou link
+[01295] lucas@pixvelox.example -> vitima377@webmail.example :: abriu atendimento
+[01296] marina@pixvelox.example -> vitima277@caixa-postal.example :: enviou link
+[01297] joao.pedro@pixvelox.example -> vitima137@correio.example :: abriu atendimento
+[01298] camila@pixvelox.example -> vitima177@mailbr.example :: enviou link
+[01299] rafa@pixvelox.example -> vitima133@mailbr.example :: transferiu
+[01300] camila@pixvelox.example -> vitima192@caixa-postal.example :: abriu atendimento
+[01301] camila@pixvelox.example -> vitima298@mailbr.example :: pediu código
+[01302] joao.pedro@pixvelox.example -> vitima277@caixa-postal.example :: enviou link
+[01303] camila@pixvelox.example -> vitima244@caixa-postal.example :: abriu atendimento
+[01304] bia@pixvelox.example -> vitima326@webmail.example :: transferiu
+[01305] marina@pixvelox.example -> vitima198@webmail.example :: pediu código
+[01306] lucas@pixvelox.example -> vitima205@webmail.example :: pediu código
+[01307] bia@pixvelox.example -> vitima319@mailbr.example :: pediu código
+[01308] joao.pedro@pixvelox.example -> vitima371@caixa-postal.example :: enviou link
+[01309] camila@pixvelox.example -> vitima388@correio.example :: transferiu
+[01310] joao.pedro@pixvelox.example -> vitima033@caixa-postal.example :: abriu atendimento
+[01311] camila@pixvelox.example -> vitima473@webmail.example :: abriu atendimento
+[01312] camila@pixvelox.example -> vitima230@mailbr.example :: encerrou
+[01313] camila@pixvelox.example -> vitima434@correio.example :: encerrou
+[01314] bia@pixvelox.example -> vitima445@correio.example :: encerrou
+[01315] camila@pixvelox.example -> vitima306@correio.example :: pediu código
+[01316] bia@pixvelox.example -> vitima031@correio.example :: enviou link
+[01317] lucas@pixvelox.example -> vitima152@mailbr.example :: pediu código
+[01318] lucas@pixvelox.example -> vitima106@mailbr.example :: encerrou
+[01319] joao.pedro@pixvelox.example -> vitima310@caixa-postal.example :: pediu código
+[01320] rafa@pixvelox.example -> vitima471@webmail.example :: pediu código
+[01321] rafa@pixvelox.example -> vitima342@caixa-postal.example :: enviou link
+[01322] marina@pixvelox.example -> vitima169@webmail.example :: transferiu
+[01323] joao.pedro@pixvelox.example -> vitima177@caixa-postal.example :: pediu código
+[01324] marina@pixvelox.example -> vitima391@mailbr.example :: abriu atendimento
+[01325] joao.pedro@pixvelox.example -> vitima459@mailbr.example :: transferiu
+[01326] bia@pixvelox.example -> vitima171@correio.example :: abriu atendimento
+[01327] joao.pedro@pixvelox.example -> vitima472@webmail.example :: enviou link
+[01328] bia@pixvelox.example -> vitima104@webmail.example :: pediu código
+[01329] joao.pedro@pixvelox.example -> vitima222@correio.example :: transferiu
+[01330] bia@pixvelox.example -> vitima302@caixa-postal.example :: abriu atendimento
+[01331] rafa@pixvelox.example -> vitima480@correio.example :: encerrou
+[01332] camila@pixvelox.example -> vitima206@caixa-postal.example :: enviou link
+[01333] camila@pixvelox.example -> vitima107@correio.example :: encerrou
+[01334] bia@pixvelox.example -> vitima409@correio.example :: encerrou
+[01335] rafa@pixvelox.example -> vitima361@webmail.example :: abriu atendimento
+[01336] bia@pixvelox.example -> vitima183@webmail.example :: enviou link
+[01337] joao.pedro@pixvelox.example -> vitima348@correio.example :: pediu código
+[01338] joao.pedro@pixvelox.example -> vitima057@correio.example :: transferiu
+[01339] lucas@pixvelox.example -> vitima455@webmail.example :: transferiu
+[01340] camila@pixvelox.example -> vitima110@correio.example :: encerrou
+[01341] joao.pedro@pixvelox.example -> vitima309@mailbr.example :: enviou link
+[01342] camila@pixvelox.example -> vitima128@webmail.example :: encerrou
+[01343] lucas@pixvelox.example -> vitima206@webmail.example :: pediu código
+[01344] marina@pixvelox.example -> vitima272@correio.example :: abriu atendimento
+[01345] rafa@pixvelox.example -> vitima284@mailbr.example :: encerrou
+[01346] camila@pixvelox.example -> vitima175@webmail.example :: encerrou
+[01347] joao.pedro@pixvelox.example -> vitima152@webmail.example :: transferiu
+[01348] lucas@pixvelox.example -> vitima372@caixa-postal.example :: encerrou
+[01349] rafa@pixvelox.example -> vitima366@caixa-postal.example :: enviou link
+[01350] rafa@pixvelox.example -> vitima352@mailbr.example :: transferiu
+[01351] bia@pixvelox.example -> vitima290@caixa-postal.example :: enviou link
+[01352] joao.pedro@pixvelox.example -> vitima042@webmail.example :: encerrou
+[01353] marina@pixvelox.example -> vitima151@webmail.example :: transferiu
+[01354] lucas@pixvelox.example -> vitima367@webmail.example :: enviou link
+[01355] joao.pedro@pixvelox.example -> vitima116@webmail.example :: transferiu
+[01356] lucas@pixvelox.example -> vitima127@correio.example :: enviou link
+[01357] rafa@pixvelox.example -> vitima102@correio.example :: pediu código
+[01358] camila@pixvelox.example -> vitima057@webmail.example :: pediu código
+[01359] rafa@pixvelox.example -> vitima100@correio.example :: enviou link
+[01360] marina@pixvelox.example -> vitima105@webmail.example :: encerrou
+[01361] camila@pixvelox.example -> vitima119@webmail.example :: encerrou
+[01362] joao.pedro@pixvelox.example -> vitima286@mailbr.example :: enviou link
+[01363] camila@pixvelox.example -> vitima298@webmail.example :: encerrou
+[01364] bia@pixvelox.example -> vitima234@mailbr.example :: pediu código
+[01365] camila@pixvelox.example -> vitima348@correio.example :: enviou link
+[01366] camila@pixvelox.example -> vitima275@caixa-postal.example :: transferiu
+[01367] marina@pixvelox.example -> vitima027@correio.example :: encerrou
+[01368] lucas@pixvelox.example -> vitima156@mailbr.example :: enviou link
+[01369] rafa@pixvelox.example -> vitima366@correio.example :: transferiu
+[01370] joao.pedro@pixvelox.example -> vitima318@webmail.example :: encerrou
+[01371] camila@pixvelox.example -> vitima238@correio.example :: pediu código
+[01372] lucas@pixvelox.example -> vitima313@correio.example :: transferiu
+[01373] bia@pixvelox.example -> vitima138@caixa-postal.example :: transferiu
+[01374] lucas@pixvelox.example -> vitima415@webmail.example :: pediu código
+[01375] joao.pedro@pixvelox.example -> vitima194@mailbr.example :: abriu atendimento
+[01376] marina@pixvelox.example -> vitima245@mailbr.example :: transferiu
+[01377] joao.pedro@pixvelox.example -> vitima103@caixa-postal.example :: transferiu
+[01378] rafa@pixvelox.example -> vitima436@webmail.example :: abriu atendimento
+[01379] rafa@pixvelox.example -> vitima476@mailbr.example :: enviou link
+[01380] marina@pixvelox.example -> vitima394@correio.example :: pediu código
+[01381] marina@pixvelox.example -> vitima328@caixa-postal.example :: encerrou
+[01382] marina@pixvelox.example -> vitima034@webmail.example :: encerrou
+[01383] bia@pixvelox.example -> vitima131@mailbr.example :: enviou link
+[01384] camila@pixvelox.example -> vitima092@webmail.example :: enviou link
+[01385] camila@pixvelox.example -> vitima310@webmail.example :: abriu atendimento
+[01386] marina@pixvelox.example -> vitima204@caixa-postal.example :: pediu código
+[01387] camila@pixvelox.example -> vitima144@webmail.example :: pediu código
+[01388] rafa@pixvelox.example -> vitima388@mailbr.example :: enviou link
+[01389] camila@pixvelox.example -> vitima215@webmail.example :: encerrou
+[01390] lucas@pixvelox.example -> vitima227@webmail.example :: encerrou
+[01391] camila@pixvelox.example -> vitima248@mailbr.example :: transferiu
+[01392] joao.pedro@pixvelox.example -> vitima137@webmail.example :: abriu atendimento
+[01393] joao.pedro@pixvelox.example -> vitima373@caixa-postal.example :: pediu código
+[01394] rafa@pixvelox.example -> vitima476@mailbr.example :: encerrou
+[01395] joao.pedro@pixvelox.example -> vitima091@caixa-postal.example :: encerrou
+[01396] marina@pixvelox.example -> vitima307@caixa-postal.example :: pediu código
+[01397] marina@pixvelox.example -> vitima090@correio.example :: encerrou
+[01398] joao.pedro@pixvelox.example -> vitima043@correio.example :: pediu código
+[01399] bia@pixvelox.example -> vitima435@correio.example :: enviou link
+[01400] joao.pedro@pixvelox.example -> vitima371@caixa-postal.example :: pediu código
+[01401] rafa@pixvelox.example -> vitima003@mailbr.example :: transferiu
+[01402] rafa@pixvelox.example -> vitima193@mailbr.example :: encerrou
+[01403] marina@pixvelox.example -> vitima294@correio.example :: pediu código
+[01404] bia@pixvelox.example -> vitima151@webmail.example :: enviou link
+[01405] bia@pixvelox.example -> vitima471@correio.example :: transferiu
+[01406] camila@pixvelox.example -> vitima032@mailbr.example :: enviou link
+[01407] joao.pedro@pixvelox.example -> vitima300@mailbr.example :: encerrou
+[01408] rafa@pixvelox.example -> vitima016@webmail.example :: encerrou
+[01409] camila@pixvelox.example -> vitima266@webmail.example :: encerrou
+[01410] camila@pixvelox.example -> vitima390@mailbr.example :: enviou link
+[01411] camila@pixvelox.example -> vitima291@mailbr.example :: pediu código
+[01412] marina@pixvelox.example -> vitima367@correio.example :: encerrou
+[01413] marina@pixvelox.example -> vitima005@webmail.example :: pediu código
+[01414] camila@pixvelox.example -> vitima282@caixa-postal.example :: enviou link
+[01415] rafa@pixvelox.example -> vitima073@correio.example :: transferiu
+[01416] joao.pedro@pixvelox.example -> vitima331@webmail.example :: transferiu
+[01417] marina@pixvelox.example -> vitima002@webmail.example :: enviou link
+[01418] bia@pixvelox.example -> vitima083@caixa-postal.example :: transferiu
+[01419] marina@pixvelox.example -> vitima062@webmail.example :: abriu atendimento
+[01420] marina@pixvelox.example -> vitima188@correio.example :: enviou link
+[01421] bia@pixvelox.example -> vitima013@correio.example :: transferiu
+[01422] lucas@pixvelox.example -> vitima340@mailbr.example :: pediu código
+[01423] joao.pedro@pixvelox.example -> vitima025@caixa-postal.example :: encerrou
+[01424] camila@pixvelox.example -> vitima010@caixa-postal.example :: abriu atendimento
+[01425] lucas@pixvelox.example -> vitima409@caixa-postal.example :: transferiu
+[01426] bia@pixvelox.example -> vitima202@webmail.example :: abriu atendimento
+[01427] bia@pixvelox.example -> vitima226@webmail.example :: encerrou
+[01428] lucas@pixvelox.example -> vitima447@mailbr.example :: encerrou
+[01429] camila@pixvelox.example -> vitima452@webmail.example :: transferiu
+[01430] lucas@pixvelox.example -> vitima052@mailbr.example :: abriu atendimento
+[01431] camila@pixvelox.example -> vitima220@webmail.example :: encerrou
+[01432] marina@pixvelox.example -> vitima265@correio.example :: encerrou
+[01433] lucas@pixvelox.example -> vitima290@correio.example :: abriu atendimento
+[01434] marina@pixvelox.example -> vitima062@webmail.example :: pediu código
+[01435] lucas@pixvelox.example -> vitima174@caixa-postal.example :: pediu código
+[01436] joao.pedro@pixvelox.example -> vitima054@webmail.example :: pediu código
+[01437] bia@pixvelox.example -> vitima162@caixa-postal.example :: enviou link
+[01438] lucas@pixvelox.example -> vitima163@correio.example :: pediu código
+[01439] marina@pixvelox.example -> vitima275@mailbr.example :: enviou link
+[01440] rafa@pixvelox.example -> vitima468@webmail.example :: enviou link
+[01441] bia@pixvelox.example -> vitima299@correio.example :: encerrou
+[01442] lucas@pixvelox.example -> vitima351@correio.example :: abriu atendimento
+[01443] marina@pixvelox.example -> vitima166@mailbr.example :: transferiu
+[01444] rafa@pixvelox.example -> vitima230@caixa-postal.example :: encerrou
+[01445] marina@pixvelox.example -> vitima457@mailbr.example :: enviou link
+[01446] marina@pixvelox.example -> vitima207@caixa-postal.example :: abriu atendimento
+[01447] camila@pixvelox.example -> vitima407@mailbr.example :: pediu código
+[01448] lucas@pixvelox.example -> vitima425@webmail.example :: pediu código
+[01449] joao.pedro@pixvelox.example -> vitima245@correio.example :: pediu código
+[01450] joao.pedro@pixvelox.example -> vitima303@webmail.example :: abriu atendimento
+[01451] camila@pixvelox.example -> vitima126@correio.example :: pediu código
+[01452] marina@pixvelox.example -> vitima237@mailbr.example :: encerrou
+[01453] marina@pixvelox.example -> vitima223@mailbr.example :: pediu código
+[01454] rafa@pixvelox.example -> vitima058@correio.example :: enviou link
+[01455] camila@pixvelox.example -> vitima199@caixa-postal.example :: abriu atendimento
+[01456] bia@pixvelox.example -> vitima355@correio.example :: encerrou
+[01457] bia@pixvelox.example -> vitima128@mailbr.example :: abriu atendimento
+[01458] joao.pedro@pixvelox.example -> vitima430@mailbr.example :: pediu código
+[01459] joao.pedro@pixvelox.example -> vitima288@mailbr.example :: encerrou
+[01460] bia@pixvelox.example -> vitima471@correio.example :: transferiu
+[01461] lucas@pixvelox.example -> vitima271@correio.example :: encerrou
+[01462] lucas@pixvelox.example -> vitima110@caixa-postal.example :: encerrou
+[01463] lucas@pixvelox.example -> vitima359@mailbr.example :: pediu código
+[01464] joao.pedro@pixvelox.example -> vitima049@mailbr.example :: enviou link
+[01465] marina@pixvelox.example -> vitima464@webmail.example :: pediu código
+[01466] camila@pixvelox.example -> vitima008@mailbr.example :: abriu atendimento
+[01467] lucas@pixvelox.example -> vitima308@correio.example :: encerrou
+[01468] joao.pedro@pixvelox.example -> vitima331@correio.example :: abriu atendimento
+[01469] camila@pixvelox.example -> vitima209@caixa-postal.example :: enviou link
+[01470] joao.pedro@pixvelox.example -> vitima184@webmail.example :: encerrou
+[01471] rafa@pixvelox.example -> vitima078@mailbr.example :: abriu atendimento
+[01472] joao.pedro@pixvelox.example -> vitima024@caixa-postal.example :: pediu código
+[01473] lucas@pixvelox.example -> vitima284@webmail.example :: transferiu
+[01474] bia@pixvelox.example -> vitima211@caixa-postal.example :: abriu atendimento
+[01475] rafa@pixvelox.example -> vitima381@caixa-postal.example :: enviou link
+[01476] rafa@pixvelox.example -> vitima342@correio.example :: encerrou
+[01477] camila@pixvelox.example -> vitima218@mailbr.example :: transferiu
+[01478] bia@pixvelox.example -> vitima345@correio.example :: transferiu
+[01479] joao.pedro@pixvelox.example -> vitima218@caixa-postal.example :: transferiu
+[01480] rafa@pixvelox.example -> vitima094@caixa-postal.example :: transferiu
+[01481] lucas@pixvelox.example -> vitima480@caixa-postal.example :: encerrou
+[01482] lucas@pixvelox.example -> vitima059@correio.example :: transferiu
+[01483] lucas@pixvelox.example -> vitima478@mailbr.example :: encerrou
+[01484] rafa@pixvelox.example -> vitima076@correio.example :: encerrou
+[01485] rafa@pixvelox.example -> vitima125@mailbr.example :: enviou link
+[01486] joao.pedro@pixvelox.example -> vitima097@webmail.example :: enviou link
+[01487] joao.pedro@pixvelox.example -> vitima467@caixa-postal.example :: enviou link
+[01488] lucas@pixvelox.example -> vitima041@webmail.example :: abriu atendimento
+[01489] rafa@pixvelox.example -> vitima073@correio.example :: abriu atendimento
+[01490] rafa@pixvelox.example -> vitima219@caixa-postal.example :: enviou link
+[01491] joao.pedro@pixvelox.example -> vitima042@webmail.example :: pediu código
+[01492] bia@pixvelox.example -> vitima208@mailbr.example :: encerrou
+[01493] joao.pedro@pixvelox.example -> vitima415@caixa-postal.example :: encerrou
+[01494] joao.pedro@pixvelox.example -> vitima114@webmail.example :: enviou link
+[01495] joao.pedro@pixvelox.example -> vitima182@webmail.example :: encerrou
+[01496] camila@pixvelox.example -> vitima202@mailbr.example :: transferiu
+[01497] marina@pixvelox.example -> vitima086@caixa-postal.example :: enviou link
+[01498] lucas@pixvelox.example -> vitima351@webmail.example :: encerrou
+[01499] rafa@pixvelox.example -> vitima009@mailbr.example :: abriu atendimento
+[01500] marina@pixvelox.example -> vitima019@caixa-postal.example :: encerrou

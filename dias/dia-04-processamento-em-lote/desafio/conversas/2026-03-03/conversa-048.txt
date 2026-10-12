@@ -1,0 +1,5 @@
+2026-03-03 16:43 | vitima_048 | recebi um código por SMS, é esse?
+2026-03-03 16:44 | atendente_pix | Para liberar o cashback preciso do código de 6 dígitos.
+2026-03-03 16:45 | vitima_048 | o saldo da minha conta sumiu!!
+2026-03-03 16:46 | atendente_pix | Acesse pixvelox.example/cashback e confirme seus dados.
+2026-03-03 16:47 | vitima_048 | quanto tempo demora para liberar?

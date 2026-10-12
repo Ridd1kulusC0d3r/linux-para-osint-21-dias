@@ -1,0 +1,7 @@
+# exportado do painel em 2026-03-31 -- formato: CONTA ; apelido
+CT-0102 ;   conta~da~padaria   ##fim
+CT-0219 ;   reserva~de~emergencia   ##fim
+CT-0377 ;   o~dinheiro~deixa~rastro   ##fim
+CT-0450 ;   aluguel~marco   ##fim
+CT-0588 ;   laranja~de~reserva   ##fim
+CT-0613 ;   poupanca~ferias   ##fim

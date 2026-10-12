@@ -1,0 +1,2 @@
+http://127.0.0.1:8086/rfc2606-resumo.txt
+http://127.0.0.1:8086/rfc9110-resumo.txt

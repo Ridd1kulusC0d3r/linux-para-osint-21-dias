@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: encurta
+Date: Tue, 03 Mar 2026 14:22:00 GMT
+Content-Length: 0
+Location: http://rastreio.encurta.example/clique?id=x7Kp9&canal=sms
+
+HTTP/1.1 302 Found
+Server: encurta
+Date: Tue, 03 Mar 2026 14:22:01 GMT
+Content-Length: 0
+Location: http://promo.pixvelox.example/cashback?origem=sms&cupom=PIXDOBRO
+
+HTTP/1.1 302 Found
+Server: nginx
+Date: Tue, 03 Mar 2026 14:22:02 GMT
+Content-Length: 0
+Location: http://pixvelox.example/cadastro?cupom=PIXDOBRO&indicacao=mare_alta
+
+HTTP/1.1 302 Found
+Server: nginx
+Date: Tue, 03 Mar 2026 14:22:03 GMT
+Content-Length: 0
+Location: http://suporte-pixvelox.example/obrigado?protocolo=VkFaQU5URXtzaWdhX2FfY2FkZWlhX2F0ZV9vX2ZpbX0=
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 03 Mar 2026 14:22:04 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 113
+X-Powered-By: PixVelox-Painel/0.9
+

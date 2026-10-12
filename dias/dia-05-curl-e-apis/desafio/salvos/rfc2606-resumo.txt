@@ -1,0 +1,3 @@
+RFC 2606 — Reserved Top Level DNS Names (resumo do curso)
+Reserva .test, .example, .invalid e .localhost para testes e documentação.
+É por isso que a PixVelox usa pixvelox.example: esse domínio nunca vai existir.

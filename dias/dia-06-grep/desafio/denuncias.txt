@@ -1,0 +1,1500 @@
+2026-09-21 03h | Sabará | vitima061@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-14 18h | Sabará | vitima453@mailbr.example | ligaram dizendo ser do banco
+2026-09-08 00h | Sabará | vitima281@webmail.example | mensagem com erro de português
+2026-09-27 03h | Belo Horizonte | vitima315@correio.example | atendente disse que era da PixVelox
+2026-09-22 10h | Ribeirão das Neves | vitima231@correio.example | mensagem com erro de português
+2026-09-30 11h | Betim | vitima108@webmail.example | boleto estranho
+2026-09-21 02h | Ribeirão das Neves | vitima413@webmail.example | ligaram dizendo ser do banco
+2026-09-18 09h | Belo Horizonte | vitima371@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-01 22h | Contagem | vitima148@webmail.example | atendente disse que era da PixVelox
+2026-09-03 12h | Nova Lima | vitima189@caixa-postal.example | app pediu acesso à tela
+2026-09-17 19h | Belo Horizonte | vitima457@webmail.example | app pediu acesso à tela
+2026-09-09 13h | Nova Lima | vitima449@webmail.example | ligaram dizendo ser do banco
+2026-09-26 00h | Sabará | vitima289@webmail.example | ligaram dizendo ser do banco
+2026-09-23 16h | Contagem | vitima295@mailbr.example | recebi link de cashback
+2026-09-16 04h | Ribeirão das Neves | vitima455@correio.example | app pediu acesso à tela
+2026-09-22 15h | Belo Horizonte | vitima247@mailbr.example | mensagem com erro de português
+2026-09-22 09h | Sabará | vitima366@caixa-postal.example | app pediu acesso à tela
+2026-09-07 09h | Nova Lima | vitima281@webmail.example | app pediu acesso à tela
+2026-09-05 20h | Belo Horizonte | vitima426@caixa-postal.example | recebi link de cashback
+2026-09-12 06h | Sabará | vitima452@webmail.example | mensagem com erro de português
+2026-09-25 15h | Nova Lima | vitima134@webmail.example | ligaram dizendo ser do banco
+2026-09-27 09h | Sabará | vitima414@webmail.example | recebi link de cashback
+2026-09-23 22h | Belo Horizonte | vitima163@webmail.example | mensagem com erro de português
+2026-09-14 23h | Nova Lima | vitima402@caixa-postal.example | conta zerada depois do suporte
+2026-09-29 15h | Ribeirão das Neves | vitima246@correio.example | atendente disse que era da PixVelox
+2026-09-05 14h | Contagem | vitima190@correio.example | app pediu acesso à tela
+2026-09-15 18h | Belo Horizonte | vitima470@correio.example | recebi link de cashback
+2026-09-08 03h | Sabará | vitima280@correio.example | perfil falso no Instagram
+2026-09-22 20h | Sabará | vitima318@correio.example | atendente disse que era da PixVelox
+2026-09-22 18h | Belo Horizonte | vitima183@mailbr.example | boleto estranho
+2026-09-18 07h | Ribeirão das Neves | vitima295@webmail.example | conta zerada depois do suporte
+2026-09-10 02h | Sabará | vitima243@mailbr.example | ligaram dizendo ser do banco
+2026-09-17 13h | Contagem | vitima214@mailbr.example | atendente disse que era da PixVelox
+2026-09-13 00h | Sabará | vitima200@mailbr.example | perfil falso no Instagram
+2026-09-27 11h | Belo Horizonte | vitima055@webmail.example | recebi link de cashback
+2026-09-17 15h | Belo Horizonte | vitima331@caixa-postal.example | recebi link de cashback
+2026-09-30 03h | Nova Lima | vitima168@caixa-postal.example | boleto estranho
+2026-09-05 18h | Sabará | vitima255@webmail.example | conta zerada depois do suporte
+2026-09-15 19h | Nova Lima | vitima267@mailbr.example | boleto estranho
+2026-09-02 06h | Sabará | vitima120@correio.example | app pediu acesso à tela
+2026-09-30 01h | Belo Horizonte | vitima332@mailbr.example | ligaram dizendo ser do banco
+2026-09-05 20h | Nova Lima | vitima232@mailbr.example | recebi link de cashback
+2026-09-06 21h | Sabará | vitima272@mailbr.example | conta zerada depois do suporte
+2026-09-14 17h | Nova Lima | vitima433@mailbr.example | atendente disse que era da PixVelox
+2026-09-06 11h | Nova Lima | vitima213@correio.example | atendente disse que era da PixVelox
+2026-09-25 13h | Nova Lima | vitima090@caixa-postal.example | mensagem com erro de português
+2026-09-17 15h | Contagem | vitima148@webmail.example | boleto estranho
+2026-09-26 08h | Sabará | vitima228@correio.example | ligaram dizendo ser do banco
+2026-09-01 02h | Contagem | vitima418@correio.example | perfil falso no Instagram
+2026-09-14 17h | Ribeirão das Neves | vitima450@webmail.example | boleto estranho
+2026-09-28 05h | Belo Horizonte | vitima402@mailbr.example | boleto estranho
+2026-09-18 18h | Belo Horizonte | vitima181@mailbr.example | atendente disse que era da PixVelox
+2026-09-19 08h | Sabará | vitima375@mailbr.example | atendente disse que era da PixVelox
+2026-09-04 13h | Belo Horizonte | vitima344@mailbr.example | atendente disse que era da PixVelox | remetente: suporte@pixvelox.example
+2026-09-25 11h | Ribeirão das Neves | vitima088@correio.example | recebi link de cashback
+2026-09-17 10h | Ribeirão das Neves | vitima370@mailbr.example | pediram código por SMS
+2026-09-06 08h | Betim | vitima142@correio.example | boleto estranho
+2026-09-28 08h | Belo Horizonte | vitima132@correio.example | app pediu acesso à tela
+2026-09-08 00h | Belo Horizonte | vitima213@correio.example | pediram código por SMS
+2026-09-19 11h | Belo Horizonte | vitima159@correio.example | ligaram dizendo ser do banco
+2026-09-30 12h | Sabará | vitima162@webmail.example | recebi link de cashback
+2026-09-14 21h | Sabará | vitima162@mailbr.example | mensagem com erro de português
+2026-09-28 16h | Ribeirão das Neves | vitima450@correio.example | boleto estranho
+2026-09-27 11h | Nova Lima | vitima349@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-23 10h | Belo Horizonte | vitima030@webmail.example | atendente disse que era da PixVelox
+2026-09-11 18h | Betim | vitima149@correio.example | app pediu acesso à tela
+2026-09-07 17h | Sabará | vitima463@correio.example | boleto estranho
+2026-09-04 01h | Contagem | vitima029@correio.example | pediram código por SMS
+2026-09-01 13h | Sabará | vitima065@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-13 12h | Betim | vitima297@mailbr.example | app pediu acesso à tela
+2026-09-25 04h | Ribeirão das Neves | vitima123@webmail.example | perfil falso no Instagram
+2026-09-22 17h | Ribeirão das Neves | vitima094@correio.example | ligaram dizendo ser do banco
+2026-09-01 00h | Contagem | vitima204@caixa-postal.example | perfil falso no Instagram
+2026-09-11 04h | Nova Lima | vitima142@webmail.example | atendente disse que era da PixVelox
+2026-09-02 20h | Contagem | vitima321@correio.example | ligaram dizendo ser do banco
+2026-09-25 23h | Betim | vitima444@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-21 07h | Ribeirão das Neves | vitima163@correio.example | recebi link de cashback
+2026-09-28 04h | Contagem | vitima241@correio.example | ligaram dizendo ser do banco
+2026-09-26 07h | Ribeirão das Neves | vitima475@webmail.example | boleto estranho
+2026-09-12 11h | Betim | vitima288@caixa-postal.example | perfil falso no Instagram
+2026-09-29 21h | Sabará | vitima236@webmail.example | mensagem com erro de português
+2026-09-21 13h | Contagem | vitima298@caixa-postal.example | conta zerada depois do suporte
+2026-09-27 16h | Belo Horizonte | vitima079@webmail.example | boleto estranho
+2026-09-03 09h | Belo Horizonte | vitima360@webmail.example | conta zerada depois do suporte
+2026-09-29 00h | Contagem | vitima191@caixa-postal.example | pediram código por SMS
+2026-09-19 01h | Ribeirão das Neves | vitima274@mailbr.example | atendente disse que era da PixVelox
+2026-09-26 20h | Sabará | vitima202@webmail.example | ligaram dizendo ser do banco
+2026-09-03 04h | Sabará | vitima339@mailbr.example | pediram código por SMS
+2026-09-09 09h | Betim | vitima376@webmail.example | ligaram dizendo ser do banco
+2026-09-10 17h | Contagem | vitima022@mailbr.example | atendente disse que era da PixVelox
+2026-09-07 23h | Contagem | vitima147@caixa-postal.example | app pediu acesso à tela
+2026-09-14 11h | Sabará | vitima323@correio.example | mensagem com erro de português
+2026-09-01 05h | Ribeirão das Neves | vitima416@mailbr.example | ligaram dizendo ser do banco
+2026-09-29 03h | Contagem | vitima162@mailbr.example | recebi link de cashback
+2026-09-12 09h | Betim | vitima264@correio.example | pediram código por SMS | remetente: suporte@pixvelox.example
+2026-09-05 03h | Sabará | vitima111@mailbr.example | perfil falso no Instagram
+2026-09-13 08h | Belo Horizonte | vitima168@webmail.example | pediram código por SMS
+2026-09-12 15h | Ribeirão das Neves | vitima316@caixa-postal.example | pediram código por SMS
+2026-09-17 07h | Belo Horizonte | vitima466@webmail.example | ligaram dizendo ser do banco
+2026-09-30 18h | Ribeirão das Neves | vitima425@caixa-postal.example | mensagem com erro de português
+2026-09-26 15h | Belo Horizonte | vitima177@correio.example | pediram código por SMS
+2026-09-06 10h | Betim | vitima399@caixa-postal.example | perfil falso no Instagram
+2026-09-13 10h | Betim | vitima222@caixa-postal.example | mensagem com erro de português
+2026-09-28 22h | Nova Lima | vitima091@mailbr.example | perfil falso no Instagram
+2026-09-27 18h | Betim | vitima471@caixa-postal.example | app pediu acesso à tela
+2026-09-24 18h | Contagem | vitima196@mailbr.example | mensagem com erro de português
+2026-09-11 03h | Nova Lima | vitima337@mailbr.example | atendente disse que era da PixVelox
+2026-09-05 17h | Nova Lima | vitima164@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-05 17h | Contagem | vitima321@caixa-postal.example | boleto estranho
+2026-09-19 14h | Betim | vitima396@correio.example | atendente disse que era da PixVelox
+2026-09-18 22h | Nova Lima | vitima325@webmail.example | recebi link de cashback
+2026-09-22 15h | Betim | vitima169@webmail.example | pediram código por SMS
+2026-09-21 10h | Nova Lima | vitima466@mailbr.example | boleto estranho
+2026-09-01 08h | Ribeirão das Neves | vitima031@webmail.example | conta zerada depois do suporte
+2026-09-19 20h | Contagem | vitima287@caixa-postal.example | boleto estranho
+2026-09-11 00h | Nova Lima | vitima314@webmail.example | mensagem com erro de português
+2026-09-22 08h | Ribeirão das Neves | vitima020@mailbr.example | pediram código por SMS
+2026-09-17 08h | Contagem | vitima168@correio.example | mensagem com erro de português
+2026-09-23 06h | Belo Horizonte | vitima319@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-11 07h | Belo Horizonte | vitima276@correio.example | conta zerada depois do suporte
+2026-09-23 09h | Sabará | vitima238@mailbr.example | conta zerada depois do suporte
+2026-09-22 18h | Ribeirão das Neves | vitima044@webmail.example | ligaram dizendo ser do banco
+2026-09-09 13h | Belo Horizonte | vitima287@mailbr.example | recebi link de cashback
+2026-09-08 15h | Sabará | vitima023@mailbr.example | ligaram dizendo ser do banco
+2026-09-11 19h | Betim | vitima337@caixa-postal.example | boleto estranho
+2026-09-27 08h | Nova Lima | vitima246@caixa-postal.example | boleto estranho
+2026-09-16 11h | Contagem | vitima019@webmail.example | recebi link de cashback
+2026-09-09 16h | Contagem | vitima130@webmail.example | boleto estranho
+2026-09-19 01h | Betim | vitima432@webmail.example | perfil falso no Instagram
+2026-09-22 17h | Belo Horizonte | vitima418@webmail.example | ligaram dizendo ser do banco
+2026-09-28 16h | Nova Lima | vitima393@caixa-postal.example | pediram código por SMS
+2026-09-22 10h | Nova Lima | vitima268@caixa-postal.example | boleto estranho
+2026-09-28 05h | Belo Horizonte | vitima185@mailbr.example | ligaram dizendo ser do banco
+2026-09-28 12h | Sabará | vitima389@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-01 14h | Sabará | vitima323@correio.example | perfil falso no Instagram
+2026-09-28 16h | Nova Lima | vitima124@mailbr.example | ligaram dizendo ser do banco
+2026-09-05 17h | Betim | vitima065@mailbr.example | mensagem com erro de português
+2026-09-18 19h | Betim | vitima348@caixa-postal.example | app pediu acesso à tela
+2026-09-23 04h | Contagem | vitima372@mailbr.example | ligaram dizendo ser do banco
+2026-09-26 21h | Contagem | vitima374@mailbr.example | recebi link de cashback
+2026-09-27 05h | Betim | vitima444@correio.example | atendente disse que era da PixVelox
+2026-09-05 14h | Sabará | vitima072@caixa-postal.example | boleto estranho
+2026-09-25 05h | Ribeirão das Neves | vitima087@mailbr.example | recebi link de cashback
+2026-09-30 17h | Nova Lima | vitima349@mailbr.example | mensagem com erro de português
+2026-09-12 17h | Contagem | vitima015@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-05 10h | Ribeirão das Neves | vitima048@webmail.example | app pediu acesso à tela
+2026-09-02 03h | Nova Lima | vitima075@correio.example | recebi link de cashback
+2026-09-06 16h | Betim | vitima181@caixa-postal.example | recebi link de cashback
+2026-09-07 05h | Nova Lima | vitima098@correio.example | app pediu acesso à tela
+2026-09-07 11h | Ribeirão das Neves | vitima124@mailbr.example | mensagem com erro de português
+2026-09-15 11h | Ribeirão das Neves | vitima082@webmail.example | app pediu acesso à tela
+2026-09-30 17h | Betim | vitima361@mailbr.example | mensagem com erro de português
+2026-09-24 06h | Belo Horizonte | vitima311@webmail.example | perfil falso no Instagram
+2026-09-04 05h | Betim | vitima060@correio.example | conta zerada depois do suporte
+2026-09-01 17h | Contagem | vitima105@webmail.example | app pediu acesso à tela
+2026-09-13 00h | Betim | vitima075@caixa-postal.example | boleto estranho
+2026-09-16 04h | Betim | vitima245@webmail.example | boleto estranho
+2026-09-12 14h | Sabará | vitima056@mailbr.example | perfil falso no Instagram
+2026-09-11 08h | Ribeirão das Neves | vitima194@correio.example | ligaram dizendo ser do banco
+2026-09-12 17h | Nova Lima | vitima350@correio.example | mensagem com erro de português
+2026-09-02 02h | Betim | vitima423@correio.example | atendente disse que era da PixVelox
+2026-09-30 14h | Belo Horizonte | vitima303@correio.example | ligaram dizendo ser do banco
+2026-09-20 15h | Nova Lima | vitima289@correio.example | mensagem com erro de português
+2026-09-05 00h | Contagem | vitima277@correio.example | boleto estranho
+2026-09-18 08h | Belo Horizonte | vitima054@webmail.example | conta zerada depois do suporte
+2026-09-25 19h | Ribeirão das Neves | vitima010@correio.example | pediram código por SMS
+2026-09-23 04h | Ribeirão das Neves | vitima267@correio.example | boleto estranho
+2026-09-23 14h | Contagem | vitima158@webmail.example | boleto estranho
+2026-09-17 10h | Nova Lima | vitima354@mailbr.example | perfil falso no Instagram
+2026-09-20 05h | Nova Lima | vitima215@correio.example | perfil falso no Instagram
+2026-09-19 12h | Belo Horizonte | vitima225@mailbr.example | mensagem com erro de português
+2026-09-13 23h | Nova Lima | vitima248@correio.example | perfil falso no Instagram
+2026-09-08 16h | Contagem | vitima018@webmail.example | atendente disse que era da PixVelox
+2026-09-12 19h | Nova Lima | vitima161@caixa-postal.example | recebi link de cashback
+2026-09-19 11h | Sabará | vitima446@mailbr.example | pediram código por SMS
+2026-09-18 05h | Sabará | vitima413@mailbr.example | pediram código por SMS
+2026-09-26 13h | Belo Horizonte | vitima235@webmail.example | pediram código por SMS
+2026-09-02 08h | Contagem | vitima206@correio.example | perfil falso no Instagram
+2026-09-30 11h | Sabará | vitima385@mailbr.example | atendente disse que era da PixVelox
+2026-09-07 22h | Contagem | vitima044@caixa-postal.example | recebi link de cashback
+2026-09-22 01h | Nova Lima | vitima432@correio.example | ligaram dizendo ser do banco
+2026-09-30 06h | Sabará | vitima183@webmail.example | recebi link de cashback
+2026-09-03 05h | Belo Horizonte | vitima334@webmail.example | atendente disse que era da PixVelox
+2026-09-01 09h | Betim | vitima334@correio.example | perfil falso no Instagram
+2026-09-03 22h | Nova Lima | vitima317@correio.example | atendente disse que era da PixVelox
+2026-09-19 17h | Sabará | vitima373@mailbr.example | ligaram dizendo ser do banco
+2026-09-12 07h | Belo Horizonte | vitima122@webmail.example | ligaram dizendo ser do banco | link: PixVelox.example/bonus
+2026-09-08 01h | Nova Lima | vitima275@webmail.example | pediram código por SMS
+2026-09-03 14h | Nova Lima | vitima008@webmail.example | ligaram dizendo ser do banco
+2026-09-06 17h | Contagem | vitima346@mailbr.example | perfil falso no Instagram
+2026-09-21 20h | Nova Lima | vitima103@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-12 02h | Belo Horizonte | vitima087@webmail.example | recebi link de cashback
+2026-09-25 07h | Sabará | vitima383@mailbr.example | ligaram dizendo ser do banco
+2026-09-22 10h | Ribeirão das Neves | vitima422@webmail.example | conta zerada depois do suporte
+2026-09-05 00h | Sabará | vitima090@webmail.example | pediram código por SMS
+2026-09-21 13h | Belo Horizonte | vitima417@webmail.example | mensagem com erro de português
+2026-09-03 23h | Sabará | vitima344@caixa-postal.example | boleto estranho
+2026-09-08 03h | Ribeirão das Neves | vitima350@correio.example | atendente disse que era da PixVelox
+2026-09-10 23h | Betim | vitima194@mailbr.example | conta zerada depois do suporte
+2026-09-30 23h | Belo Horizonte | vitima273@correio.example | boleto estranho
+2026-09-08 21h | Sabará | vitima090@webmail.example | pediram código por SMS
+2026-09-30 21h | Sabará | vitima242@mailbr.example | ligaram dizendo ser do banco
+2026-09-01 19h | Belo Horizonte | vitima245@correio.example | conta zerada depois do suporte
+2026-09-09 00h | Contagem | vitima271@caixa-postal.example | app pediu acesso à tela
+2026-09-21 20h | Contagem | vitima228@caixa-postal.example | app pediu acesso à tela
+2026-09-04 07h | Sabará | vitima003@webmail.example | pediram código por SMS
+2026-09-28 12h | Nova Lima | vitima426@caixa-postal.example | pediram código por SMS
+2026-09-09 14h | Nova Lima | vitima141@webmail.example | atendente disse que era da PixVelox
+2026-09-28 10h | Nova Lima | vitima379@webmail.example | atendente disse que era da PixVelox | link: PixVelox.example/bonus
+2026-09-01 06h | Belo Horizonte | vitima419@mailbr.example | ligaram dizendo ser do banco
+2026-09-08 22h | Ribeirão das Neves | vitima110@caixa-postal.example | app pediu acesso à tela
+2026-09-08 12h | Contagem | vitima341@caixa-postal.example | pediram código por SMS
+2026-09-13 06h | Ribeirão das Neves | vitima066@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-13 22h | Sabará | vitima316@caixa-postal.example | ligaram dizendo ser do banco | link: PixVelox.example/bonus
+2026-09-06 16h | Nova Lima | vitima135@caixa-postal.example | perfil falso no Instagram
+2026-09-10 05h | Ribeirão das Neves | vitima155@correio.example | perfil falso no Instagram
+2026-09-15 12h | Ribeirão das Neves | vitima435@webmail.example | conta zerada depois do suporte
+2026-09-20 09h | Ribeirão das Neves | vitima326@webmail.example | recebi link de cashback
+2026-09-11 17h | Sabará | vitima378@correio.example | ligaram dizendo ser do banco
+2026-09-29 16h | Contagem | vitima153@webmail.example | ligaram dizendo ser do banco
+2026-09-17 07h | Betim | vitima147@caixa-postal.example | app pediu acesso à tela
+2026-09-13 19h | Sabará | vitima007@webmail.example | app pediu acesso à tela
+2026-09-19 12h | Contagem | vitima457@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-07 05h | Belo Horizonte | vitima183@correio.example | perfil falso no Instagram
+2026-09-14 16h | Nova Lima | vitima252@webmail.example | conta zerada depois do suporte
+2026-09-03 03h | Belo Horizonte | vitima098@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-15 19h | Nova Lima | vitima060@mailbr.example | pediram código por SMS
+2026-09-11 09h | Nova Lima | vitima178@correio.example | perfil falso no Instagram
+2026-09-25 10h | Belo Horizonte | vitima460@correio.example | pediram código por SMS
+2026-09-04 20h | Nova Lima | vitima338@mailbr.example | app pediu acesso à tela
+2026-09-11 19h | Sabará | vitima055@mailbr.example | mensagem com erro de português
+2026-09-08 04h | Belo Horizonte | vitima093@correio.example | boleto estranho
+2026-09-26 13h | Belo Horizonte | vitima228@webmail.example | ligaram dizendo ser do banco
+2026-09-22 14h | Belo Horizonte | vitima386@mailbr.example | recebi link de cashback
+2026-09-02 14h | Nova Lima | vitima217@correio.example | mensagem com erro de português
+2026-09-02 13h | Ribeirão das Neves | vitima244@caixa-postal.example | pediram código por SMS
+2026-09-09 22h | Ribeirão das Neves | vitima093@webmail.example | pediram código por SMS
+2026-09-12 05h | Nova Lima | vitima280@mailbr.example | pediram código por SMS
+2026-09-09 13h | Sabará | vitima006@mailbr.example | atendente disse que era da PixVelox
+2026-09-12 02h | Ribeirão das Neves | vitima403@correio.example | perfil falso no Instagram
+2026-09-11 13h | Sabará | vitima211@correio.example | atendente disse que era da PixVelox
+2026-09-06 16h | Contagem | vitima440@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-20 08h | Belo Horizonte | vitima215@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-24 08h | Betim | vitima270@webmail.example | app pediu acesso à tela
+2026-09-27 16h | Contagem | vitima107@webmail.example | boleto estranho
+2026-09-28 19h | Betim | vitima159@caixa-postal.example | pediram código por SMS
+2026-09-23 10h | Contagem | vitima127@correio.example | boleto estranho
+2026-09-13 20h | Ribeirão das Neves | vitima373@correio.example | boleto estranho
+2026-09-22 03h | Sabará | vitima218@webmail.example | app pediu acesso à tela
+2026-09-19 10h | Ribeirão das Neves | vitima191@webmail.example | mensagem com erro de português
+2026-09-25 11h | Betim | vitima292@webmail.example | recebi link de cashback
+2026-09-01 11h | Betim | vitima198@caixa-postal.example | mensagem com erro de português
+2026-09-28 22h | Belo Horizonte | vitima212@webmail.example | recebi link de cashback
+2026-09-14 08h | Belo Horizonte | vitima151@correio.example | boleto estranho
+2026-09-01 06h | Ribeirão das Neves | vitima197@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-06 01h | Belo Horizonte | vitima112@correio.example | perfil falso no Instagram
+2026-09-15 03h | Sabará | vitima363@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-04 13h | Betim | vitima347@correio.example | conta zerada depois do suporte
+2026-09-30 03h | Ribeirão das Neves | vitima118@correio.example | pediram código por SMS
+2026-09-02 04h | Sabará | vitima407@correio.example | app pediu acesso à tela
+2026-09-30 11h | Betim | vitima226@correio.example | app pediu acesso à tela
+2026-09-14 09h | Contagem | vitima286@webmail.example | recebi link de cashback
+2026-09-06 19h | Ribeirão das Neves | vitima077@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-19 13h | Belo Horizonte | vitima204@correio.example | mensagem com erro de português
+2026-09-26 00h | Nova Lima | vitima421@webmail.example | conta zerada depois do suporte
+2026-09-07 08h | Contagem | vitima148@correio.example | app pediu acesso à tela
+2026-09-07 10h | Sabará | vitima380@webmail.example | conta zerada depois do suporte
+2026-09-07 14h | Belo Horizonte | vitima082@caixa-postal.example | pediram código por SMS
+2026-09-03 00h | Betim | vitima198@correio.example | app pediu acesso à tela
+2026-09-08 06h | Betim | vitima188@correio.example | ligaram dizendo ser do banco
+2026-09-18 17h | Belo Horizonte | vitima175@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-15 17h | Ribeirão das Neves | vitima057@correio.example | perfil falso no Instagram
+2026-09-07 17h | Contagem | vitima179@mailbr.example | conta zerada depois do suporte
+2026-09-19 20h | Nova Lima | vitima130@correio.example | atendente disse que era da PixVelox
+2026-09-25 05h | Contagem | vitima242@caixa-postal.example | perfil falso no Instagram
+2026-09-20 09h | Belo Horizonte | vitima185@webmail.example | conta zerada depois do suporte
+2026-09-28 07h | Sabará | vitima409@correio.example | boleto estranho
+2026-09-30 09h | Nova Lima | vitima369@caixa-postal.example | recebi link de cashback
+2026-09-29 22h | Nova Lima | vitima078@caixa-postal.example | app pediu acesso à tela
+2026-09-09 21h | Betim | vitima053@mailbr.example | pediram código por SMS
+2026-09-11 09h | Belo Horizonte | vitima421@webmail.example | mensagem com erro de português | remetente: suporte@pixvelox.example
+2026-09-30 02h | Ribeirão das Neves | vitima153@mailbr.example | recebi link de cashback
+2026-09-21 06h | Belo Horizonte | vitima150@webmail.example | perfil falso no Instagram
+2026-09-07 00h | Belo Horizonte | vitima480@correio.example | boleto estranho
+2026-09-16 16h | Belo Horizonte | vitima321@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-18 23h | Ribeirão das Neves | vitima430@webmail.example | boleto estranho
+2026-09-27 21h | Belo Horizonte | vitima316@mailbr.example | boleto estranho
+2026-09-23 13h | Ribeirão das Neves | vitima295@webmail.example | mensagem com erro de português
+2026-09-18 08h | Betim | vitima032@caixa-postal.example | perfil falso no Instagram
+2026-09-28 02h | Nova Lima | vitima285@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-30 21h | Nova Lima | vitima326@correio.example | mensagem com erro de português
+2026-09-28 21h | Nova Lima | vitima027@correio.example | conta zerada depois do suporte
+2026-09-04 08h | Belo Horizonte | vitima243@webmail.example | boleto estranho
+2026-09-21 06h | Nova Lima | vitima061@mailbr.example | perfil falso no Instagram
+2026-09-04 01h | Nova Lima | vitima143@mailbr.example | recebi link de cashback
+2026-09-13 20h | Betim | vitima379@webmail.example | conta zerada depois do suporte
+2026-09-06 09h | Ribeirão das Neves | vitima068@mailbr.example | atendente disse que era da PixVelox
+2026-09-27 13h | Betim | vitima385@webmail.example | app pediu acesso à tela
+2026-09-13 12h | Contagem | vitima285@webmail.example | pediram código por SMS
+2026-09-24 19h | Contagem | vitima435@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-23 07h | Betim | vitima294@webmail.example | boleto estranho
+2026-09-28 06h | Sabará | vitima375@caixa-postal.example | pediram código por SMS
+2026-09-15 05h | Contagem | vitima379@caixa-postal.example | pediram código por SMS
+2026-09-15 14h | Betim | vitima113@mailbr.example | app pediu acesso à tela
+2026-09-23 02h | Ribeirão das Neves | vitima022@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-11 22h | Betim | vitima323@correio.example | mensagem com erro de português
+2026-09-17 13h | Nova Lima | vitima415@correio.example | ligaram dizendo ser do banco
+2026-09-04 22h | Nova Lima | vitima382@caixa-postal.example | pediram código por SMS
+2026-09-17 04h | Belo Horizonte | vitima352@caixa-postal.example | recebi link de cashback
+2026-09-08 08h | Sabará | vitima127@caixa-postal.example | boleto estranho
+2026-09-30 05h | Belo Horizonte | vitima315@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-15 16h | Nova Lima | vitima290@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-09 08h | Sabará | vitima385@correio.example | conta zerada depois do suporte
+2026-09-03 19h | Contagem | vitima204@correio.example | app pediu acesso à tela
+2026-09-24 17h | Sabará | vitima190@webmail.example | recebi link de cashback
+2026-09-23 01h | Belo Horizonte | vitima001@correio.example | recebi link de cashback
+2026-09-01 00h | Ribeirão das Neves | vitima321@caixa-postal.example | conta zerada depois do suporte
+2026-09-15 01h | Belo Horizonte | vitima251@correio.example | pediram código por SMS
+2026-09-08 01h | Nova Lima | vitima102@mailbr.example | perfil falso no Instagram
+2026-09-02 09h | Belo Horizonte | vitima192@webmail.example | perfil falso no Instagram
+2026-09-23 03h | Nova Lima | vitima269@webmail.example | ligaram dizendo ser do banco
+2026-09-28 02h | Ribeirão das Neves | vitima459@webmail.example | app pediu acesso à tela
+2026-09-08 11h | Betim | vitima460@correio.example | app pediu acesso à tela
+2026-09-01 07h | Belo Horizonte | vitima043@correio.example | conta zerada depois do suporte
+2026-09-28 09h | Belo Horizonte | vitima262@mailbr.example | recebi link de cashback
+2026-09-10 05h | Belo Horizonte | vitima003@mailbr.example | recebi link de cashback
+2026-09-29 13h | Nova Lima | vitima200@mailbr.example | pediram código por SMS
+2026-09-06 18h | Betim | vitima253@correio.example | boleto estranho
+2026-09-14 14h | Belo Horizonte | vitima126@correio.example | conta zerada depois do suporte
+2026-09-16 00h | Contagem | vitima022@correio.example | mensagem com erro de português
+2026-09-19 22h | Nova Lima | vitima444@caixa-postal.example | conta zerada depois do suporte
+2026-09-03 23h | Contagem | vitima317@mailbr.example | ligaram dizendo ser do banco
+2026-09-02 04h | Contagem | vitima450@mailbr.example | mensagem com erro de português
+2026-09-04 11h | Sabará | vitima250@correio.example | app pediu acesso à tela
+2026-09-30 09h | Contagem | vitima286@correio.example | pediram código por SMS
+2026-09-16 10h | Ribeirão das Neves | vitima251@correio.example | app pediu acesso à tela
+2026-09-02 13h | Sabará | vitima161@caixa-postal.example | boleto estranho
+2026-09-13 15h | Betim | vitima203@mailbr.example | pediram código por SMS
+2026-09-07 08h | Betim | vitima213@mailbr.example | mensagem com erro de português
+2026-09-04 14h | Contagem | vitima281@correio.example | atendente disse que era da PixVelox
+2026-09-08 23h | Nova Lima | vitima458@mailbr.example | atendente disse que era da PixVelox
+2026-09-26 05h | Contagem | vitima209@webmail.example | ligaram dizendo ser do banco
+2026-09-01 16h | Ribeirão das Neves | vitima294@correio.example | conta zerada depois do suporte
+2026-09-05 20h | Ribeirão das Neves | vitima375@mailbr.example | atendente disse que era da PixVelox
+2026-09-05 12h | Ribeirão das Neves | vitima080@correio.example | atendente disse que era da PixVelox
+2026-09-26 21h | Nova Lima | vitima084@mailbr.example | recebi link de cashback
+2026-09-02 20h | Belo Horizonte | vitima409@caixa-postal.example | app pediu acesso à tela | link: PixVelox.example/bonus
+2026-09-04 10h | Belo Horizonte | vitima062@webmail.example | atendente disse que era da PixVelox
+2026-09-27 03h | Sabará | vitima062@webmail.example | recebi link de cashback
+2026-09-11 05h | Ribeirão das Neves | vitima120@mailbr.example | conta zerada depois do suporte
+2026-09-24 06h | Ribeirão das Neves | vitima197@caixa-postal.example | app pediu acesso à tela
+2026-09-30 14h | Sabará | vitima331@webmail.example | conta zerada depois do suporte
+2026-09-05 03h | Ribeirão das Neves | vitima203@correio.example | ligaram dizendo ser do banco
+2026-09-06 03h | Ribeirão das Neves | vitima353@webmail.example | pediram código por SMS
+2026-09-15 01h | Nova Lima | vitima098@caixa-postal.example | recebi link de cashback
+2026-09-18 12h | Contagem | vitima011@mailbr.example | perfil falso no Instagram
+2026-09-07 08h | Sabará | vitima391@webmail.example | boleto estranho
+2026-09-25 12h | Nova Lima | vitima114@mailbr.example | atendente disse que era da PixVelox
+2026-09-03 06h | Betim | vitima446@caixa-postal.example | recebi link de cashback
+2026-09-24 22h | Belo Horizonte | vitima445@caixa-postal.example | recebi link de cashback
+2026-09-29 23h | Nova Lima | vitima412@correio.example | perfil falso no Instagram
+2026-09-03 20h | Ribeirão das Neves | vitima249@correio.example | mensagem com erro de português
+2026-09-08 20h | Betim | vitima064@mailbr.example | perfil falso no Instagram
+2026-09-18 11h | Nova Lima | vitima188@correio.example | boleto estranho
+2026-09-25 03h | Sabará | vitima019@webmail.example | recebi link de cashback
+2026-09-13 02h | Contagem | vitima167@caixa-postal.example | pediram código por SMS
+2026-09-05 05h | Ribeirão das Neves | vitima022@mailbr.example | recebi link de cashback
+2026-09-12 05h | Contagem | vitima180@correio.example | pediram código por SMS
+2026-09-03 08h | Ribeirão das Neves | vitima001@caixa-postal.example | pediram código por SMS
+2026-09-27 03h | Sabará | vitima273@mailbr.example | atendente disse que era da PixVelox
+2026-09-19 00h | Betim | vitima414@mailbr.example | pediram código por SMS
+2026-09-13 23h | Contagem | vitima441@mailbr.example | ligaram dizendo ser do banco
+2026-09-26 04h | Contagem | vitima326@correio.example | boleto estranho
+2026-09-06 05h | Ribeirão das Neves | vitima375@correio.example | conta zerada depois do suporte
+2026-09-26 17h | Contagem | vitima111@webmail.example | mensagem com erro de português
+2026-09-10 22h | Nova Lima | vitima238@webmail.example | recebi link de cashback
+2026-09-10 12h | Betim | vitima007@caixa-postal.example | conta zerada depois do suporte
+2026-09-09 04h | Betim | vitima267@caixa-postal.example | conta zerada depois do suporte
+2026-09-27 02h | Nova Lima | vitima388@webmail.example | atendente disse que era da PixVelox
+2026-09-10 08h | Sabará | vitima326@mailbr.example | mensagem com erro de português
+2026-09-02 08h | Nova Lima | vitima375@webmail.example | app pediu acesso à tela
+2026-09-20 07h | Belo Horizonte | vitima426@webmail.example | perfil falso no Instagram
+2026-09-11 00h | Ribeirão das Neves | vitima201@correio.example | boleto estranho
+2026-09-01 18h | Betim | vitima146@webmail.example | mensagem com erro de português
+2026-09-09 22h | Betim | vitima212@correio.example | app pediu acesso à tela
+2026-09-15 21h | Contagem | vitima113@mailbr.example | ligaram dizendo ser do banco
+2026-09-28 15h | Nova Lima | vitima309@mailbr.example | ligaram dizendo ser do banco
+2026-09-10 08h | Belo Horizonte | vitima238@correio.example | app pediu acesso à tela
+2026-09-26 01h | Sabará | vitima147@webmail.example | atendente disse que era da PixVelox
+2026-09-01 10h | Nova Lima | vitima450@mailbr.example | conta zerada depois do suporte
+2026-09-13 21h | Contagem | vitima214@mailbr.example | app pediu acesso à tela
+2026-09-13 16h | Nova Lima | vitima471@correio.example | boleto estranho
+2026-09-14 23h | Betim | vitima304@webmail.example | pediram código por SMS
+2026-09-17 05h | Nova Lima | vitima155@correio.example | ligaram dizendo ser do banco
+2026-09-06 05h | Sabará | vitima023@mailbr.example | app pediu acesso à tela
+2026-09-08 23h | Nova Lima | vitima018@webmail.example | boleto estranho
+2026-09-01 00h | Belo Horizonte | vitima467@webmail.example | pediram código por SMS
+2026-09-01 05h | Nova Lima | vitima399@webmail.example | recebi link de cashback
+2026-09-28 15h | Contagem | vitima388@mailbr.example | recebi link de cashback
+2026-09-20 04h | Ribeirão das Neves | vitima009@correio.example | app pediu acesso à tela
+2026-09-16 16h | Betim | vitima317@caixa-postal.example | conta zerada depois do suporte
+2026-09-24 04h | Ribeirão das Neves | vitima074@correio.example | app pediu acesso à tela
+2026-09-28 14h | Contagem | vitima142@caixa-postal.example | pediram código por SMS | link: pixvelox.example/cashback
+2026-09-30 12h | Betim | vitima398@webmail.example | app pediu acesso à tela
+2026-09-04 13h | Contagem | vitima139@mailbr.example | perfil falso no Instagram
+2026-09-20 05h | Nova Lima | vitima358@webmail.example | mensagem com erro de português
+2026-09-27 06h | Belo Horizonte | vitima044@caixa-postal.example | boleto estranho
+2026-09-21 19h | Betim | vitima440@caixa-postal.example | mensagem com erro de português
+2026-09-21 11h | Nova Lima | vitima337@webmail.example | conta zerada depois do suporte
+2026-09-30 18h | Belo Horizonte | vitima442@mailbr.example | ligaram dizendo ser do banco
+2026-09-06 02h | Contagem | vitima295@correio.example | perfil falso no Instagram
+2026-09-17 13h | Ribeirão das Neves | vitima066@webmail.example | app pediu acesso à tela
+2026-09-27 02h | Contagem | vitima303@mailbr.example | mensagem com erro de português
+2026-09-29 18h | Belo Horizonte | vitima113@mailbr.example | conta zerada depois do suporte
+2026-09-22 00h | Belo Horizonte | vitima140@webmail.example | boleto estranho
+2026-09-05 19h | Ribeirão das Neves | vitima458@mailbr.example | boleto estranho
+2026-09-06 10h | Nova Lima | vitima093@correio.example | atendente disse que era da PixVelox
+2026-09-07 15h | Nova Lima | vitima198@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-07 09h | Ribeirão das Neves | vitima050@webmail.example | app pediu acesso à tela
+2026-09-23 13h | Nova Lima | vitima168@mailbr.example | recebi link de cashback
+2026-09-28 02h | Betim | vitima458@caixa-postal.example | recebi link de cashback
+2026-09-14 01h | Betim | vitima040@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-10 10h | Betim | vitima424@webmail.example | ligaram dizendo ser do banco
+2026-09-21 08h | Belo Horizonte | vitima379@correio.example | mensagem com erro de português
+2026-09-18 03h | Belo Horizonte | vitima365@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-03 11h | Contagem | vitima001@correio.example | perfil falso no Instagram
+2026-09-18 22h | Betim | vitima220@correio.example | recebi link de cashback
+2026-09-24 02h | Nova Lima | vitima427@mailbr.example | ligaram dizendo ser do banco
+2026-09-03 00h | Ribeirão das Neves | vitima312@caixa-postal.example | app pediu acesso à tela
+2026-09-23 09h | Belo Horizonte | vitima037@correio.example | boleto estranho
+2026-09-12 03h | Nova Lima | vitima135@caixa-postal.example | pediram código por SMS
+2026-09-20 20h | Betim | vitima182@webmail.example | perfil falso no Instagram
+2026-09-22 05h | Belo Horizonte | vitima326@mailbr.example | recebi link de cashback
+2026-09-28 20h | Sabará | vitima180@caixa-postal.example | recebi link de cashback
+2026-09-18 20h | Ribeirão das Neves | vitima313@mailbr.example | pediram código por SMS
+2026-09-08 02h | Betim | vitima259@correio.example | boleto estranho
+2026-09-16 20h | Contagem | vitima405@caixa-postal.example | perfil falso no Instagram
+2026-09-21 18h | Ribeirão das Neves | vitima118@mailbr.example | app pediu acesso à tela
+2026-09-28 03h | Sabará | vitima388@webmail.example | boleto estranho
+2026-09-09 14h | Betim | vitima214@caixa-postal.example | conta zerada depois do suporte
+2026-09-01 10h | Ribeirão das Neves | vitima156@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-02 23h | Sabará | vitima299@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-28 11h | Betim | vitima194@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-25 10h | Ribeirão das Neves | vitima469@webmail.example | conta zerada depois do suporte
+2026-09-03 16h | Betim | vitima093@caixa-postal.example | app pediu acesso à tela
+2026-09-09 00h | Ribeirão das Neves | vitima412@webmail.example | perfil falso no Instagram
+2026-09-07 11h | Nova Lima | vitima331@caixa-postal.example | pediram código por SMS
+2026-09-19 22h | Belo Horizonte | vitima254@caixa-postal.example | app pediu acesso à tela
+2026-09-21 19h | Nova Lima | vitima147@mailbr.example | app pediu acesso à tela
+2026-09-22 06h | Ribeirão das Neves | vitima277@correio.example | atendente disse que era da PixVelox
+2026-09-30 08h | Nova Lima | vitima127@correio.example | pediram código por SMS
+2026-09-15 14h | Nova Lima | vitima114@correio.example | atendente disse que era da PixVelox
+2026-09-17 20h | Contagem | vitima228@webmail.example | ligaram dizendo ser do banco
+2026-09-10 23h | Sabará | vitima207@correio.example | recebi link de cashback
+2026-09-14 02h | Belo Horizonte | vitima408@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-02 13h | Ribeirão das Neves | vitima465@mailbr.example | atendente disse que era da PixVelox
+2026-09-04 08h | Nova Lima | vitima315@caixa-postal.example | perfil falso no Instagram
+2026-09-25 03h | Betim | vitima097@caixa-postal.example | app pediu acesso à tela
+2026-09-30 11h | Ribeirão das Neves | vitima262@correio.example | mensagem com erro de português
+2026-09-30 15h | Sabará | vitima196@webmail.example | pediram código por SMS
+2026-09-13 09h | Ribeirão das Neves | vitima075@caixa-postal.example | app pediu acesso à tela
+2026-09-06 16h | Contagem | vitima040@mailbr.example | recebi link de cashback
+2026-09-05 21h | Sabará | vitima428@caixa-postal.example | boleto estranho
+2026-09-29 20h | Contagem | vitima171@correio.example | boleto estranho
+2026-09-27 15h | Sabará | vitima239@webmail.example | pediram código por SMS
+2026-09-19 18h | Sabará | vitima194@webmail.example | atendente disse que era da PixVelox
+2026-09-16 19h | Ribeirão das Neves | vitima301@webmail.example | pediram código por SMS | remetente: suporte@pixvelox.example
+2026-09-11 13h | Betim | vitima235@caixa-postal.example | mensagem com erro de português
+2026-09-12 09h | Ribeirão das Neves | vitima220@correio.example | boleto estranho
+2026-09-16 01h | Ribeirão das Neves | vitima329@mailbr.example | app pediu acesso à tela
+2026-09-07 02h | Sabará | vitima277@webmail.example | boleto estranho
+2026-09-29 16h | Betim | vitima201@mailbr.example | atendente disse que era da PixVelox
+2026-09-09 16h | Nova Lima | vitima234@correio.example | mensagem com erro de português
+2026-09-02 06h | Nova Lima | vitima460@mailbr.example | atendente disse que era da PixVelox
+2026-09-15 05h | Belo Horizonte | vitima072@correio.example | pediram código por SMS
+2026-09-07 10h | Sabará | vitima427@mailbr.example | recebi link de cashback
+2026-09-17 01h | Belo Horizonte | vitima234@caixa-postal.example | boleto estranho
+2026-09-26 10h | Nova Lima | vitima244@webmail.example | ligaram dizendo ser do banco
+2026-09-19 02h | Betim | vitima356@caixa-postal.example | mensagem com erro de português
+2026-09-30 19h | Nova Lima | vitima016@correio.example | conta zerada depois do suporte
+2026-09-03 15h | Contagem | vitima110@mailbr.example | mensagem com erro de português
+2026-09-24 08h | Betim | vitima447@caixa-postal.example | pediram código por SMS
+2026-09-11 18h | Belo Horizonte | vitima109@caixa-postal.example | pediram código por SMS
+2026-09-15 06h | Ribeirão das Neves | vitima107@webmail.example | ligaram dizendo ser do banco
+2026-09-16 02h | Nova Lima | vitima207@webmail.example | atendente disse que era da PixVelox
+2026-09-08 02h | Contagem | vitima158@webmail.example | conta zerada depois do suporte
+2026-09-25 17h | Betim | vitima085@caixa-postal.example | conta zerada depois do suporte
+2026-09-08 05h | Nova Lima | vitima456@webmail.example | pediram código por SMS
+2026-09-28 00h | Betim | vitima373@webmail.example | atendente disse que era da PixVelox | remetente: suporte@pixvelox.example
+2026-09-09 05h | Belo Horizonte | vitima152@mailbr.example | app pediu acesso à tela
+2026-09-27 03h | Betim | vitima267@mailbr.example | perfil falso no Instagram
+2026-09-19 02h | Contagem | vitima154@mailbr.example | boleto estranho
+2026-09-21 09h | Sabará | vitima452@mailbr.example | pediram código por SMS
+2026-09-28 09h | Nova Lima | vitima357@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-13 05h | Sabará | vitima038@caixa-postal.example | app pediu acesso à tela
+2026-09-12 22h | Belo Horizonte | vitima436@webmail.example | conta zerada depois do suporte
+2026-09-21 04h | Ribeirão das Neves | vitima077@correio.example | atendente disse que era da PixVelox
+2026-09-27 21h | Belo Horizonte | vitima203@caixa-postal.example | pediram código por SMS
+2026-09-29 19h | Contagem | vitima349@webmail.example | app pediu acesso à tela
+2026-09-06 15h | Betim | vitima174@mailbr.example | recebi link de cashback
+2026-09-05 17h | Belo Horizonte | vitima415@correio.example | boleto estranho
+2026-09-14 00h | Betim | vitima431@webmail.example | atendente disse que era da PixVelox
+2026-09-08 01h | Belo Horizonte | vitima166@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-10 12h | Nova Lima | vitima010@correio.example | pediram código por SMS
+2026-09-25 05h | Betim | vitima168@caixa-postal.example | mensagem com erro de português | remetente: suporte@pixvelox.example
+2026-09-17 17h | Contagem | vitima360@mailbr.example | atendente disse que era da PixVelox
+2026-09-05 12h | Belo Horizonte | vitima268@mailbr.example | conta zerada depois do suporte
+2026-09-17 18h | Betim | vitima368@caixa-postal.example | recebi link de cashback
+2026-09-17 08h | Contagem | vitima268@mailbr.example | perfil falso no Instagram
+2026-09-23 13h | Betim | vitima107@correio.example | recebi link de cashback
+2026-09-12 10h | Contagem | vitima059@mailbr.example | mensagem com erro de português
+2026-09-27 07h | Betim | vitima120@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-09 09h | Betim | vitima407@caixa-postal.example | mensagem com erro de português
+2026-09-29 23h | Belo Horizonte | vitima339@caixa-postal.example | boleto estranho
+2026-09-24 19h | Sabará | vitima448@caixa-postal.example | perfil falso no Instagram
+2026-09-03 14h | Sabará | vitima438@mailbr.example | ligaram dizendo ser do banco
+2026-09-03 20h | Ribeirão das Neves | vitima024@mailbr.example | app pediu acesso à tela
+2026-09-21 07h | Contagem | vitima098@webmail.example | recebi link de cashback
+2026-09-17 00h | Contagem | vitima230@caixa-postal.example | app pediu acesso à tela
+2026-09-02 10h | Sabará | vitima162@webmail.example | app pediu acesso à tela
+2026-09-07 23h | Ribeirão das Neves | vitima376@correio.example | ligaram dizendo ser do banco
+2026-09-05 10h | Nova Lima | vitima441@webmail.example | pediram código por SMS
+2026-09-11 22h | Betim | vitima123@mailbr.example | mensagem com erro de português
+2026-09-07 00h | Belo Horizonte | vitima122@webmail.example | mensagem com erro de português
+2026-09-18 12h | Sabará | vitima257@correio.example | recebi link de cashback
+2026-09-05 13h | Nova Lima | vitima081@webmail.example | perfil falso no Instagram
+2026-09-16 09h | Betim | vitima141@caixa-postal.example | conta zerada depois do suporte
+2026-09-25 00h | Ribeirão das Neves | vitima116@webmail.example | ligaram dizendo ser do banco
+2026-09-10 22h | Belo Horizonte | vitima137@mailbr.example | recebi link de cashback
+2026-09-13 02h | Nova Lima | vitima355@correio.example | conta zerada depois do suporte
+2026-09-04 10h | Contagem | vitima142@mailbr.example | boleto estranho
+2026-09-16 12h | Nova Lima | vitima077@correio.example | boleto estranho
+2026-09-14 00h | Ribeirão das Neves | vitima229@caixa-postal.example | conta zerada depois do suporte
+2026-09-24 11h | Sabará | vitima187@correio.example | ligaram dizendo ser do banco
+2026-09-27 05h | Sabará | vitima277@mailbr.example | perfil falso no Instagram
+2026-09-02 19h | Nova Lima | vitima301@correio.example | mensagem com erro de português
+2026-09-11 15h | Belo Horizonte | vitima049@mailbr.example | mensagem com erro de português
+2026-09-13 19h | Belo Horizonte | vitima015@webmail.example | pediram código por SMS
+2026-09-29 08h | Nova Lima | vitima194@webmail.example | atendente disse que era da PixVelox
+2026-09-17 07h | Sabará | vitima475@webmail.example | mensagem com erro de português
+2026-09-15 23h | Sabará | vitima256@webmail.example | pediram código por SMS
+2026-09-07 09h | Ribeirão das Neves | vitima233@webmail.example | recebi link de cashback
+2026-09-11 22h | Contagem | vitima452@mailbr.example | app pediu acesso à tela
+2026-09-02 05h | Ribeirão das Neves | vitima296@webmail.example | app pediu acesso à tela
+2026-09-09 23h | Nova Lima | vitima224@mailbr.example | boleto estranho
+2026-09-10 15h | Belo Horizonte | vitima236@caixa-postal.example | boleto estranho
+2026-09-15 09h | Contagem | vitima244@mailbr.example | perfil falso no Instagram
+2026-09-22 06h | Nova Lima | vitima391@mailbr.example | app pediu acesso à tela
+2026-09-04 17h | Betim | vitima008@caixa-postal.example | app pediu acesso à tela
+2026-09-27 07h | Belo Horizonte | vitima476@correio.example | ligaram dizendo ser do banco
+2026-09-06 01h | Nova Lima | vitima109@correio.example | ligaram dizendo ser do banco
+2026-09-19 03h | Belo Horizonte | vitima164@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-14 21h | Contagem | vitima191@mailbr.example | pediram código por SMS
+2026-09-17 22h | Belo Horizonte | vitima259@webmail.example | mensagem com erro de português
+2026-09-27 20h | Betim | vitima388@caixa-postal.example | perfil falso no Instagram
+2026-09-14 15h | Nova Lima | vitima379@correio.example | perfil falso no Instagram
+2026-09-22 05h | Contagem | vitima180@correio.example | mensagem com erro de português
+2026-09-24 21h | Ribeirão das Neves | vitima192@caixa-postal.example | boleto estranho
+2026-09-10 15h | Belo Horizonte | vitima220@caixa-postal.example | mensagem com erro de português
+2026-09-03 04h | Belo Horizonte | vitima066@webmail.example | recebi link de cashback
+2026-09-06 14h | Nova Lima | vitima031@mailbr.example | app pediu acesso à tela
+2026-09-15 21h | Contagem | vitima306@webmail.example | app pediu acesso à tela
+2026-09-03 12h | Nova Lima | vitima219@webmail.example | mensagem com erro de português
+2026-09-14 08h | Contagem | vitima304@webmail.example | pediram código por SMS
+2026-09-22 08h | Sabará | vitima280@correio.example | ligaram dizendo ser do banco
+2026-09-26 23h | Sabará | vitima476@correio.example | perfil falso no Instagram
+2026-09-10 19h | Sabará | vitima479@webmail.example | mensagem com erro de português
+2026-09-12 23h | Contagem | vitima193@mailbr.example | atendente disse que era da PixVelox
+2026-09-15 03h | Belo Horizonte | vitima329@correio.example | atendente disse que era da PixVelox | link: PixVelox.example/bonus
+2026-09-01 15h | Ribeirão das Neves | vitima400@caixa-postal.example | ligaram dizendo ser do banco | link: PixVelox.example/bonus
+2026-09-12 01h | Nova Lima | vitima415@mailbr.example | boleto estranho
+2026-09-29 08h | Sabará | vitima156@mailbr.example | mensagem com erro de português
+2026-09-06 03h | Contagem | vitima153@correio.example | boleto estranho
+2026-09-14 07h | Belo Horizonte | vitima292@webmail.example | mensagem com erro de português
+2026-09-12 03h | Betim | vitima274@webmail.example | perfil falso no Instagram
+2026-09-02 16h | Betim | vitima355@correio.example | mensagem com erro de português
+2026-09-24 07h | Nova Lima | vitima406@webmail.example | pediram código por SMS
+2026-09-25 19h | Belo Horizonte | vitima247@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-13 05h | Ribeirão das Neves | vitima343@webmail.example | pediram código por SMS
+2026-09-10 18h | Nova Lima | vitima339@mailbr.example | conta zerada depois do suporte
+2026-09-26 20h | Ribeirão das Neves | vitima094@correio.example | mensagem com erro de português
+2026-09-24 15h | Sabará | vitima014@webmail.example | ligaram dizendo ser do banco
+2026-09-19 21h | Ribeirão das Neves | vitima153@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-23 10h | Sabará | vitima432@mailbr.example | atendente disse que era da PixVelox
+2026-09-30 00h | Contagem | vitima066@mailbr.example | boleto estranho
+2026-09-03 18h | Contagem | vitima322@caixa-postal.example | boleto estranho
+2026-09-07 09h | Belo Horizonte | vitima225@webmail.example | atendente disse que era da PixVelox
+2026-09-26 02h | Nova Lima | vitima107@correio.example | conta zerada depois do suporte
+2026-09-13 16h | Sabará | vitima208@mailbr.example | boleto estranho
+2026-09-06 02h | Ribeirão das Neves | vitima476@correio.example | app pediu acesso à tela
+2026-09-04 01h | Betim | vitima468@correio.example | ligaram dizendo ser do banco
+2026-09-16 16h | Contagem | vitima121@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-02 11h | Contagem | vitima231@caixa-postal.example | recebi link de cashback
+2026-09-27 20h | Ribeirão das Neves | vitima023@mailbr.example | mensagem com erro de português
+2026-09-10 16h | Betim | vitima419@webmail.example | mensagem com erro de português
+2026-09-02 22h | Sabará | vitima273@webmail.example | pediram código por SMS
+2026-09-02 04h | Sabará | vitima038@correio.example | pediram código por SMS
+2026-09-02 13h | Belo Horizonte | vitima103@mailbr.example | perfil falso no Instagram
+2026-09-03 04h | Nova Lima | vitima192@caixa-postal.example | mensagem com erro de português
+2026-09-06 17h | Nova Lima | vitima457@mailbr.example | app pediu acesso à tela
+2026-09-02 22h | Ribeirão das Neves | vitima364@webmail.example | conta zerada depois do suporte
+2026-09-30 02h | Contagem | vitima137@caixa-postal.example | perfil falso no Instagram
+2026-09-04 08h | Sabará | vitima206@correio.example | ligaram dizendo ser do banco
+2026-09-15 12h | Contagem | vitima399@caixa-postal.example | perfil falso no Instagram
+2026-09-29 05h | Belo Horizonte | vitima414@correio.example | pediram código por SMS
+2026-09-23 12h | Ribeirão das Neves | vitima043@mailbr.example | recebi link de cashback
+2026-09-27 00h | Belo Horizonte | vitima197@webmail.example | conta zerada depois do suporte
+2026-09-23 04h | Betim | vitima332@caixa-postal.example | perfil falso no Instagram
+2026-09-16 21h | Betim | vitima281@mailbr.example | recebi link de cashback
+2026-09-14 11h | Belo Horizonte | vitima383@correio.example | atendente disse que era da PixVelox
+2026-09-29 13h | Belo Horizonte | vitima229@webmail.example | conta zerada depois do suporte
+2026-09-07 21h | Betim | vitima182@mailbr.example | pediram código por SMS
+2026-09-23 22h | Belo Horizonte | vitima334@correio.example | atendente disse que era da PixVelox
+2026-09-06 10h | Belo Horizonte | vitima197@mailbr.example | perfil falso no Instagram
+2026-09-16 03h | Ribeirão das Neves | vitima394@mailbr.example | conta zerada depois do suporte
+2026-09-18 10h | Contagem | vitima193@mailbr.example | conta zerada depois do suporte
+2026-09-19 09h | Belo Horizonte | vitima056@correio.example | conta zerada depois do suporte
+2026-09-06 03h | Betim | vitima383@mailbr.example | atendente disse que era da PixVelox
+2026-09-26 07h | Contagem | vitima449@caixa-postal.example | pediram código por SMS
+2026-09-05 03h | Ribeirão das Neves | vitima163@webmail.example | mensagem com erro de português
+2026-09-15 23h | Ribeirão das Neves | vitima008@mailbr.example | boleto estranho
+2026-09-07 01h | Belo Horizonte | vitima386@webmail.example | boleto estranho
+2026-09-04 20h | Betim | vitima307@caixa-postal.example | conta zerada depois do suporte
+2026-09-17 15h | Belo Horizonte | vitima053@correio.example | app pediu acesso à tela
+2026-09-09 01h | Sabará | vitima355@mailbr.example | boleto estranho
+2026-09-06 03h | Nova Lima | vitima055@caixa-postal.example | mensagem com erro de português
+2026-09-28 05h | Belo Horizonte | vitima448@webmail.example | pediram código por SMS
+2026-09-29 12h | Ribeirão das Neves | vitima348@correio.example | pediram código por SMS
+2026-09-12 17h | Betim | vitima282@caixa-postal.example | boleto estranho
+2026-09-20 10h | Ribeirão das Neves | vitima321@caixa-postal.example | pediram código por SMS
+2026-09-09 00h | Sabará | vitima251@correio.example | perfil falso no Instagram
+2026-09-08 20h | Ribeirão das Neves | vitima317@mailbr.example | atendente disse que era da PixVelox
+2026-09-28 20h | Sabará | vitima303@caixa-postal.example | pediram código por SMS
+2026-09-16 00h | Sabará | vitima465@correio.example | recebi link de cashback
+2026-09-09 18h | Nova Lima | vitima035@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-28 00h | Belo Horizonte | vitima410@mailbr.example | atendente disse que era da PixVelox | remetente: suporte@pixvelox.example
+2026-09-17 00h | Ribeirão das Neves | vitima393@caixa-postal.example | pediram código por SMS
+2026-09-03 18h | Betim | vitima177@mailbr.example | recebi link de cashback
+2026-09-02 01h | Betim | vitima054@webmail.example | conta zerada depois do suporte
+2026-09-09 04h | Nova Lima | vitima127@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-25 14h | Betim | vitima002@mailbr.example | recebi link de cashback
+2026-09-05 09h | Belo Horizonte | vitima196@caixa-postal.example | boleto estranho
+2026-09-11 07h | Nova Lima | vitima297@webmail.example | recebi link de cashback
+2026-09-05 21h | Betim | vitima119@webmail.example | app pediu acesso à tela
+2026-09-04 00h | Belo Horizonte | vitima390@correio.example | pediram código por SMS
+2026-09-02 15h | Betim | vitima284@webmail.example | perfil falso no Instagram
+2026-09-12 22h | Ribeirão das Neves | vitima007@correio.example | pediram código por SMS
+2026-09-01 03h | Sabará | vitima111@webmail.example | pediram código por SMS
+2026-09-25 14h | Nova Lima | vitima232@mailbr.example | pediram código por SMS
+2026-09-27 18h | Betim | vitima087@mailbr.example | boleto estranho | remetente: suporte@pixvelox.example
+2026-09-09 11h | Sabará | vitima415@caixa-postal.example | recebi link de cashback
+2026-09-26 06h | Ribeirão das Neves | vitima073@mailbr.example | pediram código por SMS
+2026-09-01 22h | Sabará | vitima047@mailbr.example | recebi link de cashback
+2026-09-24 08h | Nova Lima | vitima331@mailbr.example | atendente disse que era da PixVelox
+2026-09-20 10h | Sabará | vitima020@correio.example | app pediu acesso à tela
+2026-09-30 12h | Nova Lima | vitima324@mailbr.example | recebi link de cashback
+2026-09-06 08h | Belo Horizonte | vitima440@webmail.example | perfil falso no Instagram
+2026-09-29 22h | Ribeirão das Neves | vitima309@webmail.example | boleto estranho
+2026-09-19 18h | Ribeirão das Neves | vitima419@webmail.example | mensagem com erro de português
+2026-09-14 09h | Nova Lima | vitima185@correio.example | atendente disse que era da PixVelox
+2026-09-16 14h | Belo Horizonte | vitima125@mailbr.example | recebi link de cashback
+2026-09-26 11h | Nova Lima | vitima066@caixa-postal.example | boleto estranho
+2026-09-02 17h | Sabará | vitima350@correio.example | recebi link de cashback
+2026-09-12 08h | Contagem | vitima127@correio.example | atendente disse que era da PixVelox
+2026-09-20 14h | Betim | vitima295@mailbr.example | conta zerada depois do suporte
+2026-09-15 06h | Nova Lima | vitima176@correio.example | mensagem com erro de português
+2026-09-12 03h | Betim | vitima304@caixa-postal.example | recebi link de cashback
+2026-09-11 18h | Sabará | vitima153@mailbr.example | pediram código por SMS
+2026-09-02 06h | Ribeirão das Neves | vitima207@caixa-postal.example | pediram código por SMS
+2026-09-16 10h | Ribeirão das Neves | vitima374@caixa-postal.example | recebi link de cashback
+2026-09-21 00h | Contagem | vitima052@mailbr.example | ligaram dizendo ser do banco
+2026-09-08 12h | Nova Lima | vitima271@caixa-postal.example | recebi link de cashback
+2026-09-10 13h | Betim | vitima442@mailbr.example | boleto estranho
+2026-09-17 10h | Ribeirão das Neves | vitima424@mailbr.example | app pediu acesso à tela
+2026-09-07 01h | Contagem | vitima374@webmail.example | pediram código por SMS
+2026-09-14 14h | Nova Lima | vitima192@correio.example | pediram código por SMS
+2026-09-23 04h | Belo Horizonte | vitima194@caixa-postal.example | boleto estranho
+2026-09-02 07h | Belo Horizonte | vitima209@caixa-postal.example | mensagem com erro de português
+2026-09-12 06h | Sabará | vitima123@webmail.example | app pediu acesso à tela
+2026-09-05 06h | Betim | vitima266@webmail.example | ligaram dizendo ser do banco
+2026-09-27 17h | Sabará | vitima244@webmail.example | boleto estranho
+2026-09-27 15h | Betim | vitima379@mailbr.example | conta zerada depois do suporte
+2026-09-25 21h | Nova Lima | vitima173@caixa-postal.example | recebi link de cashback
+2026-09-28 22h | Sabará | vitima107@caixa-postal.example | app pediu acesso à tela
+2026-09-29 04h | Contagem | vitima019@mailbr.example | mensagem com erro de português
+2026-09-08 03h | Ribeirão das Neves | vitima374@webmail.example | pediram código por SMS
+2026-09-03 01h | Ribeirão das Neves | vitima248@caixa-postal.example | mensagem com erro de português
+2026-09-20 03h | Contagem | vitima453@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-12 10h | Nova Lima | vitima280@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-25 16h | Ribeirão das Neves | vitima331@mailbr.example | conta zerada depois do suporte
+2026-09-19 16h | Sabará | vitima171@mailbr.example | boleto estranho
+2026-09-05 12h | Ribeirão das Neves | vitima317@mailbr.example | conta zerada depois do suporte
+2026-09-20 10h | Belo Horizonte | vitima320@mailbr.example | recebi link de cashback
+2026-09-23 04h | Nova Lima | vitima052@correio.example | recebi link de cashback
+2026-09-03 13h | Betim | vitima233@webmail.example | conta zerada depois do suporte
+2026-09-24 13h | Betim | vitima083@correio.example | atendente disse que era da PixVelox
+2026-09-23 22h | Betim | vitima051@mailbr.example | perfil falso no Instagram
+2026-09-11 08h | Ribeirão das Neves | vitima429@caixa-postal.example | app pediu acesso à tela
+2026-09-12 10h | Contagem | vitima396@webmail.example | recebi link de cashback
+2026-09-28 16h | Sabará | vitima458@caixa-postal.example | boleto estranho
+2026-09-05 07h | Ribeirão das Neves | vitima214@caixa-postal.example | conta zerada depois do suporte
+2026-09-22 05h | Belo Horizonte | vitima325@webmail.example | app pediu acesso à tela
+2026-09-30 09h | Ribeirão das Neves | vitima170@webmail.example | app pediu acesso à tela
+2026-09-30 02h | Belo Horizonte | vitima374@caixa-postal.example | mensagem com erro de português
+2026-09-19 07h | Contagem | vitima105@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-24 23h | Contagem | vitima199@webmail.example | app pediu acesso à tela
+2026-09-10 03h | Belo Horizonte | vitima234@correio.example | app pediu acesso à tela
+2026-09-19 13h | Ribeirão das Neves | vitima238@mailbr.example | boleto estranho
+2026-09-27 22h | Contagem | vitima160@caixa-postal.example | app pediu acesso à tela
+2026-09-18 23h | Ribeirão das Neves | vitima271@correio.example | ligaram dizendo ser do banco
+2026-09-22 08h | Belo Horizonte | vitima043@mailbr.example | app pediu acesso à tela
+2026-09-01 00h | Belo Horizonte | vitima039@webmail.example | pediram código por SMS
+2026-09-02 14h | Betim | vitima168@mailbr.example | recebi link de cashback
+2026-09-20 07h | Betim | vitima167@correio.example | conta zerada depois do suporte
+2026-09-01 17h | Betim | vitima015@mailbr.example | pediram código por SMS
+2026-09-16 09h | Belo Horizonte | vitima007@caixa-postal.example | boleto estranho
+2026-09-13 00h | Ribeirão das Neves | vitima152@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-09 12h | Sabará | vitima249@correio.example | app pediu acesso à tela
+2026-09-29 08h | Belo Horizonte | vitima233@mailbr.example | ligaram dizendo ser do banco
+2026-09-09 10h | Ribeirão das Neves | vitima185@mailbr.example | pediram código por SMS
+2026-09-10 09h | Contagem | vitima117@correio.example | boleto estranho
+2026-09-16 20h | Belo Horizonte | vitima042@mailbr.example | pediram código por SMS
+2026-09-11 08h | Belo Horizonte | vitima387@caixa-postal.example | boleto estranho
+2026-09-06 21h | Belo Horizonte | vitima172@mailbr.example | atendente disse que era da PixVelox
+2026-09-16 19h | Nova Lima | vitima021@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-05 10h | Belo Horizonte | vitima323@correio.example | pediram código por SMS
+2026-09-20 14h | Nova Lima | vitima056@caixa-postal.example | ligaram dizendo ser do banco | link: PixVelox.example/bonus
+2026-09-25 08h | Sabará | vitima328@caixa-postal.example | app pediu acesso à tela
+2026-09-04 17h | Nova Lima | vitima026@mailbr.example | mensagem com erro de português
+2026-09-03 20h | Sabará | vitima385@webmail.example | atendente disse que era da PixVelox
+2026-09-19 23h | Sabará | vitima218@caixa-postal.example | app pediu acesso à tela
+2026-09-15 08h | Contagem | vitima364@correio.example | recebi link de cashback
+2026-09-19 10h | Sabará | vitima264@correio.example | mensagem com erro de português
+2026-09-09 13h | Belo Horizonte | vitima048@correio.example | boleto estranho
+2026-09-10 21h | Betim | vitima167@webmail.example | ligaram dizendo ser do banco
+2026-09-16 06h | Belo Horizonte | vitima356@webmail.example | boleto estranho
+2026-09-07 04h | Sabará | vitima409@caixa-postal.example | pediram código por SMS | link: PixVelox.example/bonus
+2026-09-04 05h | Contagem | vitima237@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-15 12h | Contagem | vitima315@webmail.example | atendente disse que era da PixVelox
+2026-09-02 22h | Belo Horizonte | vitima334@webmail.example | atendente disse que era da PixVelox
+2026-09-14 23h | Betim | vitima336@correio.example | ligaram dizendo ser do banco
+2026-09-12 14h | Betim | vitima044@mailbr.example | pediram código por SMS
+2026-09-07 05h | Sabará | vitima139@mailbr.example | recebi link de cashback
+2026-09-20 16h | Belo Horizonte | vitima426@webmail.example | app pediu acesso à tela
+2026-09-08 23h | Belo Horizonte | vitima117@caixa-postal.example | recebi link de cashback
+2026-09-19 04h | Nova Lima | vitima451@mailbr.example | pediram código por SMS
+2026-09-28 21h | Betim | vitima244@mailbr.example | perfil falso no Instagram
+2026-09-14 15h | Ribeirão das Neves | vitima088@webmail.example | ligaram dizendo ser do banco
+2026-09-09 04h | Ribeirão das Neves | vitima019@mailbr.example | app pediu acesso à tela
+2026-09-16 10h | Belo Horizonte | vitima371@webmail.example | boleto estranho
+2026-09-03 19h | Belo Horizonte | vitima167@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-08 19h | Belo Horizonte | vitima355@caixa-postal.example | mensagem com erro de português
+2026-09-08 18h | Sabará | vitima391@mailbr.example | conta zerada depois do suporte
+2026-09-16 01h | Contagem | vitima064@correio.example | pediram código por SMS
+2026-09-16 08h | Ribeirão das Neves | vitima389@correio.example | boleto estranho
+2026-09-22 13h | Belo Horizonte | vitima430@webmail.example | app pediu acesso à tela
+2026-09-19 20h | Belo Horizonte | vitima282@mailbr.example | atendente disse que era da PixVelox
+2026-09-09 21h | Belo Horizonte | vitima360@caixa-postal.example | perfil falso no Instagram
+2026-09-01 10h | Belo Horizonte | vitima090@mailbr.example | atendente disse que era da PixVelox
+2026-09-22 22h | Sabará | vitima155@correio.example | mensagem com erro de português
+2026-09-18 23h | Sabará | vitima116@caixa-postal.example | conta zerada depois do suporte
+2026-09-06 02h | Contagem | vitima151@webmail.example | pediram código por SMS
+2026-09-19 05h | Nova Lima | vitima407@mailbr.example | mensagem com erro de português
+2026-09-03 02h | Nova Lima | vitima218@mailbr.example | recebi link de cashback
+2026-09-09 13h | Ribeirão das Neves | vitima252@webmail.example | atendente disse que era da PixVelox
+2026-09-23 05h | Belo Horizonte | vitima397@caixa-postal.example | conta zerada depois do suporte
+2026-09-20 01h | Betim | vitima313@mailbr.example | mensagem com erro de português
+2026-09-27 12h | Nova Lima | vitima270@correio.example | perfil falso no Instagram
+2026-09-27 03h | Sabará | vitima090@correio.example | atendente disse que era da PixVelox
+2026-09-17 22h | Betim | vitima464@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-01 20h | Belo Horizonte | vitima366@webmail.example | ligaram dizendo ser do banco
+2026-09-26 23h | Ribeirão das Neves | vitima479@mailbr.example | conta zerada depois do suporte
+2026-09-30 22h | Contagem | vitima331@mailbr.example | conta zerada depois do suporte
+2026-09-01 10h | Nova Lima | vitima139@caixa-postal.example | boleto estranho | link: PixVelox.example/bonus
+2026-09-10 04h | Ribeirão das Neves | vitima133@mailbr.example | atendente disse que era da PixVelox
+2026-09-01 03h | Belo Horizonte | vitima166@mailbr.example | conta zerada depois do suporte
+2026-09-05 18h | Ribeirão das Neves | vitima360@caixa-postal.example | pediram código por SMS
+2026-09-25 09h | Contagem | vitima140@mailbr.example | pediram código por SMS
+2026-09-07 20h | Nova Lima | vitima143@caixa-postal.example | boleto estranho
+2026-09-17 07h | Contagem | vitima097@mailbr.example | conta zerada depois do suporte
+2026-09-12 01h | Betim | vitima251@webmail.example | ligaram dizendo ser do banco
+2026-09-17 04h | Contagem | vitima428@correio.example | conta zerada depois do suporte
+2026-09-19 17h | Sabará | vitima072@mailbr.example | atendente disse que era da PixVelox
+2026-09-01 08h | Ribeirão das Neves | vitima028@webmail.example | perfil falso no Instagram
+2026-09-06 07h | Ribeirão das Neves | vitima450@webmail.example | boleto estranho
+2026-09-19 00h | Contagem | vitima298@correio.example | boleto estranho
+2026-09-15 18h | Betim | vitima391@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-08 06h | Betim | vitima023@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-17 09h | Sabará | vitima276@mailbr.example | recebi link de cashback
+2026-09-03 22h | Betim | vitima051@webmail.example | atendente disse que era da PixVelox
+2026-09-14 11h | Belo Horizonte | vitima110@mailbr.example | mensagem com erro de português
+2026-09-13 01h | Nova Lima | vitima328@mailbr.example | atendente disse que era da PixVelox
+2026-09-27 17h | Belo Horizonte | vitima152@webmail.example | mensagem com erro de português
+2026-09-20 09h | Betim | vitima136@correio.example | pediram código por SMS
+2026-09-09 04h | Nova Lima | vitima195@correio.example | boleto estranho
+2026-09-07 11h | Ribeirão das Neves | vitima214@correio.example | mensagem com erro de português
+2026-09-25 14h | Nova Lima | vitima124@correio.example | pediram código por SMS
+2026-09-04 10h | Sabará | vitima457@caixa-postal.example | pediram código por SMS
+2026-09-03 07h | Belo Horizonte | vitima027@webmail.example | conta zerada depois do suporte
+2026-09-09 11h | Belo Horizonte | vitima109@correio.example | pediram código por SMS
+2026-09-04 17h | Betim | vitima133@caixa-postal.example | mensagem com erro de português
+2026-09-07 07h | Betim | vitima036@webmail.example | mensagem com erro de português
+2026-09-07 05h | Sabará | vitima006@webmail.example | atendente disse que era da PixVelox
+2026-09-13 10h | Betim | vitima304@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-11 00h | Nova Lima | vitima324@mailbr.example | recebi link de cashback
+2026-09-04 06h | Contagem | vitima005@webmail.example | recebi link de cashback
+2026-09-05 07h | Betim | vitima290@correio.example | pediram código por SMS
+2026-09-24 15h | Belo Horizonte | vitima080@caixa-postal.example | pediram código por SMS
+2026-09-30 12h | Ribeirão das Neves | vitima266@mailbr.example | conta zerada depois do suporte
+2026-09-18 14h | Contagem | vitima330@mailbr.example | app pediu acesso à tela
+2026-09-28 17h | Ribeirão das Neves | vitima474@webmail.example | atendente disse que era da PixVelox
+2026-09-24 23h | Nova Lima | vitima400@correio.example | app pediu acesso à tela
+2026-09-01 15h | Betim | vitima039@mailbr.example | conta zerada depois do suporte
+2026-09-04 21h | Ribeirão das Neves | vitima437@webmail.example | atendente disse que era da PixVelox
+2026-09-05 16h | Betim | vitima193@caixa-postal.example | mensagem com erro de português
+2026-09-29 21h | Nova Lima | vitima179@caixa-postal.example | app pediu acesso à tela
+2026-09-25 07h | Nova Lima | vitima224@webmail.example | app pediu acesso à tela
+2026-09-04 00h | Sabará | vitima143@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-12 21h | Sabará | vitima087@mailbr.example | perfil falso no Instagram
+2026-09-21 13h | Ribeirão das Neves | vitima369@correio.example | ligaram dizendo ser do banco
+2026-09-14 08h | Betim | vitima119@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-19 09h | Contagem | vitima144@mailbr.example | conta zerada depois do suporte
+2026-09-08 01h | Ribeirão das Neves | vitima369@mailbr.example | recebi link de cashback
+2026-09-08 11h | Belo Horizonte | vitima134@caixa-postal.example | mensagem com erro de português
+2026-09-01 15h | Ribeirão das Neves | vitima475@webmail.example | conta zerada depois do suporte
+2026-09-13 05h | Belo Horizonte | vitima064@correio.example | perfil falso no Instagram
+2026-09-23 09h | Contagem | vitima251@correio.example | recebi link de cashback
+2026-09-14 13h | Ribeirão das Neves | vitima195@correio.example | ligaram dizendo ser do banco
+2026-09-12 06h | Belo Horizonte | vitima309@caixa-postal.example | boleto estranho
+2026-09-11 09h | Ribeirão das Neves | vitima382@webmail.example | perfil falso no Instagram
+2026-09-02 16h | Nova Lima | vitima302@mailbr.example | atendente disse que era da PixVelox
+2026-09-22 10h | Contagem | vitima273@webmail.example | pediram código por SMS
+2026-09-24 03h | Nova Lima | vitima407@caixa-postal.example | mensagem com erro de português
+2026-09-22 23h | Ribeirão das Neves | vitima442@mailbr.example | mensagem com erro de português
+2026-09-04 01h | Contagem | vitima154@webmail.example | conta zerada depois do suporte
+2026-09-28 10h | Sabará | vitima082@mailbr.example | ligaram dizendo ser do banco
+2026-09-17 17h | Belo Horizonte | vitima480@caixa-postal.example | recebi link de cashback
+2026-09-26 18h | Contagem | vitima070@mailbr.example | boleto estranho
+2026-09-10 18h | Ribeirão das Neves | vitima129@mailbr.example | boleto estranho
+2026-09-05 10h | Nova Lima | vitima059@caixa-postal.example | boleto estranho
+2026-09-25 07h | Contagem | vitima259@mailbr.example | atendente disse que era da PixVelox
+2026-09-18 22h | Contagem | vitima424@webmail.example | pediram código por SMS
+2026-09-26 12h | Ribeirão das Neves | vitima401@caixa-postal.example | mensagem com erro de português
+2026-09-19 02h | Contagem | vitima335@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-03 19h | Ribeirão das Neves | vitima171@correio.example | ligaram dizendo ser do banco
+2026-09-22 15h | Contagem | vitima003@webmail.example | mensagem com erro de português | remetente: suporte@pixvelox.example
+2026-09-20 22h | Nova Lima | vitima060@correio.example | conta zerada depois do suporte
+2026-09-13 08h | Contagem | vitima338@caixa-postal.example | boleto estranho
+2026-09-09 11h | Contagem | vitima468@mailbr.example | boleto estranho
+2026-09-25 14h | Contagem | vitima190@webmail.example | recebi link de cashback
+2026-09-09 10h | Contagem | vitima480@mailbr.example | mensagem com erro de português
+2026-09-05 19h | Nova Lima | vitima418@mailbr.example | recebi link de cashback | remetente: suporte@pixvelox.example
+2026-09-18 06h | Contagem | vitima449@mailbr.example | boleto estranho | link: pixvelox.example/cashback
+2026-09-07 08h | Belo Horizonte | vitima280@caixa-postal.example | boleto estranho
+2026-09-09 21h | Sabará | vitima454@mailbr.example | app pediu acesso à tela
+2026-09-19 09h | Contagem | vitima195@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-18 06h | Contagem | vitima094@webmail.example | perfil falso no Instagram
+2026-09-28 05h | Contagem | vitima222@webmail.example | recebi link de cashback
+2026-09-02 21h | Ribeirão das Neves | vitima074@mailbr.example | recebi link de cashback
+2026-09-11 09h | Sabará | vitima079@webmail.example | pediram código por SMS
+2026-09-06 02h | Belo Horizonte | vitima246@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-15 16h | Contagem | vitima423@correio.example | mensagem com erro de português
+2026-09-24 14h | Contagem | vitima187@webmail.example | conta zerada depois do suporte
+2026-09-22 14h | Belo Horizonte | vitima034@correio.example | pediram código por SMS
+2026-09-22 13h | Sabará | vitima064@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-10 00h | Betim | vitima265@mailbr.example | recebi link de cashback
+2026-09-15 04h | Belo Horizonte | vitima346@webmail.example | ligaram dizendo ser do banco
+2026-09-14 22h | Betim | vitima179@mailbr.example | recebi link de cashback
+2026-09-08 15h | Contagem | vitima277@webmail.example | recebi link de cashback
+2026-09-18 02h | Betim | vitima151@caixa-postal.example | perfil falso no Instagram
+2026-09-25 02h | Sabará | vitima007@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-02 07h | Belo Horizonte | vitima100@caixa-postal.example | mensagem com erro de português
+2026-09-28 04h | Contagem | vitima448@correio.example | app pediu acesso à tela
+2026-09-20 12h | Contagem | vitima151@mailbr.example | mensagem com erro de português
+2026-09-18 21h | Contagem | vitima394@correio.example | recebi link de cashback
+2026-09-27 07h | Nova Lima | vitima376@caixa-postal.example | app pediu acesso à tela
+2026-09-27 15h | Betim | vitima100@webmail.example | boleto estranho
+2026-09-18 10h | Belo Horizonte | vitima277@webmail.example | conta zerada depois do suporte
+2026-09-07 04h | Betim | vitima336@mailbr.example | pediram código por SMS
+2026-09-27 09h | Sabará | vitima389@caixa-postal.example | perfil falso no Instagram
+2026-09-10 04h | Sabará | vitima027@webmail.example | perfil falso no Instagram
+2026-09-14 16h | Betim | vitima158@correio.example | atendente disse que era da PixVelox
+2026-09-22 05h | Nova Lima | vitima451@mailbr.example | ligaram dizendo ser do banco
+2026-09-12 07h | Betim | vitima189@caixa-postal.example | recebi link de cashback
+2026-09-01 21h | Nova Lima | vitima227@mailbr.example | atendente disse que era da PixVelox
+2026-09-28 19h | Betim | vitima002@mailbr.example | recebi link de cashback
+2026-09-29 01h | Ribeirão das Neves | vitima469@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-03 06h | Betim | vitima361@webmail.example | pediram código por SMS
+2026-09-11 00h | Betim | vitima297@webmail.example | pediram código por SMS
+2026-09-16 20h | Belo Horizonte | vitima328@caixa-postal.example | pediram código por SMS
+2026-09-14 10h | Belo Horizonte | vitima039@caixa-postal.example | mensagem com erro de português
+2026-09-09 18h | Belo Horizonte | vitima361@correio.example | atendente disse que era da PixVelox
+2026-09-05 21h | Betim | vitima156@mailbr.example | boleto estranho
+2026-09-04 13h | Sabará | vitima457@webmail.example | atendente disse que era da PixVelox
+2026-09-02 23h | Ribeirão das Neves | vitima278@mailbr.example | mensagem com erro de português
+2026-09-10 17h | Sabará | vitima275@mailbr.example | app pediu acesso à tela
+2026-09-29 22h | Sabará | vitima322@mailbr.example | boleto estranho
+2026-09-30 16h | Contagem | vitima476@webmail.example | boleto estranho
+2026-09-25 05h | Ribeirão das Neves | vitima151@webmail.example | recebi link de cashback
+2026-09-08 23h | Betim | vitima406@webmail.example | atendente disse que era da PixVelox
+2026-09-12 11h | Betim | vitima068@caixa-postal.example | pediram código por SMS
+2026-09-30 23h | Belo Horizonte | vitima252@webmail.example | atendente disse que era da PixVelox
+2026-09-25 21h | Betim | vitima309@webmail.example | conta zerada depois do suporte
+2026-09-04 11h | Nova Lima | vitima477@webmail.example | boleto estranho
+2026-09-16 05h | Ribeirão das Neves | vitima037@webmail.example | atendente disse que era da PixVelox
+2026-09-22 18h | Sabará | vitima242@webmail.example | boleto estranho
+2026-09-27 23h | Contagem | vitima480@mailbr.example | conta zerada depois do suporte
+2026-09-25 07h | Belo Horizonte | vitima215@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-16 05h | Sabará | vitima179@correio.example | atendente disse que era da PixVelox
+2026-09-08 21h | Sabará | vitima471@mailbr.example | mensagem com erro de português
+2026-09-12 07h | Ribeirão das Neves | vitima365@mailbr.example | boleto estranho
+2026-09-23 11h | Belo Horizonte | vitima159@mailbr.example | conta zerada depois do suporte
+2026-09-05 18h | Contagem | vitima170@correio.example | conta zerada depois do suporte
+2026-09-19 14h | Ribeirão das Neves | vitima255@webmail.example | mensagem com erro de português | link: PixVelox.example/bonus
+2026-09-23 11h | Nova Lima | vitima196@caixa-postal.example | boleto estranho
+2026-09-06 21h | Ribeirão das Neves | vitima151@webmail.example | conta zerada depois do suporte
+2026-09-05 02h | Nova Lima | vitima400@caixa-postal.example | mensagem com erro de português
+2026-09-28 00h | Sabará | vitima267@webmail.example | mensagem com erro de português
+2026-09-05 18h | Betim | vitima035@mailbr.example | recebi link de cashback
+2026-09-29 10h | Ribeirão das Neves | vitima302@mailbr.example | perfil falso no Instagram
+2026-09-18 14h | Nova Lima | vitima054@webmail.example | app pediu acesso à tela
+2026-09-11 20h | Ribeirão das Neves | vitima146@caixa-postal.example | app pediu acesso à tela
+2026-09-17 11h | Belo Horizonte | vitima387@correio.example | pediram código por SMS
+2026-09-03 23h | Nova Lima | vitima100@webmail.example | ligaram dizendo ser do banco
+2026-09-21 02h | Sabará | vitima375@correio.example | pediram código por SMS
+2026-09-03 20h | Nova Lima | vitima360@mailbr.example | perfil falso no Instagram
+2026-09-07 01h | Belo Horizonte | vitima175@mailbr.example | pediram código por SMS
+2026-09-18 13h | Belo Horizonte | vitima192@webmail.example | mensagem com erro de português
+2026-09-02 12h | Belo Horizonte | vitima189@webmail.example | recebi link de cashback
+2026-09-08 09h | Ribeirão das Neves | vitima220@mailbr.example | perfil falso no Instagram
+2026-09-22 14h | Belo Horizonte | vitima161@caixa-postal.example | conta zerada depois do suporte
+2026-09-01 04h | Belo Horizonte | vitima396@mailbr.example | perfil falso no Instagram
+2026-09-02 16h | Betim | vitima128@mailbr.example | mensagem com erro de português
+2026-09-16 08h | Betim | vitima438@webmail.example | recebi link de cashback
+2026-09-06 16h | Sabará | vitima009@webmail.example | mensagem com erro de português
+2026-09-07 18h | Nova Lima | vitima065@caixa-postal.example | conta zerada depois do suporte
+2026-09-05 02h | Contagem | vitima252@mailbr.example | pediram código por SMS
+2026-09-07 08h | Belo Horizonte | vitima305@webmail.example | pediram código por SMS
+2026-09-13 11h | Betim | vitima007@caixa-postal.example | mensagem com erro de português
+2026-09-02 20h | Betim | vitima222@caixa-postal.example | mensagem com erro de português
+2026-09-01 11h | Nova Lima | vitima196@webmail.example | ligaram dizendo ser do banco
+2026-09-04 17h | Ribeirão das Neves | vitima235@webmail.example | atendente disse que era da PixVelox | link: pixvelox.example/cashback
+2026-09-20 18h | Contagem | vitima024@correio.example | atendente disse que era da PixVelox
+2026-09-24 11h | Ribeirão das Neves | vitima235@webmail.example | conta zerada depois do suporte
+2026-09-16 10h | Betim | vitima216@correio.example | pediram código por SMS
+2026-09-06 03h | Betim | vitima014@webmail.example | mensagem com erro de português
+2026-09-24 13h | Betim | vitima200@mailbr.example | perfil falso no Instagram
+2026-09-11 06h | Nova Lima | vitima478@webmail.example | atendente disse que era da PixVelox
+2026-09-14 15h | Ribeirão das Neves | vitima244@correio.example | ligaram dizendo ser do banco
+2026-09-16 05h | Belo Horizonte | vitima089@mailbr.example | atendente disse que era da PixVelox
+2026-09-14 22h | Nova Lima | vitima265@correio.example | mensagem com erro de português
+2026-09-05 08h | Sabará | vitima007@mailbr.example | mensagem com erro de português
+2026-09-27 13h | Contagem | vitima326@webmail.example | mensagem com erro de português
+2026-09-21 10h | Nova Lima | vitima243@mailbr.example | ligaram dizendo ser do banco
+2026-09-16 15h | Betim | vitima111@correio.example | conta zerada depois do suporte
+2026-09-05 13h | Sabará | vitima073@correio.example | conta zerada depois do suporte
+2026-09-07 21h | Belo Horizonte | vitima375@caixa-postal.example | recebi link de cashback
+2026-09-10 06h | Nova Lima | vitima169@correio.example | recebi link de cashback
+2026-09-08 16h | Nova Lima | vitima181@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-01 02h | Belo Horizonte | vitima388@mailbr.example | ligaram dizendo ser do banco
+2026-09-12 01h | Ribeirão das Neves | vitima324@correio.example | conta zerada depois do suporte
+2026-09-08 21h | Nova Lima | vitima440@correio.example | boleto estranho
+2026-09-17 16h | Sabará | vitima014@mailbr.example | recebi link de cashback
+2026-09-04 11h | Contagem | vitima199@caixa-postal.example | pediram código por SMS
+2026-09-27 05h | Contagem | vitima076@webmail.example | boleto estranho
+2026-09-02 12h | Belo Horizonte | vitima378@mailbr.example | ligaram dizendo ser do banco
+2026-09-08 15h | Belo Horizonte | vitima300@caixa-postal.example | mensagem com erro de português
+2026-09-04 14h | Belo Horizonte | vitima141@mailbr.example | app pediu acesso à tela
+2026-09-06 22h | Nova Lima | vitima216@webmail.example | boleto estranho
+2026-09-16 21h | Nova Lima | vitima189@correio.example | pediram código por SMS
+2026-09-03 10h | Ribeirão das Neves | vitima205@caixa-postal.example | pediram código por SMS
+2026-09-23 23h | Nova Lima | vitima244@webmail.example | perfil falso no Instagram
+2026-09-22 03h | Betim | vitima050@correio.example | boleto estranho
+2026-09-14 10h | Contagem | vitima076@webmail.example | atendente disse que era da PixVelox
+2026-09-21 15h | Contagem | vitima390@mailbr.example | ligaram dizendo ser do banco
+2026-09-19 00h | Contagem | vitima310@caixa-postal.example | conta zerada depois do suporte
+2026-09-24 15h | Nova Lima | vitima457@webmail.example | mensagem com erro de português
+2026-09-09 04h | Sabará | vitima469@mailbr.example | ligaram dizendo ser do banco
+2026-09-11 07h | Contagem | vitima030@webmail.example | recebi link de cashback
+2026-09-04 21h | Betim | vitima129@caixa-postal.example | mensagem com erro de português
+2026-09-06 11h | Ribeirão das Neves | vitima039@correio.example | pediram código por SMS
+2026-09-01 14h | Contagem | vitima376@webmail.example | app pediu acesso à tela
+2026-09-27 05h | Betim | vitima354@mailbr.example | atendente disse que era da PixVelox
+2026-09-02 22h | Belo Horizonte | vitima046@mailbr.example | ligaram dizendo ser do banco
+2026-09-05 07h | Contagem | vitima435@mailbr.example | perfil falso no Instagram
+2026-09-16 20h | Nova Lima | vitima033@webmail.example | recebi link de cashback
+2026-09-18 15h | Belo Horizonte | vitima143@caixa-postal.example | pediram código por SMS
+2026-09-01 05h | Sabará | vitima278@caixa-postal.example | mensagem com erro de português
+2026-09-21 19h | Belo Horizonte | vitima425@caixa-postal.example | recebi link de cashback
+2026-09-24 17h | Ribeirão das Neves | vitima147@mailbr.example | perfil falso no Instagram
+2026-09-14 07h | Nova Lima | vitima372@webmail.example | mensagem com erro de português
+2026-09-25 02h | Nova Lima | vitima148@correio.example | recebi link de cashback
+2026-09-22 22h | Sabará | vitima201@caixa-postal.example | mensagem com erro de português
+2026-09-02 11h | Sabará | vitima065@webmail.example | recebi link de cashback
+2026-09-11 14h | Betim | vitima311@mailbr.example | app pediu acesso à tela
+2026-09-27 23h | Contagem | vitima009@caixa-postal.example | boleto estranho
+2026-09-07 20h | Ribeirão das Neves | vitima156@correio.example | boleto estranho
+2026-09-22 07h | Belo Horizonte | vitima233@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-08 23h | Belo Horizonte | vitima243@correio.example | conta zerada depois do suporte
+2026-09-30 15h | Contagem | vitima313@mailbr.example | recebi link de cashback
+2026-09-09 20h | Nova Lima | vitima063@correio.example | app pediu acesso à tela
+2026-09-14 00h | Contagem | vitima134@webmail.example | app pediu acesso à tela
+2026-09-13 00h | Ribeirão das Neves | vitima104@caixa-postal.example | recebi link de cashback
+2026-09-29 20h | Betim | vitima275@correio.example | pediram código por SMS
+2026-09-24 16h | Contagem | vitima295@mailbr.example | boleto estranho
+2026-09-03 08h | Betim | vitima071@webmail.example | ligaram dizendo ser do banco
+2026-09-05 11h | Ribeirão das Neves | vitima242@mailbr.example | atendente disse que era da PixVelox
+2026-09-13 18h | Nova Lima | vitima435@webmail.example | mensagem com erro de português
+2026-09-02 23h | Ribeirão das Neves | vitima190@mailbr.example | boleto estranho
+2026-09-28 12h | Betim | vitima338@mailbr.example | pediram código por SMS
+2026-09-24 20h | Ribeirão das Neves | vitima343@correio.example | recebi link de cashback
+2026-09-16 16h | Ribeirão das Neves | vitima419@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-17 11h | Belo Horizonte | vitima403@correio.example | boleto estranho
+2026-09-06 04h | Belo Horizonte | vitima367@webmail.example | boleto estranho
+2026-09-09 01h | Nova Lima | vitima185@mailbr.example | recebi link de cashback
+2026-09-09 19h | Ribeirão das Neves | vitima079@webmail.example | atendente disse que era da PixVelox
+2026-09-10 22h | Betim | vitima480@caixa-postal.example | pediram código por SMS
+2026-09-09 18h | Belo Horizonte | vitima297@caixa-postal.example | boleto estranho
+2026-09-01 23h | Contagem | vitima111@correio.example | perfil falso no Instagram
+2026-09-29 16h | Ribeirão das Neves | vitima400@mailbr.example | conta zerada depois do suporte
+2026-09-23 19h | Nova Lima | vitima107@mailbr.example | app pediu acesso à tela
+2026-09-21 07h | Nova Lima | vitima230@caixa-postal.example | mensagem com erro de português
+2026-09-07 23h | Belo Horizonte | vitima233@correio.example | conta zerada depois do suporte
+2026-09-02 13h | Belo Horizonte | vitima184@mailbr.example | mensagem com erro de português
+2026-09-10 20h | Ribeirão das Neves | vitima182@webmail.example | atendente disse que era da PixVelox
+2026-09-11 20h | Sabará | vitima298@caixa-postal.example | pediram código por SMS | link: pixvelox.example/cashback
+2026-09-11 17h | Sabará | vitima262@webmail.example | pediram código por SMS
+2026-09-14 14h | Nova Lima | vitima318@mailbr.example | boleto estranho
+2026-09-28 08h | Ribeirão das Neves | vitima281@mailbr.example | conta zerada depois do suporte
+2026-09-16 03h | Betim | vitima355@webmail.example | recebi link de cashback
+2026-09-06 01h | Belo Horizonte | vitima261@correio.example | pediram código por SMS
+2026-09-10 21h | Belo Horizonte | vitima281@mailbr.example | pediram código por SMS
+2026-09-08 21h | Betim | vitima334@correio.example | conta zerada depois do suporte
+2026-09-23 09h | Belo Horizonte | vitima359@webmail.example | app pediu acesso à tela
+2026-09-11 06h | Ribeirão das Neves | vitima156@webmail.example | pediram código por SMS
+2026-09-15 18h | Ribeirão das Neves | vitima096@mailbr.example | conta zerada depois do suporte
+2026-09-11 15h | Betim | vitima145@webmail.example | atendente disse que era da PixVelox
+2026-09-21 18h | Ribeirão das Neves | vitima258@webmail.example | recebi link de cashback
+2026-09-06 03h | Contagem | vitima131@webmail.example | mensagem com erro de português
+2026-09-14 02h | Contagem | vitima266@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-04 14h | Sabará | vitima189@correio.example | app pediu acesso à tela
+2026-09-26 23h | Betim | vitima070@correio.example | app pediu acesso à tela
+2026-09-21 22h | Belo Horizonte | vitima187@caixa-postal.example | mensagem com erro de português
+2026-09-27 05h | Belo Horizonte | vitima300@mailbr.example | pediram código por SMS
+2026-09-21 07h | Sabará | vitima382@caixa-postal.example | pediram código por SMS
+2026-09-03 05h | Ribeirão das Neves | vitima412@correio.example | recebi link de cashback | remetente: suporte@pixvelox.example
+2026-09-17 10h | Betim | vitima174@mailbr.example | ligaram dizendo ser do banco
+2026-09-27 12h | Sabará | vitima034@correio.example | boleto estranho
+2026-09-26 22h | Ribeirão das Neves | vitima083@caixa-postal.example | mensagem com erro de português
+2026-09-28 03h | Ribeirão das Neves | vitima357@correio.example | conta zerada depois do suporte
+2026-09-20 23h | Ribeirão das Neves | vitima035@webmail.example | atendente disse que era da PixVelox
+2026-09-12 11h | Ribeirão das Neves | vitima218@mailbr.example | boleto estranho
+2026-09-26 12h | Sabará | vitima197@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-11 08h | Contagem | vitima159@correio.example | boleto estranho
+2026-09-23 11h | Sabará | vitima410@webmail.example | conta zerada depois do suporte | remetente: suporte@pixvelox.example
+2026-09-08 05h | Betim | vitima075@caixa-postal.example | mensagem com erro de português
+2026-09-24 11h | Nova Lima | vitima057@caixa-postal.example | boleto estranho
+2026-09-18 18h | Contagem | vitima122@correio.example | recebi link de cashback
+2026-09-03 02h | Belo Horizonte | vitima403@webmail.example | conta zerada depois do suporte
+2026-09-30 13h | Ribeirão das Neves | vitima450@mailbr.example | pediram código por SMS
+2026-09-21 18h | Sabará | vitima063@caixa-postal.example | app pediu acesso à tela
+2026-09-14 18h | Contagem | vitima291@correio.example | ligaram dizendo ser do banco
+2026-09-29 09h | Belo Horizonte | vitima349@caixa-postal.example | perfil falso no Instagram
+2026-09-01 11h | Nova Lima | vitima020@correio.example | atendente disse que era da PixVelox
+2026-09-21 11h | Belo Horizonte | vitima029@correio.example | app pediu acesso à tela
+2026-09-01 19h | Betim | vitima291@mailbr.example | atendente disse que era da PixVelox
+2026-09-11 18h | Belo Horizonte | vitima359@caixa-postal.example | conta zerada depois do suporte
+2026-09-27 20h | Betim | vitima384@mailbr.example | app pediu acesso à tela
+2026-09-22 10h | Betim | vitima480@caixa-postal.example | recebi link de cashback
+2026-09-25 06h | Nova Lima | vitima164@caixa-postal.example | app pediu acesso à tela
+2026-09-18 22h | Betim | vitima123@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-21 01h | Betim | vitima365@mailbr.example | pediram código por SMS
+2026-09-09 05h | Betim | vitima178@caixa-postal.example | mensagem com erro de português
+2026-09-05 11h | Ribeirão das Neves | vitima405@mailbr.example | perfil falso no Instagram
+2026-09-09 21h | Belo Horizonte | vitima201@webmail.example | recebi link de cashback
+2026-09-12 05h | Sabará | vitima077@correio.example | recebi link de cashback
+2026-09-07 16h | Nova Lima | vitima252@correio.example | atendente disse que era da PixVelox
+2026-09-12 15h | Belo Horizonte | vitima134@webmail.example | atendente disse que era da PixVelox
+2026-09-08 21h | Belo Horizonte | vitima245@webmail.example | mensagem com erro de português
+2026-09-24 20h | Ribeirão das Neves | vitima366@correio.example | conta zerada depois do suporte
+2026-09-14 16h | Betim | vitima061@webmail.example | conta zerada depois do suporte
+2026-09-18 01h | Betim | vitima200@correio.example | conta zerada depois do suporte
+2026-09-16 03h | Betim | vitima031@mailbr.example | perfil falso no Instagram
+2026-09-09 23h | Belo Horizonte | vitima153@caixa-postal.example | perfil falso no Instagram
+2026-09-24 08h | Belo Horizonte | vitima169@caixa-postal.example | mensagem com erro de português
+2026-09-30 08h | Sabará | vitima108@mailbr.example | perfil falso no Instagram | link: pixvelox.example/cashback
+2026-09-20 10h | Nova Lima | vitima264@mailbr.example | ligaram dizendo ser do banco
+2026-09-06 21h | Contagem | vitima429@correio.example | conta zerada depois do suporte
+2026-09-23 22h | Betim | vitima054@correio.example | mensagem com erro de português
+2026-09-08 12h | Betim | vitima317@correio.example | mensagem com erro de português
+2026-09-01 06h | Nova Lima | vitima464@caixa-postal.example | recebi link de cashback
+2026-09-30 21h | Ribeirão das Neves | vitima401@caixa-postal.example | mensagem com erro de português | remetente: suporte@pixvelox.example
+2026-09-12 00h | Nova Lima | vitima056@correio.example | conta zerada depois do suporte
+2026-09-24 13h | Belo Horizonte | vitima057@correio.example | recebi link de cashback
+2026-09-08 05h | Sabará | vitima122@correio.example | mensagem com erro de português
+2026-09-09 05h | Sabará | vitima054@mailbr.example | atendente disse que era da PixVelox
+2026-09-09 00h | Nova Lima | vitima327@mailbr.example | boleto estranho
+2026-09-18 13h | Nova Lima | vitima202@correio.example | pediram código por SMS
+2026-09-01 22h | Ribeirão das Neves | vitima332@correio.example | mensagem com erro de português
+2026-09-10 11h | Sabará | vitima029@caixa-postal.example | mensagem com erro de português
+2026-09-30 02h | Belo Horizonte | vitima298@caixa-postal.example | app pediu acesso à tela
+2026-09-18 20h | Sabará | vitima023@correio.example | pediram código por SMS
+2026-09-13 11h | Contagem | vitima251@mailbr.example | conta zerada depois do suporte
+2026-09-21 02h | Ribeirão das Neves | vitima157@mailbr.example | atendente disse que era da PixVelox
+2026-09-30 13h | Ribeirão das Neves | vitima371@mailbr.example | perfil falso no Instagram
+2026-09-30 06h | Nova Lima | vitima183@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-09 07h | Sabará | vitima194@caixa-postal.example | pediram código por SMS
+2026-09-01 19h | Belo Horizonte | vitima147@webmail.example | perfil falso no Instagram
+2026-09-06 15h | Contagem | vitima436@webmail.example | app pediu acesso à tela
+2026-09-23 18h | Belo Horizonte | vitima356@webmail.example | recebi link de cashback
+2026-09-03 15h | Contagem | vitima064@webmail.example | app pediu acesso à tela
+2026-09-30 18h | Nova Lima | vitima285@correio.example | boleto estranho
+2026-09-14 01h | Ribeirão das Neves | vitima382@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-18 03h | Betim | vitima228@correio.example | atendente disse que era da PixVelox
+2026-09-01 17h | Sabará | vitima385@caixa-postal.example | ligaram dizendo ser do banco | link: pixvelox.example/cashback
+2026-09-30 11h | Contagem | vitima127@caixa-postal.example | conta zerada depois do suporte
+2026-09-14 19h | Betim | vitima093@webmail.example | perfil falso no Instagram
+2026-09-27 14h | Belo Horizonte | vitima180@caixa-postal.example | pediram código por SMS
+2026-09-23 05h | Sabará | vitima034@correio.example | boleto estranho
+2026-09-27 22h | Sabará | vitima299@caixa-postal.example | pediram código por SMS
+2026-09-27 20h | Betim | vitima136@mailbr.example | pediram código por SMS
+2026-09-19 17h | Sabará | vitima031@caixa-postal.example | mensagem com erro de português
+2026-09-20 14h | Contagem | vitima032@caixa-postal.example | perfil falso no Instagram
+2026-09-06 19h | Ribeirão das Neves | vitima229@caixa-postal.example | perfil falso no Instagram | remetente: suporte@pixvelox.example
+2026-09-25 05h | Betim | vitima263@mailbr.example | mensagem com erro de português
+2026-09-13 04h | Belo Horizonte | vitima421@mailbr.example | perfil falso no Instagram
+2026-09-26 14h | Betim | vitima404@webmail.example | recebi link de cashback
+2026-09-29 21h | Sabará | vitima385@mailbr.example | app pediu acesso à tela
+2026-09-24 13h | Contagem | vitima371@webmail.example | atendente disse que era da PixVelox
+2026-09-17 16h | Belo Horizonte | vitima088@caixa-postal.example | pediram código por SMS
+2026-09-19 00h | Nova Lima | vitima469@webmail.example | pediram código por SMS
+2026-09-26 20h | Nova Lima | vitima009@correio.example | mensagem com erro de português
+2026-09-25 11h | Belo Horizonte | vitima368@mailbr.example | ligaram dizendo ser do banco
+2026-09-08 12h | Contagem | vitima428@mailbr.example | pediram código por SMS
+2026-09-04 17h | Betim | vitima256@webmail.example | pediram código por SMS
+2026-09-09 00h | Sabará | vitima161@correio.example | boleto estranho
+2026-09-10 08h | Belo Horizonte | vitima132@caixa-postal.example | pediram código por SMS
+2026-09-26 05h | Sabará | vitima147@caixa-postal.example | recebi link de cashback
+2026-09-05 01h | Sabará | vitima009@correio.example | app pediu acesso à tela
+2026-09-25 08h | Betim | vitima071@mailbr.example | conta zerada depois do suporte
+2026-09-02 22h | Sabará | vitima076@webmail.example | perfil falso no Instagram
+2026-09-15 10h | Contagem | vitima041@correio.example | boleto estranho
+2026-09-17 15h | Ribeirão das Neves | vitima300@caixa-postal.example | conta zerada depois do suporte
+2026-09-15 04h | Belo Horizonte | vitima469@webmail.example | mensagem com erro de português
+2026-09-12 06h | Belo Horizonte | vitima420@correio.example | recebi link de cashback
+2026-09-28 00h | Sabará | vitima447@correio.example | perfil falso no Instagram
+2026-09-01 14h | Belo Horizonte | vitima047@mailbr.example | atendente disse que era da PixVelox
+2026-09-27 01h | Contagem | vitima324@mailbr.example | app pediu acesso à tela
+2026-09-22 19h | Ribeirão das Neves | vitima449@correio.example | perfil falso no Instagram
+2026-09-24 21h | Betim | vitima353@mailbr.example | perfil falso no Instagram
+2026-09-15 06h | Sabará | vitima313@caixa-postal.example | mensagem com erro de português
+2026-09-16 16h | Nova Lima | vitima126@webmail.example | pediram código por SMS
+2026-09-24 11h | Nova Lima | vitima417@webmail.example | mensagem com erro de português
+2026-09-13 10h | Betim | vitima451@correio.example | ligaram dizendo ser do banco
+2026-09-11 01h | Contagem | vitima066@correio.example | app pediu acesso à tela | link: pixvelox.example/cashback
+2026-09-17 23h | Nova Lima | vitima460@correio.example | conta zerada depois do suporte
+2026-09-16 11h | Betim | vitima451@caixa-postal.example | perfil falso no Instagram
+2026-09-25 17h | Betim | vitima402@correio.example | boleto estranho
+2026-09-20 04h | Contagem | vitima072@correio.example | app pediu acesso à tela
+2026-09-12 02h | Ribeirão das Neves | vitima263@webmail.example | perfil falso no Instagram
+2026-09-08 23h | Belo Horizonte | vitima277@webmail.example | conta zerada depois do suporte
+2026-09-05 10h | Contagem | vitima328@mailbr.example | conta zerada depois do suporte
+2026-09-02 17h | Contagem | vitima031@mailbr.example | mensagem com erro de português
+2026-09-03 07h | Contagem | vitima410@webmail.example | app pediu acesso à tela
+2026-09-23 22h | Sabará | vitima424@caixa-postal.example | conta zerada depois do suporte
+2026-09-09 13h | Nova Lima | vitima263@correio.example | perfil falso no Instagram
+2026-09-30 20h | Contagem | vitima082@caixa-postal.example | recebi link de cashback
+2026-09-16 01h | Ribeirão das Neves | vitima321@correio.example | perfil falso no Instagram
+2026-09-08 22h | Sabará | vitima033@caixa-postal.example | recebi link de cashback
+2026-09-05 09h | Sabará | vitima055@correio.example | perfil falso no Instagram
+2026-09-12 12h | Nova Lima | vitima309@caixa-postal.example | boleto estranho
+2026-09-15 08h | Sabará | vitima218@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-10 01h | Nova Lima | vitima002@webmail.example | recebi link de cashback
+2026-09-20 07h | Sabará | vitima417@correio.example | mensagem com erro de português
+2026-09-04 01h | Nova Lima | vitima114@webmail.example | perfil falso no Instagram
+2026-09-15 08h | Betim | vitima384@webmail.example | ligaram dizendo ser do banco
+2026-09-17 09h | Contagem | vitima388@correio.example | recebi link de cashback
+2026-09-05 04h | Sabará | vitima462@mailbr.example | boleto estranho
+2026-09-24 16h | Belo Horizonte | vitima441@caixa-postal.example | perfil falso no Instagram
+2026-09-07 09h | Belo Horizonte | vitima074@webmail.example | recebi link de cashback
+2026-09-18 00h | Contagem | vitima248@correio.example | conta zerada depois do suporte
+2026-09-13 22h | Nova Lima | vitima237@correio.example | atendente disse que era da PixVelox
+2026-09-27 17h | Belo Horizonte | vitima457@mailbr.example | app pediu acesso à tela
+2026-09-09 13h | Betim | vitima117@webmail.example | recebi link de cashback
+2026-09-14 21h | Ribeirão das Neves | vitima123@caixa-postal.example | perfil falso no Instagram
+2026-09-23 13h | Contagem | vitima340@correio.example | pediram código por SMS
+2026-09-19 16h | Belo Horizonte | vitima240@mailbr.example | atendente disse que era da PixVelox
+2026-09-10 19h | Betim | vitima166@webmail.example | mensagem com erro de português
+2026-09-28 15h | Sabará | vitima018@webmail.example | pediram código por SMS
+2026-09-06 01h | Betim | vitima305@caixa-postal.example | perfil falso no Instagram
+2026-09-22 02h | Sabará | vitima163@mailbr.example | pediram código por SMS
+2026-09-11 11h | Betim | vitima032@caixa-postal.example | mensagem com erro de português
+2026-09-09 03h | Nova Lima | vitima204@correio.example | boleto estranho
+2026-09-05 14h | Belo Horizonte | vitima259@mailbr.example | pediram código por SMS
+2026-09-26 09h | Betim | vitima151@mailbr.example | atendente disse que era da PixVelox
+2026-09-24 16h | Nova Lima | vitima063@webmail.example | perfil falso no Instagram
+2026-09-06 10h | Ribeirão das Neves | vitima345@correio.example | pediram código por SMS
+2026-09-23 07h | Nova Lima | vitima059@correio.example | conta zerada depois do suporte
+2026-09-16 18h | Nova Lima | vitima190@correio.example | mensagem com erro de português
+2026-09-07 13h | Ribeirão das Neves | vitima305@webmail.example | perfil falso no Instagram
+2026-09-30 07h | Nova Lima | vitima176@correio.example | pediram código por SMS | remetente: suporte@pixvelox.example
+2026-09-10 03h | Nova Lima | vitima094@correio.example | app pediu acesso à tela
+2026-09-07 02h | Ribeirão das Neves | vitima230@mailbr.example | ligaram dizendo ser do banco
+2026-09-24 06h | Nova Lima | vitima170@caixa-postal.example | conta zerada depois do suporte | link: PixVelox.example/bonus
+2026-09-13 11h | Nova Lima | vitima236@caixa-postal.example | mensagem com erro de português
+2026-09-16 06h | Contagem | vitima038@caixa-postal.example | perfil falso no Instagram
+2026-09-18 05h | Betim | vitima454@correio.example | ligaram dizendo ser do banco
+2026-09-14 12h | Sabará | vitima293@webmail.example | app pediu acesso à tela
+2026-09-25 12h | Ribeirão das Neves | vitima117@webmail.example | atendente disse que era da PixVelox
+2026-09-10 17h | Nova Lima | vitima413@correio.example | recebi link de cashback
+2026-09-08 11h | Belo Horizonte | vitima242@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-21 20h | Ribeirão das Neves | vitima013@correio.example | mensagem com erro de português
+2026-09-21 14h | Nova Lima | vitima026@mailbr.example | conta zerada depois do suporte
+2026-09-24 11h | Nova Lima | vitima355@mailbr.example | atendente disse que era da PixVelox
+2026-09-12 11h | Betim | vitima419@correio.example | ligaram dizendo ser do banco
+2026-09-09 11h | Belo Horizonte | vitima440@caixa-postal.example | app pediu acesso à tela
+2026-09-12 04h | Contagem | vitima398@correio.example | ligaram dizendo ser do banco
+2026-09-26 18h | Sabará | vitima464@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-04 10h | Contagem | vitima170@caixa-postal.example | perfil falso no Instagram
+2026-09-07 21h | Nova Lima | vitima077@mailbr.example | ligaram dizendo ser do banco
+2026-09-20 14h | Betim | vitima076@correio.example | pediram código por SMS
+2026-09-28 05h | Contagem | vitima185@caixa-postal.example | conta zerada depois do suporte
+2026-09-07 22h | Ribeirão das Neves | vitima011@caixa-postal.example | boleto estranho
+2026-09-18 06h | Contagem | vitima471@webmail.example | recebi link de cashback
+2026-09-16 14h | Belo Horizonte | vitima016@caixa-postal.example | conta zerada depois do suporte
+2026-09-26 10h | Nova Lima | vitima113@correio.example | perfil falso no Instagram
+2026-09-13 12h | Belo Horizonte | vitima229@webmail.example | boleto estranho
+2026-09-29 12h | Ribeirão das Neves | vitima086@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-06 04h | Contagem | vitima427@mailbr.example | recebi link de cashback
+2026-09-28 14h | Ribeirão das Neves | vitima001@webmail.example | atendente disse que era da PixVelox
+2026-09-19 06h | Belo Horizonte | vitima479@correio.example | mensagem com erro de português
+2026-09-20 08h | Belo Horizonte | vitima051@webmail.example | mensagem com erro de português
+2026-09-05 21h | Betim | vitima064@webmail.example | app pediu acesso à tela
+2026-09-03 20h | Nova Lima | vitima176@correio.example | boleto estranho | link: pixvelox.example/cashback
+2026-09-26 04h | Contagem | vitima420@correio.example | boleto estranho
+2026-09-26 23h | Nova Lima | vitima400@mailbr.example | pediram código por SMS
+2026-09-09 06h | Ribeirão das Neves | vitima275@correio.example | app pediu acesso à tela
+2026-09-14 20h | Contagem | vitima366@webmail.example | boleto estranho
+2026-09-24 04h | Betim | vitima065@mailbr.example | perfil falso no Instagram
+2026-09-14 22h | Belo Horizonte | vitima190@correio.example | mensagem com erro de português
+2026-09-04 11h | Contagem | vitima189@webmail.example | perfil falso no Instagram
+2026-09-05 08h | Betim | vitima230@mailbr.example | boleto estranho
+2026-09-11 17h | Sabará | vitima050@caixa-postal.example | boleto estranho
+2026-09-08 23h | Sabará | vitima234@caixa-postal.example | conta zerada depois do suporte
+2026-09-27 22h | Sabará | vitima037@correio.example | mensagem com erro de português
+2026-09-11 11h | Betim | vitima137@mailbr.example | conta zerada depois do suporte
+2026-09-28 19h | Contagem | vitima360@caixa-postal.example | mensagem com erro de português
+2026-09-03 16h | Belo Horizonte | vitima429@caixa-postal.example | mensagem com erro de português
+2026-09-14 05h | Ribeirão das Neves | vitima361@correio.example | recebi link de cashback
+2026-09-09 17h | Betim | vitima019@caixa-postal.example | perfil falso no Instagram
+2026-09-22 13h | Sabará | vitima181@mailbr.example | atendente disse que era da PixVelox
+2026-09-17 17h | Betim | vitima432@mailbr.example | perfil falso no Instagram
+2026-09-12 00h | Contagem | vitima403@webmail.example | app pediu acesso à tela
+2026-09-26 01h | Betim | vitima329@mailbr.example | pediram código por SMS
+2026-09-21 22h | Ribeirão das Neves | vitima343@webmail.example | atendente disse que era da PixVelox
+2026-09-17 13h | Contagem | vitima190@webmail.example | perfil falso no Instagram
+2026-09-08 19h | Belo Horizonte | vitima144@correio.example | app pediu acesso à tela
+2026-09-01 15h | Betim | vitima063@caixa-postal.example | pediram código por SMS
+2026-09-19 14h | Nova Lima | vitima159@webmail.example | conta zerada depois do suporte
+2026-09-22 11h | Betim | vitima477@correio.example | boleto estranho
+2026-09-09 12h | Sabará | vitima375@caixa-postal.example | app pediu acesso à tela
+2026-09-21 02h | Contagem | vitima027@caixa-postal.example | perfil falso no Instagram
+2026-09-03 17h | Betim | vitima448@webmail.example | pediram código por SMS
+2026-09-07 04h | Ribeirão das Neves | vitima330@correio.example | pediram código por SMS
+2026-09-20 18h | Sabará | vitima235@mailbr.example | atendente disse que era da PixVelox
+2026-09-30 03h | Nova Lima | vitima105@correio.example | pediram código por SMS
+2026-09-26 16h | Belo Horizonte | vitima350@webmail.example | atendente disse que era da PixVelox
+2026-09-14 07h | Sabará | vitima096@webmail.example | app pediu acesso à tela
+2026-09-28 06h | Belo Horizonte | vitima262@caixa-postal.example | perfil falso no Instagram
+2026-09-13 14h | Contagem | vitima190@caixa-postal.example | mensagem com erro de português
+2026-09-17 05h | Belo Horizonte | vitima469@caixa-postal.example | mensagem com erro de português
+2026-09-23 18h | Belo Horizonte | vitima089@mailbr.example | perfil falso no Instagram
+2026-09-06 21h | Sabará | vitima119@mailbr.example | conta zerada depois do suporte
+2026-09-01 13h | Contagem | vitima084@correio.example | ligaram dizendo ser do banco
+2026-09-06 13h | Contagem | vitima037@webmail.example | conta zerada depois do suporte
+2026-09-05 04h | Sabará | vitima122@webmail.example | mensagem com erro de português
+2026-09-29 07h | Belo Horizonte | vitima464@caixa-postal.example | perfil falso no Instagram
+2026-09-17 05h | Betim | vitima077@mailbr.example | perfil falso no Instagram
+2026-09-16 05h | Betim | vitima119@correio.example | pediram código por SMS
+2026-09-19 06h | Ribeirão das Neves | vitima160@correio.example | atendente disse que era da PixVelox
+2026-09-27 19h | Contagem | vitima475@mailbr.example | mensagem com erro de português | remetente: suporte@pixvelox.example
+2026-09-25 00h | Nova Lima | vitima014@webmail.example | app pediu acesso à tela
+2026-09-20 13h | Betim | vitima158@correio.example | app pediu acesso à tela
+2026-09-14 04h | Contagem | vitima253@caixa-postal.example | recebi link de cashback
+2026-09-20 16h | Ribeirão das Neves | vitima393@correio.example | pediram código por SMS
+2026-09-02 18h | Betim | vitima249@correio.example | pediram código por SMS
+2026-09-17 19h | Betim | vitima308@webmail.example | mensagem com erro de português
+2026-09-25 08h | Belo Horizonte | vitima146@correio.example | ligaram dizendo ser do banco
+2026-09-15 04h | Ribeirão das Neves | vitima001@webmail.example | perfil falso no Instagram
+2026-09-13 03h | Betim | vitima231@caixa-postal.example | recebi link de cashback
+2026-09-25 02h | Sabará | vitima012@caixa-postal.example | boleto estranho
+2026-09-07 05h | Ribeirão das Neves | vitima463@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-11 23h | Sabará | vitima217@caixa-postal.example | boleto estranho
+2026-09-11 15h | Betim | vitima270@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-28 10h | Nova Lima | vitima331@mailbr.example | perfil falso no Instagram
+2026-09-10 04h | Ribeirão das Neves | vitima384@webmail.example | perfil falso no Instagram
+2026-09-04 21h | Ribeirão das Neves | vitima248@caixa-postal.example | boleto estranho
+2026-09-03 09h | Sabará | vitima042@webmail.example | app pediu acesso à tela
+2026-09-05 14h | Betim | vitima083@correio.example | app pediu acesso à tela
+2026-09-29 07h | Betim | vitima064@mailbr.example | atendente disse que era da PixVelox
+2026-09-25 22h | Contagem | vitima393@caixa-postal.example | pediram código por SMS
+2026-09-04 06h | Nova Lima | vitima362@mailbr.example | boleto estranho
+2026-09-06 12h | Ribeirão das Neves | vitima206@caixa-postal.example | recebi link de cashback
+2026-09-11 04h | Sabará | vitima343@caixa-postal.example | pediram código por SMS
+2026-09-16 15h | Betim | vitima007@caixa-postal.example | app pediu acesso à tela
+2026-09-25 00h | Sabará | vitima374@webmail.example | boleto estranho
+2026-09-18 02h | Betim | vitima106@correio.example | atendente disse que era da PixVelox
+2026-09-12 12h | Contagem | vitima441@correio.example | perfil falso no Instagram
+2026-09-15 15h | Contagem | vitima134@mailbr.example | app pediu acesso à tela
+2026-09-28 21h | Ribeirão das Neves | vitima223@mailbr.example | pediram código por SMS
+2026-09-04 02h | Belo Horizonte | vitima376@mailbr.example | pediram código por SMS
+2026-09-14 00h | Sabará | vitima291@mailbr.example | recebi link de cashback
+2026-09-12 08h | Belo Horizonte | vitima255@correio.example | perfil falso no Instagram
+2026-09-08 13h | Contagem | vitima224@correio.example | atendente disse que era da PixVelox
+2026-09-10 17h | Ribeirão das Neves | vitima112@webmail.example | ligaram dizendo ser do banco
+2026-09-09 18h | Sabará | vitima426@mailbr.example | pediram código por SMS
+2026-09-04 09h | Belo Horizonte | vitima241@webmail.example | conta zerada depois do suporte
+2026-09-04 09h | Contagem | vitima247@mailbr.example | recebi link de cashback
+2026-09-14 05h | Ribeirão das Neves | vitima099@mailbr.example | atendente disse que era da PixVelox
+2026-09-14 05h | Contagem | vitima073@caixa-postal.example | boleto estranho
+2026-09-27 14h | Contagem | vitima270@caixa-postal.example | app pediu acesso à tela
+2026-09-30 13h | Ribeirão das Neves | vitima049@webmail.example | perfil falso no Instagram
+2026-09-26 13h | Betim | vitima184@mailbr.example | atendente disse que era da PixVelox
+2026-09-16 22h | Ribeirão das Neves | vitima056@correio.example | atendente disse que era da PixVelox
+2026-09-14 16h | Belo Horizonte | vitima441@correio.example | pediram código por SMS
+2026-09-28 15h | Belo Horizonte | vitima364@mailbr.example | conta zerada depois do suporte
+2026-09-09 20h | Ribeirão das Neves | vitima081@webmail.example | pediram código por SMS | link: pixvelox.example/cashback
+2026-09-04 20h | Sabará | vitima052@caixa-postal.example | pediram código por SMS
+2026-09-11 19h | Contagem | vitima150@webmail.example | perfil falso no Instagram
+2026-09-11 23h | Sabará | vitima358@webmail.example | recebi link de cashback
+2026-09-28 03h | Ribeirão das Neves | vitima178@correio.example | conta zerada depois do suporte
+2026-09-14 03h | Nova Lima | vitima375@mailbr.example | perfil falso no Instagram
+2026-09-23 01h | Nova Lima | vitima325@webmail.example | pediram código por SMS
+2026-09-27 09h | Contagem | vitima431@correio.example | ligaram dizendo ser do banco
+2026-09-25 21h | Belo Horizonte | vitima356@caixa-postal.example | perfil falso no Instagram
+2026-09-08 21h | Ribeirão das Neves | vitima137@caixa-postal.example | pediram código por SMS
+2026-09-08 21h | Nova Lima | vitima369@caixa-postal.example | app pediu acesso à tela
+2026-09-08 02h | Nova Lima | vitima386@webmail.example | ligaram dizendo ser do banco
+2026-09-03 19h | Belo Horizonte | vitima437@mailbr.example | perfil falso no Instagram | link: pixvelox.example/cashback
+2026-09-04 02h | Nova Lima | vitima136@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-29 02h | Betim | vitima006@caixa-postal.example | perfil falso no Instagram
+2026-09-17 15h | Sabará | vitima066@caixa-postal.example | mensagem com erro de português
+2026-09-29 03h | Sabará | vitima310@webmail.example | ligaram dizendo ser do banco
+2026-09-13 00h | Ribeirão das Neves | vitima004@correio.example | app pediu acesso à tela
+2026-09-08 19h | Nova Lima | vitima062@correio.example | pediram código por SMS
+2026-09-17 12h | Nova Lima | vitima277@mailbr.example | boleto estranho | remetente: suporte@pixvelox.example
+2026-09-29 11h | Nova Lima | vitima217@correio.example | recebi link de cashback
+2026-09-26 20h | Contagem | vitima063@correio.example | conta zerada depois do suporte
+2026-09-25 09h | Belo Horizonte | vitima151@mailbr.example | app pediu acesso à tela
+2026-09-04 20h | Ribeirão das Neves | vitima169@webmail.example | pediram código por SMS
+2026-09-23 18h | Nova Lima | vitima043@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-06 03h | Nova Lima | vitima205@mailbr.example | perfil falso no Instagram
+2026-09-22 11h | Contagem | vitima350@caixa-postal.example | conta zerada depois do suporte
+2026-09-26 19h | Ribeirão das Neves | vitima024@webmail.example | perfil falso no Instagram
+2026-09-15 10h | Contagem | vitima358@webmail.example | conta zerada depois do suporte
+2026-09-21 18h | Belo Horizonte | vitima061@caixa-postal.example | perfil falso no Instagram
+2026-09-28 04h | Contagem | vitima214@correio.example | perfil falso no Instagram
+2026-09-07 18h | Betim | vitima310@webmail.example | perfil falso no Instagram
+2026-09-07 00h | Betim | vitima278@caixa-postal.example | boleto estranho
+2026-09-15 20h | Contagem | vitima281@caixa-postal.example | boleto estranho
+2026-09-01 07h | Nova Lima | vitima078@correio.example | conta zerada depois do suporte
+2026-09-24 16h | Ribeirão das Neves | vitima101@mailbr.example | ligaram dizendo ser do banco
+2026-09-01 11h | Betim | vitima222@correio.example | recebi link de cashback
+2026-09-19 11h | Belo Horizonte | vitima025@mailbr.example | boleto estranho
+2026-09-16 23h | Betim | vitima062@webmail.example | mensagem com erro de português
+2026-09-25 13h | Nova Lima | vitima126@webmail.example | boleto estranho
+2026-09-25 14h | Ribeirão das Neves | vitima154@caixa-postal.example | pediram código por SMS
+2026-09-02 05h | Sabará | vitima015@mailbr.example | atendente disse que era da PixVelox
+2026-09-09 19h | Contagem | vitima265@caixa-postal.example | conta zerada depois do suporte
+2026-09-08 05h | Belo Horizonte | vitima129@mailbr.example | recebi link de cashback
+2026-09-03 02h | Betim | vitima349@webmail.example | conta zerada depois do suporte
+2026-09-27 17h | Ribeirão das Neves | vitima274@caixa-postal.example | boleto estranho
+2026-09-26 01h | Nova Lima | vitima328@webmail.example | pediram código por SMS
+2026-09-29 01h | Nova Lima | vitima162@caixa-postal.example | boleto estranho | link: pixvelox.example/cashback
+2026-09-21 15h | Nova Lima | vitima254@webmail.example | mensagem com erro de português
+2026-09-09 10h | Betim | vitima277@correio.example | ligaram dizendo ser do banco
+2026-09-08 12h | Sabará | vitima152@caixa-postal.example | boleto estranho
+2026-09-20 21h | Nova Lima | vitima107@caixa-postal.example | mensagem com erro de português
+2026-09-23 12h | Ribeirão das Neves | vitima366@mailbr.example | recebi link de cashback
+2026-09-02 07h | Contagem | vitima475@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-01 01h | Ribeirão das Neves | vitima423@correio.example | atendente disse que era da PixVelox
+2026-09-05 09h | Belo Horizonte | vitima249@correio.example | boleto estranho
+2026-09-23 00h | Nova Lima | vitima052@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-05 03h | Contagem | vitima434@caixa-postal.example | boleto estranho
+2026-09-27 00h | Nova Lima | vitima330@caixa-postal.example | conta zerada depois do suporte
+2026-09-08 10h | Betim | vitima380@webmail.example | boleto estranho
+2026-09-11 20h | Contagem | vitima292@webmail.example | app pediu acesso à tela
+2026-09-03 18h | Betim | vitima180@mailbr.example | recebi link de cashback
+2026-09-02 12h | Ribeirão das Neves | vitima480@correio.example | perfil falso no Instagram
+2026-09-14 04h | Nova Lima | vitima431@correio.example | conta zerada depois do suporte
+2026-09-26 10h | Contagem | vitima353@correio.example | atendente disse que era da PixVelox
+2026-09-30 23h | Sabará | vitima187@mailbr.example | mensagem com erro de português
+2026-09-15 20h | Ribeirão das Neves | vitima305@caixa-postal.example | boleto estranho
+2026-09-07 11h | Belo Horizonte | vitima102@mailbr.example | app pediu acesso à tela
+2026-09-09 00h | Contagem | vitima132@caixa-postal.example | perfil falso no Instagram
+2026-09-18 14h | Betim | vitima475@caixa-postal.example | recebi link de cashback
+2026-09-22 20h | Nova Lima | vitima371@mailbr.example | app pediu acesso à tela
+2026-09-22 03h | Contagem | vitima419@correio.example | perfil falso no Instagram
+2026-09-23 12h | Contagem | vitima435@webmail.example | pediram código por SMS
+2026-09-08 18h | Sabará | vitima369@mailbr.example | atendente disse que era da PixVelox
+2026-09-21 14h | Betim | vitima335@mailbr.example | conta zerada depois do suporte
+2026-09-01 12h | Ribeirão das Neves | vitima128@caixa-postal.example | conta zerada depois do suporte
+2026-09-20 23h | Sabará | vitima047@mailbr.example | app pediu acesso à tela
+2026-09-05 23h | Nova Lima | vitima477@webmail.example | ligaram dizendo ser do banco
+2026-09-13 18h | Nova Lima | vitima467@correio.example | ligaram dizendo ser do banco
+2026-09-12 23h | Betim | vitima054@mailbr.example | mensagem com erro de português
+2026-09-01 11h | Belo Horizonte | vitima306@correio.example | mensagem com erro de português
+2026-09-07 17h | Belo Horizonte | vitima235@mailbr.example | conta zerada depois do suporte
+2026-09-16 08h | Nova Lima | vitima069@correio.example | pediram código por SMS
+2026-09-05 23h | Ribeirão das Neves | vitima432@correio.example | recebi link de cashback
+2026-09-14 00h | Ribeirão das Neves | vitima377@correio.example | recebi link de cashback
+2026-09-25 21h | Betim | vitima085@webmail.example | conta zerada depois do suporte
+2026-09-04 13h | Ribeirão das Neves | vitima291@mailbr.example | perfil falso no Instagram
+2026-09-23 03h | Sabará | vitima206@caixa-postal.example | perfil falso no Instagram
+2026-09-23 18h | Ribeirão das Neves | vitima092@mailbr.example | conta zerada depois do suporte
+2026-09-01 15h | Sabará | vitima152@webmail.example | boleto estranho
+2026-09-05 04h | Nova Lima | vitima419@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-04 01h | Sabará | vitima177@webmail.example | conta zerada depois do suporte
+2026-09-09 19h | Belo Horizonte | vitima230@mailbr.example | ligaram dizendo ser do banco
+2026-09-30 23h | Betim | vitima164@correio.example | boleto estranho
+2026-09-03 09h | Ribeirão das Neves | vitima120@mailbr.example | app pediu acesso à tela
+2026-09-12 08h | Belo Horizonte | vitima283@caixa-postal.example | boleto estranho
+2026-09-07 12h | Ribeirão das Neves | vitima450@correio.example | boleto estranho
+2026-09-20 04h | Nova Lima | vitima185@webmail.example | conta zerada depois do suporte
+2026-09-06 08h | Nova Lima | vitima144@correio.example | boleto estranho
+2026-09-25 09h | Nova Lima | vitima339@webmail.example | app pediu acesso à tela
+2026-09-22 07h | Betim | vitima047@mailbr.example | mensagem com erro de português
+2026-09-15 17h | Contagem | vitima219@webmail.example | boleto estranho
+2026-09-26 11h | Contagem | vitima355@webmail.example | recebi link de cashback
+2026-09-18 08h | Ribeirão das Neves | vitima360@webmail.example | ligaram dizendo ser do banco
+2026-09-19 00h | Sabará | vitima049@correio.example | mensagem com erro de português
+2026-09-23 22h | Nova Lima | vitima084@caixa-postal.example | conta zerada depois do suporte
+2026-09-05 15h | Contagem | vitima476@mailbr.example | app pediu acesso à tela
+2026-09-18 14h | Sabará | vitima421@caixa-postal.example | atendente disse que era da PixVelox
+2026-09-05 20h | Nova Lima | vitima182@correio.example | pediram código por SMS
+2026-09-29 07h | Betim | vitima384@correio.example | app pediu acesso à tela
+2026-09-09 20h | Nova Lima | vitima406@correio.example | ligaram dizendo ser do banco
+2026-09-08 17h | Ribeirão das Neves | vitima153@caixa-postal.example | recebi link de cashback
+2026-09-26 19h | Sabará | vitima093@caixa-postal.example | boleto estranho
+2026-09-21 22h | Betim | vitima304@caixa-postal.example | boleto estranho
+2026-09-23 00h | Ribeirão das Neves | vitima237@webmail.example | conta zerada depois do suporte
+2026-09-06 10h | Ribeirão das Neves | vitima075@mailbr.example | mensagem com erro de português
+2026-09-19 09h | Betim | vitima237@webmail.example | pediram código por SMS
+2026-09-01 05h | Sabará | vitima434@mailbr.example | atendente disse que era da PixVelox
+2026-09-20 18h | Contagem | vitima152@correio.example | pediram código por SMS
+2026-09-10 14h | Ribeirão das Neves | vitima393@mailbr.example | app pediu acesso à tela
+2026-09-12 03h | Contagem | vitima464@correio.example | perfil falso no Instagram
+2026-09-27 13h | Contagem | vitima421@mailbr.example | app pediu acesso à tela
+2026-09-07 10h | Sabará | vitima418@webmail.example | perfil falso no Instagram
+2026-09-15 19h | Sabará | vitima230@correio.example | perfil falso no Instagram
+2026-09-25 14h | Nova Lima | vitima467@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-28 05h | Betim | vitima051@mailbr.example | perfil falso no Instagram
+2026-09-24 22h | Contagem | vitima469@webmail.example | recebi link de cashback
+2026-09-08 05h | Contagem | vitima334@caixa-postal.example | recebi link de cashback
+2026-09-15 23h | Betim | vitima078@correio.example | pediram código por SMS
+2026-09-10 12h | Belo Horizonte | vitima112@correio.example | boleto estranho
+2026-09-11 11h | Belo Horizonte | vitima351@caixa-postal.example | boleto estranho
+2026-09-27 18h | Contagem | vitima022@correio.example | atendente disse que era da PixVelox
+2026-09-22 17h | Ribeirão das Neves | vitima243@mailbr.example | app pediu acesso à tela
+2026-09-19 20h | Betim | vitima212@mailbr.example | app pediu acesso à tela
+2026-09-19 17h | Contagem | vitima432@caixa-postal.example | mensagem com erro de português
+2026-09-02 03h | Belo Horizonte | vitima005@mailbr.example | recebi link de cashback
+2026-09-22 09h | Betim | vitima136@correio.example | pediram código por SMS
+2026-09-03 13h | Ribeirão das Neves | vitima145@caixa-postal.example | pediram código por SMS
+2026-09-25 18h | Sabará | vitima339@mailbr.example | recebi link de cashback
+2026-09-28 01h | Belo Horizonte | vitima147@webmail.example | boleto estranho
+2026-09-21 02h | Nova Lima | vitima303@mailbr.example | atendente disse que era da PixVelox
+2026-09-10 19h | Nova Lima | vitima059@correio.example | atendente disse que era da PixVelox
+2026-09-07 00h | Ribeirão das Neves | vitima234@webmail.example | boleto estranho
+2026-09-07 03h | Betim | vitima325@caixa-postal.example | ligaram dizendo ser do banco
+2026-09-26 23h | Ribeirão das Neves | vitima009@mailbr.example | perfil falso no Instagram
+2026-09-07 20h | Ribeirão das Neves | vitima064@caixa-postal.example | recebi link de cashback
+2026-09-15 05h | Betim | vitima075@caixa-postal.example | boleto estranho
+2026-09-13 08h | Nova Lima | vitima024@webmail.example | boleto estranho
+2026-09-25 02h | Ribeirão das Neves | vitima240@webmail.example | recebi link de cashback
+2026-09-24 07h | Belo Horizonte | vitima154@correio.example | perfil falso no Instagram
+2026-09-03 08h | Betim | vitima338@mailbr.example | conta zerada depois do suporte
+2026-09-27 02h | Belo Horizonte | vitima141@webmail.example | conta zerada depois do suporte
+2026-09-14 07h | Contagem | vitima229@webmail.example | recebi link de cashback
+2026-09-24 12h | Belo Horizonte | vitima001@webmail.example | conta zerada depois do suporte
+2026-09-10 00h | Betim | vitima457@caixa-postal.example | perfil falso no Instagram
+2026-09-13 17h | Belo Horizonte | vitima195@webmail.example | mensagem com erro de português
+2026-09-23 04h | Contagem | vitima342@mailbr.example | pediram código por SMS
+2026-09-10 06h | Belo Horizonte | vitima249@caixa-postal.example | app pediu acesso à tela
+2026-09-18 23h | Nova Lima | vitima277@webmail.example | app pediu acesso à tela
+2026-09-06 20h | Betim | vitima284@caixa-postal.example | mensagem com erro de português
+2026-09-22 13h | Belo Horizonte | vitima091@correio.example | perfil falso no Instagram
+2026-09-06 10h | Nova Lima | vitima307@correio.example | perfil falso no Instagram
+2026-09-06 08h | Belo Horizonte | vitima153@webmail.example | pediram código por SMS
+2026-09-21 01h | Ribeirão das Neves | vitima093@webmail.example | ligaram dizendo ser do banco | link: PixVelox.example/bonus
+2026-09-22 16h | Betim | vitima207@caixa-postal.example | mensagem com erro de português
+2026-09-12 19h | Betim | vitima150@webmail.example | atendente disse que era da PixVelox
+2026-09-15 23h | Betim | vitima066@caixa-postal.example | app pediu acesso à tela
+2026-09-17 09h | Contagem | vitima036@correio.example | boleto estranho
+2026-09-26 21h | Sabará | vitima447@webmail.example | conta zerada depois do suporte
+2026-09-28 04h | Betim | vitima019@webmail.example | mensagem com erro de português
+2026-09-23 03h | Sabará | vitima124@caixa-postal.example | pediram código por SMS
+2026-09-10 09h | Ribeirão das Neves | vitima196@correio.example | perfil falso no Instagram
+2026-09-06 05h | Belo Horizonte | vitima215@correio.example | ligaram dizendo ser do banco
+2026-09-24 13h | Nova Lima | vitima334@mailbr.example | app pediu acesso à tela

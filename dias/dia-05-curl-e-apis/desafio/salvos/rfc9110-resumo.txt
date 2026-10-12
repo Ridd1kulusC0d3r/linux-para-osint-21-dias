@@ -1,0 +1,3 @@
+RFC 9110 — HTTP Semantics (resumo do curso)
+301 = mudou de endereço para sempre; 302 = mudou temporariamente;
+o novo endereço vem no cabeçalho Location.
