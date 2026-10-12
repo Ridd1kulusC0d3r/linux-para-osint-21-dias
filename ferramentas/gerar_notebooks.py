@@ -149,7 +149,7 @@ def main() -> int:
     SAIDA.mkdir(exist_ok=True)
     desatualizados = []
     for pasta in sorted((RAIZ / "dias").glob("dia-*")):
-        if not (pasta / "comandos.sh").exists():
+        if not (pasta / "comandos.sh").exists() or not (pasta / "README.md").exists():
             continue
         nn = pasta.name.split("-")[1]
         destino = SAIDA / f"dia-{nn}.ipynb"
